@@ -6,7 +6,7 @@
 ## Key Features
 - Automatically downloads character data, CVs, skill sets, and relic recommendations.
 - Processes and organizes data into versioned input/output directories.
-- Simple configuration of version numbers for each new update.
+- Command-line configuration of version numbers for each new update.
 
 ## Requirements
 
@@ -32,21 +32,21 @@ Make sure you have the following:
    ```bash
    # No need to install dependencies for now, but if needed in the future:
    # pip install -r requirements.txt
+   ```
 
 ## Usage
 
-1. **Set the Version:**
-   - Update the version number in the `src/main.py` file to match the current version.
-   - The input files will be downloaded into the `input/{version}` folder, and the output will be saved in the `output/{version}` folder.
-
-2. **Run the Tool:**
-   Navigate to the `src/` directory and execute the main script:
+1. **Run the Tool:**
+   Navigate to the `src/` directory and run the main script with the desired version number:
    ```bash
    cd src
-   python3 main.py
+   python3 main.py --version <version_number> [--skip-download]
    ```
 
-   The processed data will be available in the `output` directory under the specified version.
+   - Replace `<version_number>` with the current version (e.g., `25`).
+   - If you want to skip downloading the files, add the `--skip-download` flag.
+
+   The input files will be downloaded into the `input/{version}` folder, and the output will be saved in the `output/{version}` folder.
 
 ## Contributing
 

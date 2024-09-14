@@ -1,3 +1,4 @@
+import argparse
 from builders.character_builder import CharacterBuilder
 from builders.character_table_builder import CharacterTableBuilder
 from helpers.csv_helper import CsvHelper
@@ -29,4 +30,18 @@ def run(version: int, skip_download: bool = False) -> None:
 
 
 if __name__ == "__main__":
-    run(25, True)
+    # Set up command-line argument parsing
+    parser = argparse.ArgumentParser(
+        description="Process character data and build tables."
+    )
+    parser.add_argument(
+        "--version", type=int, required=True, help="Version number to process."
+    )
+    parser.add_argument(
+        "--skip-download", action="store_true", help="Skip downloading files."
+    )
+
+    args = parser.parse_args()
+
+    # Run the script with the provided arguments
+    run(args.version, args.skip_download)
