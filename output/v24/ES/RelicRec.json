@@ -1,0 +1,1005 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Paladina de la Iglesia de la Corte Inmaculada",
+      "Guardia de la nieve borrascosa",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "La Belobog de los Arquitectos",
+      "Entidad comercial pangaláctica",
+      "Quilla rota"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Águila del crepúsculo",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Glamoth, frente del firmamento",
+      "Estación sellaespacios",
+      "Arena rutilante"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Forjador de lava",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Habitante del yermo de los bandidos",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Estación sellaespacios",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Prisionero aislado",
+      "Banda del trueno crepitante",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Glamoth, frente del firmamento",
+      "Estación sellaespacios",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Genio de las estrellas relucientes",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Colonipenal, la tierra de los sueños",
+      "Entidad comercial pangaláctica",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Banda del trueno crepitante",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Estación sellaespacios",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Forjador de lava",
+      "Ladrón del rastro meteórico",
+      "Mensajero del espacio hackeado"
+    ],
+    "Set2": [
+      "Colonipenal, la tierra de los sueños",
+      "Flota de los eternos",
+      "Quilla rota"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Cazador del bosque glacial",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Mensajero del espacio hackeado",
+      "Cazador del bosque glacial",
+      "Águila del crepúsculo"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Quilla rota",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Genio de las estrellas relucientes",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Glamoth, frente del firmamento",
+      "Estación sellaespacios",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Banda del trueno crepitante",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Estación sellaespacios",
+      "Salsotto inerte",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Paladina de la Iglesia de la Corte Inmaculada",
+      "Guardia de la nieve borrascosa",
+      "Mensajero del espacio hackeado"
+    ],
+    "Set2": [
+      "La Belobog de los Arquitectos",
+      "Quilla rota",
+      "Arena rutilante"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Transeúnte de la nube pasajera",
+      "Mensajero del espacio hackeado",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Quilla rota",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Cazador del bosque glacial",
+      "Pistolera de la espiga silvestre",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Colonipenal, la tierra de los sueños",
+      "Estación sellaespacios",
+      "Arena rutilante"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Campeona de boxeo callejero",
+      "Ladrón del rastro meteórico",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Águila del crepúsculo",
+      "Prisionero aislado",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Estación sellaespacios",
+      "Talia, paraíso de los forajidos",
+      "Entidad comercial pangaláctica"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Forjador de lava",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Estación sellaespacios",
+      "Arena rutilante",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Transeúnte de la nube pasajera",
+      "Mensajero del espacio hackeado",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Quilla rota",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Campeona de boxeo callejero",
+      "Prisionero aislado",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Estación sellaespacios",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "Gran duque incinerador",
+      "Forjador de lava",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Genio de las estrellas relucientes",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Diferenciador celestial",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Mensajero del espacio hackeado",
+      "Pistolera de la espiga silvestre",
+      "Banda del trueno crepitante"
+    ],
+    "Set2": [
+      "Colonipenal, la tierra de los sueños",
+      "Flota de los eternos",
+      "Estación sellaespacios"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Transeúnte de la nube pasajera",
+      "Pistolera de la espiga silvestre",
+      "Habitante del yermo de los bandidos"
+    ],
+    "Set2": [
+      "Estación sellaespacios",
+      "Vonwacq el vivaz",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "Gran duque incinerador",
+      "Banda del trueno crepitante",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Discípula longeva",
+      "Águila del crepúsculo",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Flota de los eternos",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Campeona de boxeo callejero",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Glamoth, frente del firmamento",
+      "Estación sellaespacios",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Pistolera de la espiga silvestre",
+      "Habitante del yermo de los bandidos",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Colonipenal, la tierra de los sueños",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Discípula longeva",
+      "Guardia de la nieve borrascosa",
+      "Genio de las estrellas relucientes"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Quilla rota",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Cazador del bosque glacial",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Glamoth, frente del firmamento",
+      "Estación sellaespacios",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Prisionero aislado",
+      "Forjador de lava",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Estación sellaespacios",
+      "Entidad comercial pangaláctica",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Transeúnte de la nube pasajera",
+      "Mensajero del espacio hackeado",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Quilla rota",
+      "Flota de los eternos",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Cazador del bosque glacial",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Salsotto inerte",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Pistolera de la espiga silvestre",
+      "Habitante del yermo de los bandidos",
+      "Discípula longeva"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Diferenciador celestial",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Genio de las estrellas relucientes",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Talia, paraíso de los forajidos",
+      "Salsotto inerte",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Mensajero del espacio hackeado",
+      "Pistolera de la espiga silvestre",
+      "Ladrón del rastro meteórico"
+    ],
+    "Set2": [
+      "Quilla rota",
+      "Vonwacq el vivaz",
+      "Flota de los eternos"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Mensajero del espacio hackeado",
+      "Transeúnte de la nube pasajera",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Quilla rota",
+      "Colonipenal, la tierra de los sueños"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Prisionero aislado",
+      "Guardia de la nieve borrascosa",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Entidad comercial pangaláctica",
+      "Flota de los eternos",
+      "Vonwacq el vivaz"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "Intrépida cabalgavientos",
+      "Buceadora pionera del agua muerta",
+      "Campeona de boxeo callejero"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Duran, dinastía de lobos raudos",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Pistolera de la espiga silvestre",
+      "Habitante del yermo de los bandidos",
+      "Buceadora pionera del agua muerta"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Izumo gensei y reino divino de Takama",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Transeúnte de la nube pasajera",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Talia, paraíso de los forajidos",
+      "Quilla rota"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Campeona de boxeo callejero",
+      "Pistolera de la espiga silvestre",
+      "Discípula longeva"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Diferenciador celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Ladrón del rastro meteórico",
+      "Mensajero del espacio hackeado",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Talia, paraíso de los forajidos",
+      "Colonipenal, la tierra de los sueños",
+      "Quilla rota"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Paladina de la Iglesia de la Corte Inmaculada",
+      "Habitante del yermo de los bandidos",
+      "Guardia de la nieve borrascosa"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "La Belobog de los Arquitectos",
+      "Quilla rota"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Habitante del yermo de los bandidos",
+      "Pistolera de la espiga silvestre",
+      "Gran duque incinerador"
+    ],
+    "Set2": [
+      "Glamoth, frente del firmamento",
+      "Salsotto inerte",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Mensajero del espacio hackeado",
+      "Guardia de la nieve borrascosa",
+      "Discípula longeva"
+    ],
+    "Set2": [
+      "Quilla rota",
+      "Colonipenal, la tierra de los sueños",
+      "Flota de los eternos"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Prisionero aislado",
+      "Águila del crepúsculo",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Entidad comercial pangaláctica",
+      "Estación sellaespacios",
+      "Glamoth, frente del firmamento"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Buceadora pionera del agua muerta",
+      "Banda del trueno crepitante",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Izumo gensei y reino divino de Takama",
+      "Salsotto inerte",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Pistolera de la espiga silvestre",
+      "Campeona de boxeo callejero",
+      "Mensajero del espacio hackeado"
+    ],
+    "Set2": [
+      "Flota de los eternos",
+      "Estación sellaespacios",
+      "Quilla rota"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Caballería de hierro plaguicida",
+      "Forjador de lava",
+      "Genio de las estrellas relucientes"
+    ],
+    "Set2": [
+      "Fragua de la linterna Kalpagni",
+      "Talia, paraíso de los forajidos",
+      "Arena rutilante"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Cazador del bosque glacial",
+      "Pistolera de la espiga silvestre",
+      "Discípula longeva"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Estación sellaespacios",
+      "Glamoth, frente del firmamento"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Genio de las estrellas relucientes",
+      "Gran duque incinerador",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Sigonia, desolación sin dueño",
+      "Salsotto inerte",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Ladrón del rastro meteórico",
+      "Campeona de boxeo callejero",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Talia, paraíso de los forajidos",
+      "Arena rutilante",
+      "Estación sellaespacios"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Campeona de boxeo callejero",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Estación sellaespacios",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Campeona de boxeo callejero",
+      "Ladrón del rastro meteórico",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "Arena rutilante",
+      "Estación sellaespacios",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Paladina de la Iglesia de la Corte Inmaculada",
+      "Guardia de la nieve borrascosa",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "La Belobog de los Arquitectos",
+      "Quilla rota",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Paladina de la Iglesia de la Corte Inmaculada",
+      "Guardia de la nieve borrascosa",
+      "Pistolera de la espiga silvestre"
+    ],
+    "Set2": [
+      "La Belobog de los Arquitectos",
+      "Quilla rota",
+      "Talia, paraíso de los forajidos"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Relojero de maquinaciones oníricas",
+      "Ladrón del rastro meteórico",
+      "Mensajero del espacio hackeado"
+    ],
+    "Set2": [
+      "Talia, paraíso de los forajidos",
+      "Flota de los eternos",
+      "Colonipenal, la tierra de los sueños"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Relojero de maquinaciones oníricas",
+      "Ladrón del rastro meteórico",
+      "Mensajero del espacio hackeado"
+    ],
+    "Set2": [
+      "Talia, paraíso de los forajidos",
+      "Flota de los eternos",
+      "Colonipenal, la tierra de los sueños"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

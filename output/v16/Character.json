@@ -1,0 +1,706 @@
+{
+  "1001": {
+    "ID": 1001,
+    "Tag": "mar7th",
+    "Name": "March 7th",
+    "SystemName": "Mar_7th_00",
+    "Rarity": 4,
+    "BaseType": "Knight",
+    "Path": "Preservation",
+    "DamageType": "Ice",
+    "ModelType": "Maid",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Skyler Davenport"
+    },
+    "Camp": "Astral Express"
+  },
+  "1002": {
+    "ID": 1002,
+    "Tag": "danheng",
+    "Name": "Dan Heng",
+    "SystemName": "DanHeng_00",
+    "Rarity": 4,
+    "BaseType": "Rogue",
+    "Path": "The Hunt",
+    "DamageType": "Wind",
+    "ModelType": "Lad",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Nicholas Leung"
+    },
+    "Camp": "Astral Express"
+  },
+  "1003": {
+    "ID": 1003,
+    "Tag": "himeko",
+    "Name": "Himeko",
+    "SystemName": "Himeko_00",
+    "Rarity": 5,
+    "BaseType": "Mage",
+    "Path": "Erudition",
+    "DamageType": "Fire",
+    "ModelType": "Lady",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Cia Court"
+    },
+    "Camp": "Astral Express"
+  },
+  "1004": {
+    "ID": 1004,
+    "Tag": "welt",
+    "Name": "Welt",
+    "SystemName": "Welt_00",
+    "Rarity": 5,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Imaginary",
+    "ModelType": "Male",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Corey Landis"
+    },
+    "Camp": "Astral Express"
+  },
+  "1005": {
+    "ID": 1005,
+    "Tag": "kafka",
+    "Name": "Kafka",
+    "SystemName": "Kafka_00",
+    "Rarity": 5,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Thunder",
+    "ModelType": "Lady",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Cheryl Texiera"
+    },
+    "Camp": "Stellaron Hunters"
+  },
+  "1006": {
+    "ID": 1006,
+    "Tag": "silverwolf",
+    "Name": "Silver Wolf",
+    "SystemName": "Silwolf_00",
+    "Rarity": 5,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Quantum",
+    "ModelType": "Girl",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Melissa Fahn"
+    },
+    "Camp": "Stellaron Hunters"
+  },
+  "1008": {
+    "ID": 1008,
+    "Tag": "arlan",
+    "Name": "Arlan",
+    "SystemName": "Arlan_00",
+    "Rarity": 4,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Thunder",
+    "ModelType": "Boy",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Dani Chambers"
+    },
+    "Camp": "Herta Space Station"
+  },
+  "1009": {
+    "ID": 1009,
+    "Tag": "asta",
+    "Name": "Asta",
+    "SystemName": "Asta_00",
+    "Rarity": 4,
+    "BaseType": "Shaman",
+    "Path": "Harmony",
+    "DamageType": "Fire",
+    "ModelType": "Maid",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "Felecia Angelle"
+    },
+    "Camp": "Herta Space Station"
+  },
+  "1013": {
+    "ID": 1013,
+    "Tag": "herta",
+    "Name": "Herta",
+    "SystemName": "Herta_00",
+    "Rarity": 4,
+    "BaseType": "Mage",
+    "Path": "Erudition",
+    "DamageType": "Ice",
+    "ModelType": "Girl",
+    "Group": 10,
+    "CV": {
+      "CV_EN": "PJ Mattson"
+    },
+    "Camp": "Herta Space Station"
+  },
+  "1101": {
+    "ID": 1101,
+    "Tag": "bronya",
+    "Name": "Bronya",
+    "SystemName": "Bronya_00",
+    "Rarity": 5,
+    "BaseType": "Shaman",
+    "Path": "Harmony",
+    "DamageType": "Wind",
+    "ModelType": "Maid",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Madeline Reiter"
+    },
+    "Camp": "Belobog"
+  },
+  "1102": {
+    "ID": 1102,
+    "Tag": "seele",
+    "Name": "Seele",
+    "SystemName": "Seele_00",
+    "Rarity": 5,
+    "BaseType": "Rogue",
+    "Path": "The Hunt",
+    "DamageType": "Quantum",
+    "ModelType": "Maid",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Molly Zhang"
+    },
+    "Camp": "Belobog"
+  },
+  "1103": {
+    "ID": 1103,
+    "Tag": "serval",
+    "Name": "Serval",
+    "SystemName": "Serval_00",
+    "Rarity": 4,
+    "BaseType": "Mage",
+    "Path": "Erudition",
+    "DamageType": "Thunder",
+    "ModelType": "Lady",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Natalie Van Sistine"
+    },
+    "Camp": "Belobog"
+  },
+  "1104": {
+    "ID": 1104,
+    "Tag": "gepard",
+    "Name": "Gepard",
+    "SystemName": "Gepard_00",
+    "Rarity": 5,
+    "BaseType": "Knight",
+    "Path": "Preservation",
+    "DamageType": "Ice",
+    "ModelType": "Male",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Bryson Baugus"
+    },
+    "Camp": "Belobog"
+  },
+  "1105": {
+    "ID": 1105,
+    "Tag": "natasha",
+    "Name": "Natasha",
+    "SystemName": "Natasha_00",
+    "Rarity": 4,
+    "BaseType": "Priest",
+    "Path": "Abundance",
+    "DamageType": "Physical",
+    "ModelType": "Lady",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Elizabeth Maxwell"
+    },
+    "Camp": "Belobog"
+  },
+  "1106": {
+    "ID": 1106,
+    "Tag": "pela",
+    "Name": "Pela",
+    "SystemName": "Pela_00",
+    "Rarity": 4,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Ice",
+    "ModelType": "Girl",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Xanthe Huynh"
+    },
+    "Camp": "Belobog"
+  },
+  "1107": {
+    "ID": 1107,
+    "Tag": "clara",
+    "Name": "Clara",
+    "SystemName": "Klara_00",
+    "Rarity": 5,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Physical",
+    "ModelType": "Girl",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Emily Sun & D.C. Douglas"
+    },
+    "Camp": "Belobog"
+  },
+  "1108": {
+    "ID": 1108,
+    "Tag": "sampo",
+    "Name": "Sampo",
+    "SystemName": "Sampo_00",
+    "Rarity": 4,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Wind",
+    "ModelType": "Male",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Roger Rose"
+    },
+    "Camp": "Belobog"
+  },
+  "1109": {
+    "ID": 1109,
+    "Tag": "hook",
+    "Name": "Hook",
+    "SystemName": "Hook_00",
+    "Rarity": 4,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Fire",
+    "ModelType": "Kid",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Felecia Angelle"
+    },
+    "Camp": "Belobog"
+  },
+  "1110": {
+    "ID": 1110,
+    "Tag": "lynx",
+    "Name": "Lynx",
+    "SystemName": "Lynx_00",
+    "Rarity": 4,
+    "BaseType": "Priest",
+    "Path": "Abundance",
+    "DamageType": "Quantum",
+    "ModelType": "Girl",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Risa Mei"
+    },
+    "Camp": "Belobog"
+  },
+  "1111": {
+    "ID": 1111,
+    "Tag": "luka",
+    "Name": "Luka",
+    "SystemName": "Luka_00",
+    "Rarity": 4,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Physical",
+    "ModelType": "Lad",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Howard Wang"
+    },
+    "Camp": "Belobog"
+  },
+  "1112": {
+    "ID": 1112,
+    "Tag": "topaz",
+    "Name": "Topaz & Numby",
+    "SystemName": "Topaz_00",
+    "Rarity": 5,
+    "BaseType": "Rogue",
+    "Path": "The Hunt",
+    "DamageType": "Fire",
+    "ModelType": "Maid",
+    "Group": 11,
+    "CV": {
+      "CV_EN": "Sam Slade"
+    },
+    "Camp": "Interastral Peace Corporation"
+  },
+  "1201": {
+    "ID": 1201,
+    "Tag": "qingque",
+    "Name": "Qingque",
+    "SystemName": "Qingque_00",
+    "Rarity": 4,
+    "BaseType": "Mage",
+    "Path": "Erudition",
+    "DamageType": "Quantum",
+    "ModelType": "Girl",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Bryn Apprill"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1202": {
+    "ID": 1202,
+    "Tag": "tingyun",
+    "Name": "Tingyun",
+    "SystemName": "Tingyun_00",
+    "Rarity": 4,
+    "BaseType": "Shaman",
+    "Path": "Harmony",
+    "DamageType": "Thunder",
+    "ModelType": "Maid",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Laci Morgan"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1203": {
+    "ID": 1203,
+    "Tag": "luocha",
+    "Name": "Luocha",
+    "SystemName": "Luocha_00",
+    "Rarity": 5,
+    "BaseType": "Priest",
+    "Path": "Abundance",
+    "DamageType": "Imaginary",
+    "ModelType": "Male",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Craig Lee Thomas"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1204": {
+    "ID": 1204,
+    "Tag": "jingyuan",
+    "Name": "Jing Yuan",
+    "SystemName": "JingYuan_00",
+    "Rarity": 5,
+    "BaseType": "Mage",
+    "Path": "Erudition",
+    "DamageType": "Thunder",
+    "ModelType": "Male",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Alejandro Saab"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1205": {
+    "ID": 1205,
+    "Tag": "blade",
+    "Name": "Blade",
+    "SystemName": "Ren_00",
+    "Rarity": 5,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Wind",
+    "ModelType": "Male",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Daman Mills"
+    },
+    "Camp": "Stellaron Hunters"
+  },
+  "1206": {
+    "ID": 1206,
+    "Tag": "sushang",
+    "Name": "Sushang",
+    "SystemName": "Sushang_00",
+    "Rarity": 4,
+    "BaseType": "Rogue",
+    "Path": "The Hunt",
+    "DamageType": "Physical",
+    "ModelType": "Maid",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Anjali Kunapaneni"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1207": {
+    "ID": 1207,
+    "Tag": "yukong",
+    "Name": "Yukong",
+    "SystemName": "Yukong_00",
+    "Rarity": 4,
+    "BaseType": "Shaman",
+    "Path": "Harmony",
+    "DamageType": "Imaginary",
+    "ModelType": "Lady",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Dawn M. Bennett"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1208": {
+    "ID": 1208,
+    "Tag": "fuxuan",
+    "Name": "Fu Xuan",
+    "SystemName": "FuXuan_00",
+    "Rarity": 5,
+    "BaseType": "Knight",
+    "Path": "Preservation",
+    "DamageType": "Quantum",
+    "ModelType": "Girl",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Sarah Wiedenheft"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1209": {
+    "ID": 1209,
+    "Tag": "yanqing",
+    "Name": "Yanqing",
+    "SystemName": "Yanqing_00",
+    "Rarity": 5,
+    "BaseType": "Rogue",
+    "Path": "The Hunt",
+    "DamageType": "Ice",
+    "ModelType": "Boy",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Amber May"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1210": {
+    "ID": 1210,
+    "Tag": "guinaifen",
+    "Name": "Guinaifen",
+    "SystemName": "Guinaifen_00",
+    "Rarity": 4,
+    "BaseType": "Warlock",
+    "Path": "Nihility",
+    "DamageType": "Fire",
+    "ModelType": "Maid",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Morgan Laur\u00e9"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1211": {
+    "ID": 1211,
+    "Tag": "bailu",
+    "Name": "Bailu",
+    "SystemName": "Bailu_00",
+    "Rarity": 5,
+    "BaseType": "Priest",
+    "Path": "Abundance",
+    "DamageType": "Thunder",
+    "ModelType": "Kid",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Su Ling Chan"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1212": {
+    "ID": 1212,
+    "Tag": "jingliu",
+    "Name": "Jingliu",
+    "SystemName": "Jingliu_00",
+    "Rarity": 5,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Ice",
+    "ModelType": "Maid",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "AmaLee"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1213": {
+    "ID": 1213,
+    "Tag": "danhengil",
+    "Name": "Dan Heng \u2022 Imbibitor Lunae",
+    "SystemName": "DanHengIL_00",
+    "Rarity": 5,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Imaginary",
+    "ModelType": "Lad",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Nicholas Leung"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1214": {
+    "ID": 1214,
+    "Tag": "xueyi",
+    "Name": "Xueyi",
+    "SystemName": "Xueyi_00",
+    "Rarity": 4,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Quantum",
+    "ModelType": "Maid",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Jenny Yokobori"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1215": {
+    "ID": 1215,
+    "Tag": "hanya",
+    "Name": "Hanya",
+    "SystemName": "Hanya_00",
+    "Rarity": 4,
+    "BaseType": "Shaman",
+    "Path": "Harmony",
+    "DamageType": "Physical",
+    "ModelType": "Lady",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Suzie Yeung"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1217": {
+    "ID": 1217,
+    "Tag": "huohuo",
+    "Name": "Huohuo",
+    "SystemName": "Huohuo_00",
+    "Rarity": 5,
+    "BaseType": "Priest",
+    "Path": "Abundance",
+    "DamageType": "Wind",
+    "ModelType": "Girl",
+    "Group": 12,
+    "CV": {
+      "CV_EN": "Courtney Lin & Adam Michael Gold"
+    },
+    "Camp": "The Xianzhou Luofu"
+  },
+  "1302": {
+    "ID": 1302,
+    "Tag": "argenti",
+    "Name": "Argenti",
+    "SystemName": "Argenti_00",
+    "Rarity": 5,
+    "BaseType": "Mage",
+    "Path": "Erudition",
+    "DamageType": "Physical",
+    "ModelType": "Male",
+    "Group": 13,
+    "CV": {
+      "CV_EN": "Adam Michael Gold"
+    },
+    "Camp": "The Knights of Beauty"
+  },
+  "1303": {
+    "ID": 1303,
+    "Tag": "ruanmei",
+    "Name": "Ruan Mei",
+    "SystemName": "RuanMei_00",
+    "Rarity": 5,
+    "BaseType": "Shaman",
+    "Path": "Harmony",
+    "DamageType": "Ice",
+    "ModelType": "Maid",
+    "Group": 13,
+    "CV": {
+      "CV_EN": "Emi Lo"
+    },
+    "Camp": "Herta Space Station"
+  },
+  "1305": {
+    "ID": 1305,
+    "Tag": "drratio",
+    "Name": "Dr. Ratio",
+    "SystemName": "Dr_Ratio_00",
+    "Rarity": 5,
+    "BaseType": "Rogue",
+    "Path": "The Hunt",
+    "DamageType": "Imaginary",
+    "ModelType": "Male",
+    "Group": 13,
+    "CV": {
+      "CV_EN": "Jordan Paul Haro"
+    },
+    "Camp": "Intelligentsia Guild"
+  },
+  "8001": {
+    "ID": 8001,
+    "Tag": "playerboy",
+    "Name": "{NICKNAME}",
+    "SystemName": "PlayerBoy_00",
+    "Rarity": 5,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Physical",
+    "ModelType": "Lad",
+    "Group": 80,
+    "CV": {
+      "CV_EN": "Caleb Yen"
+    },
+    "Camp": "Astral Express"
+  },
+  "8002": {
+    "ID": 8002,
+    "Tag": "playergirl",
+    "Name": "{NICKNAME}",
+    "SystemName": "PlayerGirl_00",
+    "Rarity": 5,
+    "BaseType": "Warrior",
+    "Path": "Destruction",
+    "DamageType": "Physical",
+    "ModelType": "Miss",
+    "Group": 80,
+    "CV": {
+      "CV_EN": "Rachael Chau"
+    },
+    "Camp": "Astral Express"
+  },
+  "8003": {
+    "ID": 8003,
+    "Tag": "playerboy2",
+    "Name": "{NICKNAME}",
+    "SystemName": "PlayerBoy_10",
+    "Rarity": 5,
+    "BaseType": "Knight",
+    "Path": "Preservation",
+    "DamageType": "Fire",
+    "ModelType": "Lad",
+    "Group": 80,
+    "CV": {
+      "CV_EN": ""
+    },
+    "Camp": ""
+  },
+  "8004": {
+    "ID": 8004,
+    "Tag": "playergirl2",
+    "Name": "{NICKNAME}",
+    "SystemName": "PlayerGirl_10",
+    "Rarity": 5,
+    "BaseType": "Knight",
+    "Path": "Preservation",
+    "DamageType": "Fire",
+    "ModelType": "Miss",
+    "Group": 80,
+    "CV": {
+      "CV_EN": ""
+    },
+    "Camp": ""
+  }
+}

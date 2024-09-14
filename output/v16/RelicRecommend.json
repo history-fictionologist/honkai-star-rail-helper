@@ -1,0 +1,1410 @@
+{
+  "1001": {
+    "ID": 1001,
+    "Character": "mar7th",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Pan-Cosmic Commercial Enterprise",
+      "Broken Keel"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "DefenceAddedRatio"
+      }
+    ]
+  },
+  "1002": {
+    "ID": 1002,
+    "Character": "danheng",
+    "Set4": [
+      "Eagle of Twilight Line",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Rutilant Arena"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "WindAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1003": {
+    "ID": 1003,
+    "Character": "himeko",
+    "Set4": [
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "FireAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1004": {
+    "ID": 1004,
+    "Character": "welt",
+    "Set4": [
+      "Wastelander of Banditry Desert",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ImaginaryAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1005": {
+    "ID": 1005,
+    "Character": "kafka",
+    "Set4": [
+      "Prisoner in Deep Confinement",
+      "Band of Sizzling Thunder",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ThunderAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1006": {
+    "ID": 1006,
+    "Character": "silverwolf",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Pan-Cosmic Commercial Enterprise",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "StatusProbabilityBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1008": {
+    "ID": 1008,
+    "Character": "arlan",
+    "Set4": [
+      "Band of Sizzling Thunder",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ThunderAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1009": {
+    "ID": 1009,
+    "Character": "asta",
+    "Set4": [
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Fleet of the Ageless",
+      "Broken Keel"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "FireAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "BreakDamageAddedRatioBase"
+      }
+    ]
+  },
+  "1013": {
+    "ID": 1013,
+    "Character": "herta",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "IceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1101": {
+    "ID": 1101,
+    "Character": "bronya",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Hunter of Glacial Forest",
+      "Eagle of Twilight Line"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1102": {
+    "ID": 1102,
+    "Character": "seele",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1103": {
+    "ID": 1103,
+    "Character": "serval",
+    "Set4": [
+      "Band of Sizzling Thunder",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Inert Salsotto",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ThunderAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1104": {
+    "ID": 1104,
+    "Character": "gepard",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Broken Keel",
+      "Rutilant Arena"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1105": {
+    "ID": 1105,
+    "Character": "natasha",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Messenger Traversing Hackerspace",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HealRatioBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "HPAddedRatio"
+      }
+    ]
+  },
+  "1106": {
+    "ID": 1106,
+    "Character": "pela",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Space Sealing Station",
+      "Rutilant Arena"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "IceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1107": {
+    "ID": 1107,
+    "Character": "clara",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1108": {
+    "ID": 1108,
+    "Character": "sampo",
+    "Set4": [
+      "Eagle of Twilight Line",
+      "Prisoner in Deep Confinement",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry",
+      "Pan-Cosmic Commercial Enterprise"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "WindAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1109": {
+    "ID": 1109,
+    "Character": "hook",
+    "Set4": [
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Rutilant Arena",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "FireAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1110": {
+    "ID": 1110,
+    "Character": "lynx",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HealRatioBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "HPAddedRatio"
+      }
+    ]
+  },
+  "1201": {
+    "ID": 1201,
+    "Character": "qingque",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Celestial Differentiator",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1202": {
+    "ID": 1202,
+    "Character": "tingyun",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Musketeer of Wild Wheat",
+      "Band of Sizzling Thunder"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Fleet of the Ageless",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1203": {
+    "ID": 1203,
+    "Character": "luocha",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Sprightly Vonwacq",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HealRatioBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1204": {
+    "ID": 1204,
+    "Character": "jingyuan",
+    "Set4": [
+      "The Ashblazing Grand Duke",
+      "Band of Sizzling Thunder",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ThunderAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1205": {
+    "ID": 1205,
+    "Character": "blade",
+    "Set4": [
+      "Longevous Disciple",
+      "Eagle of Twilight Line",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Fleet of the Ageless",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "WindAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "HPAddedRatio"
+      }
+    ]
+  },
+  "1206": {
+    "ID": 1206,
+    "Character": "sushang",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "BreakDamageAddedRatioBase"
+      }
+    ]
+  },
+  "1207": {
+    "ID": 1207,
+    "Character": "yukong",
+    "Set4": [
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Penacony, Land of the Dreams",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ImaginaryAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1208": {
+    "ID": 1208,
+    "Character": "fuxuan",
+    "Set4": [
+      "Longevous Disciple",
+      "Guard of Wuthering Snow",
+      "Genius of Brilliant Stars"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1209": {
+    "ID": 1209,
+    "Character": "yanqing",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "IceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1210": {
+    "ID": 1210,
+    "Character": "guinaifen",
+    "Set4": [
+      "Prisoner in Deep Confinement",
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Pan-Cosmic Commercial Enterprise",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "FireAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1211": {
+    "ID": 1211,
+    "Character": "bailu",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Broken Keel",
+      "Fleet of the Ageless",
+      "Sprightly Vonwacq"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HealRatioBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "HPAddedRatio"
+      }
+    ]
+  },
+  "1212": {
+    "ID": 1212,
+    "Character": "jingliu",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "IceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "8001": {
+    "ID": 8001,
+    "Character": "playerboy",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "8002": {
+    "ID": 8002,
+    "Character": "playergirl",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "8003": {
+    "ID": 8003,
+    "Character": "playerboy2",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Broken Keel",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "DefenceAddedRatio"
+      }
+    ]
+  },
+  "8004": {
+    "ID": 8004,
+    "Character": "playergirl2",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Broken Keel",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "DefenceAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "DefenceAddedRatio"
+      }
+    ]
+  },
+  "1111": {
+    "ID": 1111,
+    "Character": "luka",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Prisoner in Deep Confinement",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1112": {
+    "ID": 1112,
+    "Character": "topaz",
+    "Set4": [
+      "The Ashblazing Grand Duke",
+      "Firesmith of Lava-Forging",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "FireAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1213": {
+    "ID": 1213,
+    "Character": "danhengil",
+    "Set4": [
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert",
+      "Longevous Disciple"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Celestial Differentiator",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ImaginaryAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1215": {
+    "ID": 1215,
+    "Character": "hanya",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Broken Keel",
+      "Sprightly Vonwacq",
+      "Fleet of the Ageless"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1217": {
+    "ID": 1217,
+    "Character": "huohuo",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Passerby of Wandering Cloud",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Penacony, Land of the Dreams"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HealRatioBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ]
+  },
+  "1214": {
+    "ID": 1214,
+    "Character": "xueyi",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "BreakDamageAddedRatioBase"
+      }
+    ]
+  },
+  "1302": {
+    "ID": 1302,
+    "Character": "argenti",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Musketeer of Wild Wheat",
+      "Longevous Disciple"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  },
+  "1303": {
+    "ID": 1303,
+    "Character": "ruanmei",
+    "Set4": [
+      "Thief of Shooting Meteor",
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Penacony, Land of the Dreams",
+      "Broken Keel"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "BreakDamageAddedRatioBase"
+      }
+    ]
+  },
+  "1305": {
+    "ID": 1305,
+    "Character": "drratio",
+    "Set4": [
+      "Wastelander of Banditry Desert",
+      "Musketeer of Wild Wheat",
+      "The Ashblazing Grand Duke"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ImaginaryAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ]
+  }
+}

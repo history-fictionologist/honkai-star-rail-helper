@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "净庭教宗的圣骑士",
+      "戍卫风雪的铁卫",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "筑城者的贝洛伯格",
+      "泛银河商业公司",
+      "折断的龙骨"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "晨昏交界的翔鹰",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "苍穹战线格拉默",
+      "太空封印站",
+      "繁星竞技场"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "熔岩锻铸的火匠",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "星体差分机"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "盗匪荒漠的废土客",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "太空封印站",
+      "停转的萨尔索图"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "幽锁深牢的系囚",
+      "激奏雷电的乐队",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "苍穹战线格拉默",
+      "太空封印站",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "繁星璀璨的天才",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "梦想之地匹诺康尼",
+      "泛银河商业公司",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "激奏雷电的乐队",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "太空封印站",
+      "星体差分机"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "熔岩锻铸的火匠",
+      "流星追迹的怪盗",
+      "骇域漫游的信使"
+    ],
+    "Set2": [
+      "梦想之地匹诺康尼",
+      "不老者的仙舟",
+      "折断的龙骨"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "密林卧雪的猎人",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "生命的翁瓦克"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "骇域漫游的信使",
+      "密林卧雪的猎人",
+      "晨昏交界的翔鹰"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "折断的龙骨",
+      "星体差分机"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "繁星璀璨的天才",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "苍穹战线格拉默",
+      "太空封印站",
+      "停转的萨尔索图"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "激奏雷电的乐队",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "太空封印站",
+      "停转的萨尔索图",
+      "生命的翁瓦克"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "净庭教宗的圣骑士",
+      "戍卫风雪的铁卫",
+      "骇域漫游的信使"
+    ],
+    "Set2": [
+      "筑城者的贝洛伯格",
+      "折断的龙骨",
+      "繁星竞技场"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "云无留迹的过客",
+      "骇域漫游的信使",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "折断的龙骨",
+      "生命的翁瓦克"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "密林卧雪的猎人",
+      "野穗伴行的快枪手",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "梦想之地匹诺康尼",
+      "太空封印站",
+      "繁星竞技场"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "街头出身的拳王",
+      "流星追迹的怪盗",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "晨昏交界的翔鹰",
+      "幽锁深牢的系囚",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "太空封印站",
+      "盗贼公国塔利亚",
+      "泛银河商业公司"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "熔岩锻铸的火匠",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "太空封印站",
+      "繁星竞技场",
+      "星体差分机"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "云无留迹的过客",
+      "骇域漫游的信使",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "折断的龙骨",
+      "生命的翁瓦克"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "街头出身的拳王",
+      "幽锁深牢的系囚",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "太空封印站",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "毁烬焚骨的大公",
+      "熔岩锻铸的火匠",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "星体差分机"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "繁星璀璨的天才",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "星体差分机",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "骇域漫游的信使",
+      "野穗伴行的快枪手",
+      "激奏雷电的乐队"
+    ],
+    "Set2": [
+      "梦想之地匹诺康尼",
+      "不老者的仙舟",
+      "太空封印站"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "云无留迹的过客",
+      "野穗伴行的快枪手",
+      "盗匪荒漠的废土客"
+    ],
+    "Set2": [
+      "太空封印站",
+      "生命的翁瓦克",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "毁烬焚骨的大公",
+      "激奏雷电的乐队",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "星体差分机"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "宝命长存的莳者",
+      "晨昏交界的翔鹰",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "不老者的仙舟",
+      "生命的翁瓦克"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "街头出身的拳王",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "苍穹战线格拉默",
+      "太空封印站",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "野穗伴行的快枪手",
+      "盗匪荒漠的废土客",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "梦想之地匹诺康尼",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "宝命长存的莳者",
+      "戍卫风雪的铁卫",
+      "繁星璀璨的天才"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "折断的龙骨",
+      "生命的翁瓦克"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "密林卧雪的猎人",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "苍穹战线格拉默",
+      "太空封印站",
+      "停转的萨尔索图"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "幽锁深牢的系囚",
+      "熔岩锻铸的火匠",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "太空封印站",
+      "泛银河商业公司",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "云无留迹的过客",
+      "骇域漫游的信使",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "折断的龙骨",
+      "不老者的仙舟",
+      "生命的翁瓦克"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "密林卧雪的猎人",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "停转的萨尔索图",
+      "太空封印站"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "野穗伴行的快枪手",
+      "盗匪荒漠的废土客",
+      "宝命长存的莳者"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "星体差分机",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "繁星璀璨的天才",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "盗贼公国塔利亚",
+      "停转的萨尔索图",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "骇域漫游的信使",
+      "野穗伴行的快枪手",
+      "流星追迹的怪盗"
+    ],
+    "Set2": [
+      "折断的龙骨",
+      "生命的翁瓦克",
+      "不老者的仙舟"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "骇域漫游的信使",
+      "云无留迹的过客",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "折断的龙骨",
+      "梦想之地匹诺康尼"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "幽锁深牢的系囚",
+      "戍卫风雪的铁卫",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "泛银河商业公司",
+      "不老者的仙舟",
+      "生命的翁瓦克"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "风举云飞的勇烈",
+      "晨昏交界的翔鹰",
+      "毁烬焚骨的大公"
+    ],
+    "Set2": [
+      "奔狼的都蓝王朝",
+      "停转的萨尔索图",
+      "苍穹战线格拉默"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "风举云飞的勇烈",
+      "死水深潜的先驱",
+      "街头出身的拳王"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "奔狼的都蓝王朝",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "荡除蠹灾的铁骑",
+      "流星追迹的怪盗",
+      "云无留迹的过客"
+    ],
+    "Set2": [
+      "劫火莲灯铸炼宫",
+      "盗贼公国塔利亚",
+      "不老者的仙舟"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "死水深潜的先驱",
+      "激奏雷电的乐队",
+      "风举云飞的勇烈"
+    ],
+    "Set2": [
+      "奔狼的都蓝王朝",
+      "出云显世与高天神国",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "野穗伴行的快枪手",
+      "盗匪荒漠的废土客",
+      "死水深潜的先驱"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "出云显世与高天神国",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "云无留迹的过客",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "盗贼公国塔利亚",
+      "折断的龙骨"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "街头出身的拳王",
+      "野穗伴行的快枪手",
+      "宝命长存的莳者"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "星体差分机"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "流星追迹的怪盗",
+      "骇域漫游的信使",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "盗贼公国塔利亚",
+      "梦想之地匹诺康尼",
+      "折断的龙骨"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "净庭教宗的圣骑士",
+      "盗匪荒漠的废土客",
+      "戍卫风雪的铁卫"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "筑城者的贝洛伯格",
+      "折断的龙骨"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "盗匪荒漠的废土客",
+      "野穗伴行的快枪手",
+      "毁烬焚骨的大公"
+    ],
+    "Set2": [
+      "苍穹战线格拉默",
+      "停转的萨尔索图",
+      "太空封印站"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "骇域漫游的信使",
+      "戍卫风雪的铁卫",
+      "宝命长存的莳者"
+    ],
+    "Set2": [
+      "折断的龙骨",
+      "梦想之地匹诺康尼",
+      "不老者的仙舟"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "幽锁深牢的系囚",
+      "晨昏交界的翔鹰",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "泛银河商业公司",
+      "太空封印站",
+      "苍穹战线格拉默"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "死水深潜的先驱",
+      "激奏雷电的乐队",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "出云显世与高天神国",
+      "停转的萨尔索图",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "野穗伴行的快枪手",
+      "街头出身的拳王",
+      "骇域漫游的信使"
+    ],
+    "Set2": [
+      "不老者的仙舟",
+      "太空封印站",
+      "折断的龙骨"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "荡除蠹灾的铁骑",
+      "熔岩锻铸的火匠",
+      "繁星璀璨的天才"
+    ],
+    "Set2": [
+      "劫火莲灯铸炼宫",
+      "盗贼公国塔利亚",
+      "繁星竞技场"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "密林卧雪的猎人",
+      "野穗伴行的快枪手",
+      "宝命长存的莳者"
+    ],
+    "Set2": [
+      "停转的萨尔索图",
+      "太空封印站",
+      "苍穹战线格拉默"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "繁星璀璨的天才",
+      "毁烬焚骨的大公",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "无主荒星茨冈尼亚",
+      "停转的萨尔索图",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "流星追迹的怪盗",
+      "街头出身的拳王",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "盗贼公国塔利亚",
+      "繁星竞技场",
+      "太空封印站"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "街头出身的拳王",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "太空封印站",
+      "停转的萨尔索图"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "街头出身的拳王",
+      "流星追迹的怪盗",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "繁星竞技场",
+      "太空封印站",
+      "停转的萨尔索图"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "净庭教宗的圣骑士",
+      "戍卫风雪的铁卫",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "筑城者的贝洛伯格",
+      "折断的龙骨",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "净庭教宗的圣骑士",
+      "戍卫风雪的铁卫",
+      "野穗伴行的快枪手"
+    ],
+    "Set2": [
+      "筑城者的贝洛伯格",
+      "折断的龙骨",
+      "盗贼公国塔利亚"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "机心戏梦的钟表匠",
+      "流星追迹的怪盗",
+      "骇域漫游的信使"
+    ],
+    "Set2": [
+      "盗贼公国塔利亚",
+      "不老者的仙舟",
+      "梦想之地匹诺康尼"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "机心戏梦的钟表匠",
+      "流星追迹的怪盗",
+      "骇域漫游的信使"
+    ],
+    "Set2": [
+      "盗贼公国塔利亚",
+      "不老者的仙舟",
+      "梦想之地匹诺康尼"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

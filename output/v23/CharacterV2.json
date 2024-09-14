@@ -1,0 +1,1010 @@
+{
+  "1001": {
+    "Name": "March 7th",
+    "Tag": "mar7th",
+    "SystemName": "Mar_7th_00",
+    "Rarity": 4,
+    "BaseType": "KNIGHT",
+    "PathType": "PRESERVATION",
+    "DamageType": "ICE",
+    "ModelType": "MAID",
+    "Camp": "Astral Express",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Skyler Davenport",
+      "CV_CN": "\u8bfa\u4e9a",
+      "CV_JP": "\u5c0f\u5009\u552f",
+      "CV_KR": "\uc815\ud61c\uc6d0"
+    }
+  },
+  "1002": {
+    "Name": "Dan Heng",
+    "Tag": "danheng",
+    "SystemName": "DanHeng_00",
+    "Rarity": 4,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "WIND",
+    "ModelType": "LAD",
+    "Camp": "Astral Express",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Nicholas Leung",
+      "CV_CN": "\u674e\u6625\u80e4",
+      "CV_JP": "\u4f0a\u6771\u5065\u4eba",
+      "CV_KR": "\uae40\ud61c\uc131"
+    }
+  },
+  "1003": {
+    "Name": "Himeko",
+    "Tag": "himeko",
+    "SystemName": "Himeko_00",
+    "Rarity": 5,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "FIRE",
+    "ModelType": "LADY",
+    "Camp": "Astral Express",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Cia Court",
+      "CV_CN": "\u6797\u7c0c",
+      "CV_JP": "\u7530\u4e2d\u7406\u6075",
+      "CV_KR": "\uae40\ubcf4\ub098"
+    }
+  },
+  "1004": {
+    "Name": "Welt",
+    "Tag": "welt",
+    "SystemName": "Welt_00",
+    "Rarity": 5,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "IMAGINARY",
+    "ModelType": "MALE",
+    "Camp": "Astral Express",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Corey Landis",
+      "CV_CN": "\u5f6d\u535a",
+      "CV_JP": "\u7d30\u8c37\u4f73\u6b63",
+      "CV_KR": "\ud55c\uc2e0"
+    }
+  },
+  "1005": {
+    "Name": "Kafka",
+    "Tag": "kafka",
+    "SystemName": "Kafka_00",
+    "Rarity": 5,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "THUNDER",
+    "ModelType": "LADY",
+    "Camp": "Stellaron Hunters",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Cheryl Texiera",
+      "CV_CN": "\u5f90\u6167",
+      "CV_JP": "\u4f0a\u85e4\u9759",
+      "CV_KR": "\uc0ac\ubb38\uc601"
+    }
+  },
+  "1006": {
+    "Name": "Silver Wolf",
+    "Tag": "silverwolf",
+    "SystemName": "Silwolf_00",
+    "Rarity": 5,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "QUANTUM",
+    "ModelType": "GIRL",
+    "Camp": "Stellaron Hunters",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Melissa Fahn",
+      "CV_CN": "Hanser",
+      "CV_JP": "\u963f\u6f84\u4f73\u5948",
+      "CV_KR": "\uc7a5\ubbf8"
+    }
+  },
+  "1008": {
+    "Name": "Arlan",
+    "Tag": "arlan",
+    "SystemName": "Arlan_00",
+    "Rarity": 4,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "THUNDER",
+    "ModelType": "BOY",
+    "Camp": "Herta Space Station",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Dani Chambers",
+      "CV_CN": "\u9676\u5178",
+      "CV_JP": "\u767d\u77f3\u6dbc\u5b50",
+      "CV_KR": "\uae40\uc728"
+    }
+  },
+  "1009": {
+    "Name": "Asta",
+    "Tag": "asta",
+    "SystemName": "Asta_00",
+    "Rarity": 4,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "FIRE",
+    "ModelType": "MAID",
+    "Camp": "Herta Space Station",
+    "Group": 100,
+    "CV": {
+      "CV_EN": "Felecia Angelle",
+      "CV_CN": "\u9f9f\u5a18",
+      "CV_JP": "\u8d64\ufa11\u5343\u590f",
+      "CV_KR": "\uae40\ud604\uc9c0"
+    }
+  },
+  "1013": {
+    "Name": "Herta",
+    "Tag": "herta",
+    "SystemName": "Herta_00",
+    "Rarity": 4,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "ICE",
+    "ModelType": "GIRL",
+    "Camp": "Herta Space Station",
+    "Group": 101,
+    "CV": {
+      "CV_EN": "PJ Mattson",
+      "CV_CN": "\u4faf\u5c0f\u83f2",
+      "CV_JP": "\u5c71\u5d0e\u306f\u308b\u304b",
+      "CV_KR": "\uae40\uc11c\uc601"
+    }
+  },
+  "1101": {
+    "Name": "Bronya",
+    "Tag": "bronya",
+    "SystemName": "Bronya_00",
+    "Rarity": 5,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "WIND",
+    "ModelType": "MAID",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Madeline Reiter",
+      "CV_CN": "\u8c22\u83b9",
+      "CV_JP": "\u963f\u6f84\u4f73\u5948",
+      "CV_KR": "\uc774\ubcf4\ud76c"
+    }
+  },
+  "1102": {
+    "Name": "Seele",
+    "Tag": "seele",
+    "SystemName": "Seele_00",
+    "Rarity": 5,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "QUANTUM",
+    "ModelType": "MAID",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Molly Zhang",
+      "CV_CN": "\u5510\u96c5\u83c1",
+      "CV_JP": "\u4e2d\u539f\u9ebb\u8863",
+      "CV_KR": "\uc1a1\ud558\ub9bc"
+    }
+  },
+  "1103": {
+    "Name": "Serval",
+    "Tag": "serval",
+    "SystemName": "Serval_00",
+    "Rarity": 4,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "THUNDER",
+    "ModelType": "LADY",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Natalie Van Sistine",
+      "CV_CN": "\u7a46\u96ea\u5a77",
+      "CV_JP": "\u611b\u7f8e",
+      "CV_KR": "\ubbfc\uc544"
+    }
+  },
+  "1104": {
+    "Name": "Gepard",
+    "Tag": "gepard",
+    "SystemName": "Gepard_00",
+    "Rarity": 5,
+    "BaseType": "KNIGHT",
+    "PathType": "PRESERVATION",
+    "DamageType": "ICE",
+    "ModelType": "MALE",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Bryson Baugus",
+      "CV_CN": "\u9a6c\u6d0b",
+      "CV_JP": "\u53e4\u5ddd\u614e",
+      "CV_KR": "\ubbfc\uc2b9\uc6b0"
+    }
+  },
+  "1105": {
+    "Name": "Natasha",
+    "Tag": "natasha",
+    "SystemName": "Natasha_00",
+    "Rarity": 4,
+    "BaseType": "PRIEST",
+    "PathType": "ABUNDANCE",
+    "DamageType": "PHYSICAL",
+    "ModelType": "LADY",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Elizabeth Maxwell",
+      "CV_CN": "\u79e6\u7d2b\u7ffc",
+      "CV_JP": "\u5185\u5c71\u5915\u5b9f",
+      "CV_KR": "\uac15\uc740\uc560"
+    }
+  },
+  "1106": {
+    "Name": "Pela",
+    "Tag": "pela",
+    "SystemName": "Pela_00",
+    "Rarity": 4,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "ICE",
+    "ModelType": "GIRL",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Xanthe Huynh",
+      "CV_CN": "\u5bb4\u5b81",
+      "CV_JP": "\u8af8\u661f\u3059\u307f\u308c",
+      "CV_KR": "\uc774\ub2e4\uc740"
+    }
+  },
+  "1107": {
+    "Name": "Clara",
+    "Tag": "clara",
+    "SystemName": "Klara_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "PHYSICAL",
+    "ModelType": "GIRL",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Emily Sun & D.C. Douglas",
+      "CV_CN": "\u7d2b\u82cf\u4e5d\u6708&\u738b\u5b87\u822a",
+      "CV_JP": "\u65e5\u9ad8\u91cc\u83dc&\u5b89\u5143\u6d0b\u8cb4",
+      "CV_KR": "\uae40\uc608\ub9bc&\ucd5c\ub099\uc724"
+    }
+  },
+  "1108": {
+    "Name": "Sampo",
+    "Tag": "sampo",
+    "SystemName": "Sampo_00",
+    "Rarity": 4,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "WIND",
+    "ModelType": "MALE",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Roger Rose",
+      "CV_CN": "\u5218\u5723\u535a",
+      "CV_JP": "\u5e73\u5ddd\u5927\u8f14",
+      "CV_KR": "\uc815\uc7ac\ud5cc"
+    }
+  },
+  "1109": {
+    "Name": "Hook",
+    "Tag": "hook",
+    "SystemName": "Hook_00",
+    "Rarity": 4,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "FIRE",
+    "ModelType": "KID",
+    "Camp": "Belobog",
+    "Group": 110,
+    "CV": {
+      "CV_EN": "Felecia Angelle",
+      "CV_CN": "\u738b\u6653\u5f64",
+      "CV_JP": "\u5fb3\u4e95\u9752\u7a7a",
+      "CV_KR": "\uc774\uc7ac\ud604"
+    }
+  },
+  "1110": {
+    "Name": "Lynx",
+    "Tag": "lynx",
+    "SystemName": "Lynx_00",
+    "Rarity": 4,
+    "BaseType": "PRIEST",
+    "PathType": "ABUNDANCE",
+    "DamageType": "QUANTUM",
+    "ModelType": "GIRL",
+    "Camp": "Belobog",
+    "Group": 111,
+    "CV": {
+      "CV_EN": "Risa Mei",
+      "CV_CN": "\u7c73\u7cca",
+      "CV_JP": "\u7167\u4e95\u6625\u4f73",
+      "CV_KR": "\uc774\uc740\uc870"
+    }
+  },
+  "1111": {
+    "Name": "Luka",
+    "Tag": "luka",
+    "SystemName": "Luka_00",
+    "Rarity": 4,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "PHYSICAL",
+    "ModelType": "LAD",
+    "Camp": "Belobog",
+    "Group": 111,
+    "CV": {
+      "CV_EN": "Howard Wang",
+      "CV_CN": "\u8427\u7fdf",
+      "CV_JP": "\u68b6\u539f\u5cb3\u4eba",
+      "CV_KR": "\uc774\uc8fc\uc2b9"
+    }
+  },
+  "1112": {
+    "Name": "Topaz & Numby",
+    "Tag": "topaz",
+    "SystemName": "Topaz_00",
+    "Rarity": 5,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "FIRE",
+    "ModelType": "MAID",
+    "Camp": "Interastral Peace Corporation",
+    "Group": 111,
+    "CV": {
+      "CV_EN": "Sam Slade",
+      "CV_CN": "\u9646\u654f\u60a6",
+      "CV_JP": "\u5357\u689d\u611b\u4e43",
+      "CV_KR": "\ubc29\uc2dc\uc6b0"
+    }
+  },
+  "1201": {
+    "Name": "Qingque",
+    "Tag": "qingque",
+    "SystemName": "Qingque_00",
+    "Rarity": 4,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "QUANTUM",
+    "ModelType": "GIRL",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Bryn Apprill",
+      "CV_CN": "\u5218\u5341\u56db",
+      "CV_JP": "\u4f0a\u9054\u6731\u91cc\u7d17",
+      "CV_KR": "\uc11c\ub2e4\ud61c"
+    }
+  },
+  "1202": {
+    "Name": "Tingyun",
+    "Tag": "tingyun",
+    "SystemName": "Tingyun_00",
+    "Rarity": 4,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "THUNDER",
+    "ModelType": "MAID",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Laci Morgan",
+      "CV_CN": "\u848b\u4e3d",
+      "CV_JP": "\u9ad8\u7530\u6182\u5e0c",
+      "CV_KR": "\uc774\uba85\ud638"
+    }
+  },
+  "1203": {
+    "Name": "Luocha",
+    "Tag": "luocha",
+    "SystemName": "Luocha_00",
+    "Rarity": 5,
+    "BaseType": "PRIEST",
+    "PathType": "ABUNDANCE",
+    "DamageType": "IMAGINARY",
+    "ModelType": "MALE",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Craig Lee Thomas",
+      "CV_CN": "\u8d75\u8def",
+      "CV_JP": "\u77f3\u7530\u5f70",
+      "CV_KR": "\uc2e0\uc6a9\uc6b0"
+    }
+  },
+  "1204": {
+    "Name": "Jing Yuan",
+    "Tag": "jingyuan",
+    "SystemName": "JingYuan_00",
+    "Rarity": 5,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "THUNDER",
+    "ModelType": "MALE",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Alejandro Saab",
+      "CV_CN": "\u5b59\u6654",
+      "CV_JP": "\u5c0f\u91ce\u5927\u8f14",
+      "CV_KR": "\ub958\uc2b9\uace4"
+    }
+  },
+  "1205": {
+    "Name": "Blade",
+    "Tag": "blade",
+    "SystemName": "Ren_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "WIND",
+    "ModelType": "MALE",
+    "Camp": "Stellaron Hunters",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Daman Mills",
+      "CV_CN": "\u5218\u4ee5\u5609",
+      "CV_JP": "\u4e09\u6728\u771e\u4e00\u90ce",
+      "CV_KR": "\uacfd\uc724\uc0c1"
+    }
+  },
+  "1206": {
+    "Name": "Sushang",
+    "Tag": "sushang",
+    "SystemName": "Sushang_00",
+    "Rarity": 4,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "PHYSICAL",
+    "ModelType": "MAID",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Anjali Kunapaneni",
+      "CV_CN": "\u9648\u5a77\u5a77",
+      "CV_JP": "\u798f\u5713\u7f8e\u91cc",
+      "CV_KR": "\ubc15\uc2dc\uc724"
+    }
+  },
+  "1207": {
+    "Name": "Yukong",
+    "Tag": "yukong",
+    "SystemName": "Yukong_00",
+    "Rarity": 4,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "IMAGINARY",
+    "ModelType": "LADY",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Dawn M. Bennett",
+      "CV_CN": "\u949f\u53ef",
+      "CV_JP": "\u51ac\u99ac\u7531\u7f8e",
+      "CV_KR": "\uc804\uc219\uacbd"
+    }
+  },
+  "1208": {
+    "Name": "Fu Xuan",
+    "Tag": "fuxuan",
+    "SystemName": "FuXuan_00",
+    "Rarity": 5,
+    "BaseType": "KNIGHT",
+    "PathType": "PRESERVATION",
+    "DamageType": "QUANTUM",
+    "ModelType": "GIRL",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Sarah Wiedenheft",
+      "CV_CN": "\u82b1\u73b2",
+      "CV_JP": "\u4f0a\u85e4\u7f8e\u6765",
+      "CV_KR": "\uc774\uc9c0\ud604"
+    }
+  },
+  "1209": {
+    "Name": "Yanqing",
+    "Tag": "yanqing",
+    "SystemName": "Yanqing_00",
+    "Rarity": 5,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "ICE",
+    "ModelType": "BOY",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 120,
+    "CV": {
+      "CV_EN": "Amber May",
+      "CV_CN": "\u55b5\u9171",
+      "CV_JP": "\u4e95\u4e0a\u9ebb\u91cc\u5948",
+      "CV_KR": "\uc774\uc0c8\uc544"
+    }
+  },
+  "1210": {
+    "Name": "Guinaifen",
+    "Tag": "guinaifen",
+    "SystemName": "Guinaifen_00",
+    "Rarity": 4,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "FIRE",
+    "ModelType": "MAID",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "Morgan Laur\u00e9",
+      "CV_CN": "\u5c0f\u6562",
+      "CV_JP": "\u76f4\u7530\u59eb\u5948",
+      "CV_KR": "\uae40\uc218\uc601"
+    }
+  },
+  "1211": {
+    "Name": "Bailu",
+    "Tag": "bailu",
+    "SystemName": "Bailu_00",
+    "Rarity": 5,
+    "BaseType": "PRIEST",
+    "PathType": "ABUNDANCE",
+    "DamageType": "THUNDER",
+    "ModelType": "KID",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "Su Ling Chan",
+      "CV_CN": "\u591a\u591a",
+      "CV_JP": "\u52a0\u85e4\u82f1\u7f8e\u91cc",
+      "CV_KR": "\uc870\ud604\uc815"
+    }
+  },
+  "1212": {
+    "Name": "Jingliu",
+    "Tag": "jingliu",
+    "SystemName": "Jingliu_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "ICE",
+    "ModelType": "MAID",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "AmaLee",
+      "CV_CN": "\u675c\u51a5\u9e26",
+      "CV_JP": "\u6851\u5cf6\u6cd5\u5b50",
+      "CV_KR": "\ubc15\uc774\uc11c"
+    }
+  },
+  "1213": {
+    "Name": "Dan Heng \u2022 Imbibitor Lunae",
+    "Tag": "danhengil",
+    "SystemName": "DanHengIL_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "IMAGINARY",
+    "ModelType": "LAD",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "Nicholas Leung",
+      "CV_CN": "\u674e\u6625\u80e4",
+      "CV_JP": "\u4f0a\u6771\u5065\u4eba",
+      "CV_KR": "\uae40\ud61c\uc131"
+    }
+  },
+  "1214": {
+    "Name": "Xueyi",
+    "Tag": "xueyi",
+    "SystemName": "Xueyi_00",
+    "Rarity": 4,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "QUANTUM",
+    "ModelType": "MAID",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "Jenny Yokobori",
+      "CV_CN": "\u6eaf\u6d54",
+      "CV_JP": "\u6cb3\u702c\u8309\u5e0c",
+      "CV_KR": "\ubc15\ub9ac\ub098"
+    }
+  },
+  "1215": {
+    "Name": "Hanya",
+    "Tag": "hanya",
+    "SystemName": "Hanya_00",
+    "Rarity": 4,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "PHYSICAL",
+    "ModelType": "LADY",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "Suzie Yeung",
+      "CV_CN": "\u5f20\u96e8\u66e6",
+      "CV_JP": "\u9234\u4ee3\u7d17\u5f13",
+      "CV_KR": "\uc724\uc740\uc11c"
+    }
+  },
+  "1217": {
+    "Name": "Huohuo",
+    "Tag": "huohuo",
+    "SystemName": "Huohuo_00",
+    "Rarity": 5,
+    "BaseType": "PRIEST",
+    "PathType": "ABUNDANCE",
+    "DamageType": "WIND",
+    "ModelType": "GIRL",
+    "Camp": "The Xianzhou Luofu",
+    "Group": 121,
+    "CV": {
+      "CV_EN": "Courtney Lin & Adam Michael Gold",
+      "CV_CN": "\u845b\u5b50\u745e&\u5218\u5317\u8fb0",
+      "CV_JP": "\u9577\u7e04\u307e\u308a\u3042&\u5e73\u6797\u525b",
+      "CV_KR": "\uae40\ucc44\ub9b0&\ud55c\ubcf5\ud604"
+    }
+  },
+  "1301": {
+    "Name": "Gallagher",
+    "Tag": "gallagher",
+    "SystemName": "Gallagher_00",
+    "Rarity": 4,
+    "BaseType": "PRIEST",
+    "PathType": "ABUNDANCE",
+    "DamageType": "FIRE",
+    "ModelType": "MALE",
+    "Camp": "Penacony",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Erik Braa",
+      "CV_CN": "\u9a6c\u8bed\u975e",
+      "CV_JP": "\u4e09\u4e0a\u54f2",
+      "CV_KR": "\ubc15\uc0c1\ud6c8"
+    }
+  },
+  "1302": {
+    "Name": "Argenti",
+    "Tag": "argenti",
+    "SystemName": "Argenti_00",
+    "Rarity": 5,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "PHYSICAL",
+    "ModelType": "MALE",
+    "Camp": "The Knights of Beauty",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Adam Michael Gold",
+      "CV_CN": "\u6881\u8fbe\u4f1f",
+      "CV_JP": "\u7acb\u82b1\u614e\u4e4b\u4ecb",
+      "CV_KR": "\ucd5c\uc2b9\ud6c8"
+    }
+  },
+  "1303": {
+    "Name": "Ruan Mei",
+    "Tag": "ruanmei",
+    "SystemName": "RuanMei_00",
+    "Rarity": 5,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "ICE",
+    "ModelType": "MAID",
+    "Camp": "Herta Space Station",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Emi Lo",
+      "CV_CN": "\u5f20\u6587\u94b0",
+      "CV_JP": "\u5927\u897f\u6c99\u7e54",
+      "CV_KR": "\uc724\uc5ec\uc9c4"
+    }
+  },
+  "1304": {
+    "Name": "Aventurine",
+    "Tag": "aventurine",
+    "SystemName": "Aventurine_00",
+    "Rarity": 5,
+    "BaseType": "KNIGHT",
+    "PathType": "PRESERVATION",
+    "DamageType": "IMAGINARY",
+    "ModelType": "LAD",
+    "Camp": "Interastral Peace Corporation",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Camden Sutkowski",
+      "CV_CN": "\u6768\u8d85\u7136",
+      "CV_JP": "\u6cb3\u897f\u5065\u543e",
+      "CV_KR": "\ubc15\uc900\uc6d0"
+    }
+  },
+  "1305": {
+    "Name": "Dr. Ratio",
+    "Tag": "drratio",
+    "SystemName": "Dr_Ratio_00",
+    "Rarity": 5,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "IMAGINARY",
+    "ModelType": "MALE",
+    "Camp": "Intelligentsia Guild",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Jordan Paul Haro",
+      "CV_CN": "\u6851\u6bd3\u6cfd",
+      "CV_JP": "\u6b66\u5185\u99ff\u8f14",
+      "CV_KR": "\uc774\ub3d9\ud6c8"
+    }
+  },
+  "1306": {
+    "Name": "Sparkle",
+    "Tag": "sparkle",
+    "SystemName": "Sparkle_00",
+    "Rarity": 5,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "QUANTUM",
+    "ModelType": "GIRL",
+    "Camp": "Masked Fools",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Lizzie Freeman",
+      "CV_CN": "\u8d75\u723d",
+      "CV_JP": "\u4e0a\u7530\u9e97\u5948",
+      "CV_KR": "\uc131\uc608\uc6d0"
+    }
+  },
+  "1307": {
+    "Name": "Black Swan",
+    "Tag": "blackswan",
+    "SystemName": "BlackSwan_00",
+    "Rarity": 5,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "WIND",
+    "ModelType": "LADY",
+    "Camp": "Garden of Recollection",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Arryn Zech",
+      "CV_CN": "\u6768\u68a6\u9732",
+      "CV_JP": "\u751f\u5929\u76ee\u4ec1\u7f8e",
+      "CV_KR": "\uae40\ud558\uc601"
+    }
+  },
+  "1308": {
+    "Name": "Acheron",
+    "Tag": "acheron",
+    "SystemName": "Acheron_00",
+    "Rarity": 5,
+    "BaseType": "WARLOCK",
+    "PathType": "NIHILITY",
+    "DamageType": "THUNDER",
+    "ModelType": "LADY",
+    "Camp": "Galaxy Ranger",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Allegra Clark",
+      "CV_CN": "\u83ca\u82b1\u82b1",
+      "CV_JP": "\u6ca2\u57ce\u307f\u3086\u304d",
+      "CV_KR": "\ubc15\uc9c0\uc724"
+    }
+  },
+  "1309": {
+    "Name": "Robin",
+    "Tag": "robin",
+    "SystemName": "Robin_00",
+    "Rarity": 5,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "PHYSICAL",
+    "ModelType": "MAID",
+    "Camp": "Penacony",
+    "Group": 130,
+    "CV": {
+      "CV_EN": "Alice Himora / \\nSong Vocals: Chevy",
+      "CV_CN": "\u94b1\u741b / Song Vocals: Chevy",
+      "CV_JP": "\u540d\u585a\u4f73\u7e54 / Song Vocals: Chevy",
+      "CV_KR": "\uc2e0\uc628\uc720/ Song Vocals: Chevy"
+    }
+  },
+  "1310": {
+    "Name": "Firefly",
+    "Tag": "sam",
+    "SystemName": "Firefly_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "FIRE",
+    "ModelType": "MAID",
+    "Camp": "Stellaron Hunters",
+    "Group": 131,
+    "CV": {
+      "CV_EN": "Analesa Fisher & Adin Rudd",
+      "CV_CN": "\u5b8b\u5a9b\u5a9b&\u6de6\u5b50\u9f50",
+      "CV_JP": "\u6960\u6728\u3068\u3082\u308a&\u7b20\u9593\u6df3",
+      "CV_KR": "\uc720\ud61c\uc9c0&\uc7a5\uc11c\ud654"
+    }
+  },
+  "1312": {
+    "Name": "Misha",
+    "Tag": "misha",
+    "SystemName": "Misha_00",
+    "Rarity": 4,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "ICE",
+    "ModelType": "BOY",
+    "Camp": "Penacony",
+    "Group": 131,
+    "CV": {
+      "CV_EN": "Cat Protano",
+      "CV_CN": "\u67f3\u77e5\u8427",
+      "CV_JP": "\u677e\u4e95\u6075\u7406\u5b50",
+      "CV_KR": "\ubc15\uc2e0\ud76c"
+    }
+  },
+  "1314": {
+    "Name": "Jade",
+    "Tag": "jade",
+    "SystemName": "Jade_00",
+    "Rarity": 5,
+    "BaseType": "MAGE",
+    "PathType": "ERUDITION",
+    "DamageType": "QUANTUM",
+    "ModelType": "LADY",
+    "Camp": "Interastral Peace Corporation",
+    "Group": 131,
+    "CV": {
+      "CV_EN": "Faye Mata",
+      "CV_CN": "\u5f20\u82e5\u745c",
+      "CV_JP": "\u4e09\u77f3\u7434\u4e43",
+      "CV_KR": "\uae40\uc21c\ubbf8"
+    }
+  },
+  "1315": {
+    "Name": "Boothill",
+    "Tag": "boothill",
+    "SystemName": "Boothill_00",
+    "Rarity": 5,
+    "BaseType": "ROGUE",
+    "PathType": "THE_HUNT",
+    "DamageType": "PHYSICAL",
+    "ModelType": "MALE",
+    "Camp": "Galaxy Ranger",
+    "Group": 131,
+    "CV": {
+      "CV_EN": "Andrew Russell",
+      "CV_CN": "\u5f6d\u535a",
+      "CV_JP": "\u5c0f\u897f\u514b\u5e78",
+      "CV_KR": "\uae40\ub2e8"
+    }
+  },
+  "8001": {
+    "Name": "{NICKNAME}",
+    "Tag": "playerboy",
+    "SystemName": "PlayerBoy_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "PHYSICAL",
+    "ModelType": "LAD",
+    "Camp": "Astral Express",
+    "Group": 800,
+    "CV": {
+      "CV_EN": "Caleb Yen",
+      "CV_CN": "\u79e6\u4e14\u6b4c",
+      "CV_JP": "\u698e\u6728\u6df3\u5f25",
+      "CV_KR": "\uae40\uba85\uc900"
+    }
+  },
+  "8002": {
+    "Name": "{NICKNAME}",
+    "Tag": "playergirl",
+    "SystemName": "PlayerGirl_00",
+    "Rarity": 5,
+    "BaseType": "WARRIOR",
+    "PathType": "DESTRUCTION",
+    "DamageType": "PHYSICAL",
+    "ModelType": "MISS",
+    "Camp": "Astral Express",
+    "Group": 800,
+    "CV": {
+      "CV_EN": "Rachael Chau",
+      "CV_CN": "\u9648\u5a77\u5a77",
+      "CV_JP": "\u77f3\u5ddd\u7531\u4f9d",
+      "CV_KR": "\uae40\ud558\ub8e8"
+    }
+  },
+  "8003": {
+    "Name": "{NICKNAME}",
+    "Tag": "playerboy2",
+    "SystemName": "PlayerBoy_10",
+    "Rarity": 5,
+    "BaseType": "KNIGHT",
+    "PathType": "PRESERVATION",
+    "DamageType": "FIRE",
+    "ModelType": "LAD",
+    "Camp": "",
+    "Group": 800,
+    "CV": {
+      "CV_EN": null,
+      "CV_CN": null,
+      "CV_JP": null,
+      "CV_KR": null
+    }
+  },
+  "8004": {
+    "Name": "{NICKNAME}",
+    "Tag": "playergirl2",
+    "SystemName": "PlayerGirl_10",
+    "Rarity": 5,
+    "BaseType": "KNIGHT",
+    "PathType": "PRESERVATION",
+    "DamageType": "FIRE",
+    "ModelType": "MISS",
+    "Camp": "",
+    "Group": 800,
+    "CV": {
+      "CV_EN": null,
+      "CV_CN": null,
+      "CV_JP": null,
+      "CV_KR": null
+    }
+  },
+  "8005": {
+    "Name": "{NICKNAME}",
+    "Tag": "playerboy3",
+    "SystemName": "PlayerBoy_20",
+    "Rarity": 5,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "IMAGINARY",
+    "ModelType": "LAD",
+    "Camp": "",
+    "Group": 800,
+    "CV": {
+      "CV_EN": null,
+      "CV_CN": null,
+      "CV_JP": null,
+      "CV_KR": null
+    }
+  },
+  "8006": {
+    "Name": "{NICKNAME}",
+    "Tag": "playergirl3",
+    "SystemName": "PlayerGirl_20",
+    "Rarity": 5,
+    "BaseType": "SHAMAN",
+    "PathType": "HARMONY",
+    "DamageType": "IMAGINARY",
+    "ModelType": "MISS",
+    "Camp": "",
+    "Group": 800,
+    "CV": {
+      "CV_EN": null,
+      "CV_CN": null,
+      "CV_JP": null,
+      "CV_KR": null
+    }
+  }
+}

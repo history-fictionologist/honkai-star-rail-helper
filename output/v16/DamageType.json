@@ -1,0 +1,107 @@
+{
+  "0": {
+    "ID": 0,
+    "Name": "Physical",
+    "DisplayName": "Physical",
+    "Intro": "Using <color=#f29e38ff>Physical</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Physical DMG and apply the <color=#f29e38ff>Bleed</color> effect, dealing Physical DoT.",
+    "UI": {
+      "Color": "#FFFFFF",
+      "ShaderColor": "#FFFFFF",
+      "UnfullColor": "#FFFFFF",
+      "SkillTreeLightColor": "#ecdcf7",
+      "SkillTreeDecoColor": "#cbd9f2",
+      "NormalDamage": "#e1e1e1",
+      "CriticalDamage": "#bababa"
+    }
+  },
+  "1": {
+    "ID": 1,
+    "Name": "Fire",
+    "DisplayName": "Fire",
+    "Intro": "Using <color=#f29e38ff>Fire</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Fire DMG and apply the <color=#f29e38ff>Burn</color> effect, dealing Fire DoT.",
+    "UI": {
+      "Color": "#F84F36",
+      "ShaderColor": "#F84F36",
+      "UnfullColor": "#FF8877",
+      "SkillTreeLightColor": "#ff8b4e",
+      "SkillTreeDecoColor": "#ff614e",
+      "NormalDamage": "#ec505f",
+      "CriticalDamage": "#ed5e5e"
+    }
+  },
+  "2": {
+    "ID": 2,
+    "Name": "Ice",
+    "DisplayName": "Ice",
+    "Intro": "Using <color=#f29e38ff>Ice</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Ice DMG and <color=#f29e38ff>Freeze</color> the target, immobilizing the enemy and dealing additional Ice DMG.",
+    "UI": {
+      "Color": "#47C7FD",
+      "ShaderColor": "#47C7FD",
+      "UnfullColor": "#8ADDFF",
+      "SkillTreeLightColor": "#40b5ff",
+      "SkillTreeDecoColor": "#367dff",
+      "NormalDamage": "#55c5ff",
+      "CriticalDamage": "#5dcfff"
+    }
+  },
+  "3": {
+    "ID": 3,
+    "Name": "Thunder",
+    "DisplayName": "Lightning",
+    "Intro": "Using <color=#f29e38ff>Lightning</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Lightning DMG and apply the <color=#f29e38ff>Shock</color> effect, dealing Lightning DoT.",
+    "UI": {
+      "Color": "#8872F1",
+      "ShaderColor": "#8872F1",
+      "UnfullColor": "#BAACFF",
+      "SkillTreeLightColor": "#a340ff",
+      "SkillTreeDecoColor": "#cd4eff",
+      "NormalDamage": "#e471ff",
+      "CriticalDamage": "#e25eed"
+    }
+  },
+  "4": {
+    "ID": 4,
+    "Name": "Wind",
+    "DisplayName": "Wind",
+    "Intro": "Using <color=#f29e38ff>Wind</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Wind DMG and apply the <color=#f29e38ff>Wind Shear</color> effect, dealing Wind DoT.",
+    "UI": {
+      "Color": "#00FF9C",
+      "ShaderColor": "#00FF9C",
+      "UnfullColor": "#97FFB7",
+      "SkillTreeLightColor": "#78fff7",
+      "SkillTreeDecoColor": "#38e7b3",
+      "NormalDamage": "#50ecb0",
+      "CriticalDamage": "#5eeeb6"
+    }
+  },
+  "5": {
+    "ID": 5,
+    "Name": "Quantum",
+    "DisplayName": "Quantum",
+    "Intro": "Using <color=#f29e38ff>Quantum</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Quantum DMG and apply the <color=#f29e38ff>Entanglement</color> effect, delaying the enemy's action and dealing Additional Quantum DMG to the affected enemy at the start of the next turn. When the enemy is hit, this extra DMG will increase.",
+    "UI": {
+      "Color": "#1C29BA",
+      "ShaderColor": "#1C29BA",
+      "UnfullColor": "#5E81E5",
+      "SkillTreeLightColor": "#5740ff",
+      "SkillTreeDecoColor": "#384bfb",
+      "NormalDamage": "#9c98ff",
+      "CriticalDamage": "#8271ff"
+    }
+  },
+  "6": {
+    "ID": 6,
+    "Name": "Imaginary",
+    "DisplayName": "Imaginary",
+    "Intro": "Using <color=#f29e38ff>Imaginary</color> attacks to trigger <color=#f29e38ff>Weakness Break</color> will deal Imaginary DMG and apply the <color=#f29e38ff>Imprisonment</color> effect, delaying the enemy's action and reducing its SPD.",
+    "UI": {
+      "Color": "#F4D258",
+      "ShaderColor": "#F4D258",
+      "UnfullColor": "#FFE779",
+      "SkillTreeLightColor": "#ffda59",
+      "SkillTreeDecoColor": "#edb655",
+      "NormalDamage": "#f3da75",
+      "CriticalDamage": "#e9d67d"
+    }
+  }
+}

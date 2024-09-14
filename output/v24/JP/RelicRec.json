@@ -1,0 +1,1005 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "純庭教会の聖騎士",
+      "吹雪と対峙する兵士",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "建創者のベロブルグ",
+      "汎銀河商事会社",
+      "折れた竜骨"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "昼夜の狭間を翔ける鷹",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "蒼穹戦線グラモス",
+      "宇宙封印ステーション",
+      "星々の競技場"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "溶岩で鍛造する火匠",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "天体階差機関"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "荒地で盗みを働く廃土客",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "宇宙封印ステーション",
+      "自転が止まったサルソット"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "深い牢獄の囚人",
+      "雷鳴轟くバンド",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "蒼穹戦線グラモス",
+      "宇宙封印ステーション",
+      "盗賊公国タリア"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "星の如く輝く天才",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "夢の地ピノコニー",
+      "汎銀河商事会社",
+      "盗賊公国タリア"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "雷鳴轟くバンド",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "宇宙封印ステーション",
+      "天体階差機関"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "溶岩で鍛造する火匠",
+      "流星の跡を追う怪盗",
+      "仮想空間を漫遊するメッセンジャー"
+    ],
+    "Set2": [
+      "夢の地ピノコニー",
+      "老いぬ者の仙舟",
+      "折れた竜骨"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "雪の密林の狩人",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "生命のウェンワーク"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "仮想空間を漫遊するメッセンジャー",
+      "雪の密林の狩人",
+      "昼夜の狭間を翔ける鷹"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "折れた竜骨",
+      "天体階差機関"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "星の如く輝く天才",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "蒼穹戦線グラモス",
+      "宇宙封印ステーション",
+      "自転が止まったサルソット"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "雷鳴轟くバンド",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "宇宙封印ステーション",
+      "自転が止まったサルソット",
+      "生命のウェンワーク"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "純庭教会の聖騎士",
+      "吹雪と対峙する兵士",
+      "仮想空間を漫遊するメッセンジャー"
+    ],
+    "Set2": [
+      "建創者のベロブルグ",
+      "折れた竜骨",
+      "星々の競技場"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "流雲無痕の過客",
+      "仮想空間を漫遊するメッセンジャー",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "折れた竜骨",
+      "生命のウェンワーク"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "雪の密林の狩人",
+      "草の穂ガンマン",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "夢の地ピノコニー",
+      "宇宙封印ステーション",
+      "星々の競技場"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "成り上がりチャンピオン",
+      "流星の跡を追う怪盗",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "盗賊公国タリア"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "昼夜の狭間を翔ける鷹",
+      "深い牢獄の囚人",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "宇宙封印ステーション",
+      "盗賊公国タリア",
+      "汎銀河商事会社"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "溶岩で鍛造する火匠",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "宇宙封印ステーション",
+      "星々の競技場",
+      "天体階差機関"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "流雲無痕の過客",
+      "仮想空間を漫遊するメッセンジャー",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "折れた竜骨",
+      "生命のウェンワーク"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "成り上がりチャンピオン",
+      "深い牢獄の囚人",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "宇宙封印ステーション",
+      "盗賊公国タリア"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "灰燼を燃やし尽くす大公",
+      "溶岩で鍛造する火匠",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "天体階差機関"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "星の如く輝く天才",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "天体階差機関",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "仮想空間を漫遊するメッセンジャー",
+      "草の穂ガンマン",
+      "雷鳴轟くバンド"
+    ],
+    "Set2": [
+      "夢の地ピノコニー",
+      "老いぬ者の仙舟",
+      "宇宙封印ステーション"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "流雲無痕の過客",
+      "草の穂ガンマン",
+      "荒地で盗みを働く廃土客"
+    ],
+    "Set2": [
+      "宇宙封印ステーション",
+      "生命のウェンワーク",
+      "盗賊公国タリア"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "灰燼を燃やし尽くす大公",
+      "雷鳴轟くバンド",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "天体階差機関"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "宝命長存の蒔者",
+      "昼夜の狭間を翔ける鷹",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "老いぬ者の仙舟",
+      "生命のウェンワーク"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "成り上がりチャンピオン",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "蒼穹戦線グラモス",
+      "宇宙封印ステーション",
+      "盗賊公国タリア"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "草の穂ガンマン",
+      "荒地で盗みを働く廃土客",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "夢の地ピノコニー",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "宝命長存の蒔者",
+      "吹雪と対峙する兵士",
+      "星の如く輝く天才"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "折れた竜骨",
+      "生命のウェンワーク"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "雪の密林の狩人",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "蒼穹戦線グラモス",
+      "宇宙封印ステーション",
+      "自転が止まったサルソット"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "深い牢獄の囚人",
+      "溶岩で鍛造する火匠",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "宇宙封印ステーション",
+      "汎銀河商事会社",
+      "盗賊公国タリア"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "流雲無痕の過客",
+      "仮想空間を漫遊するメッセンジャー",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "折れた竜骨",
+      "老いぬ者の仙舟",
+      "生命のウェンワーク"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "雪の密林の狩人",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "自転が止まったサルソット",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "草の穂ガンマン",
+      "荒地で盗みを働く廃土客",
+      "宝命長存の蒔者"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "天体階差機関",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "星の如く輝く天才",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "盗賊公国タリア",
+      "自転が止まったサルソット",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "仮想空間を漫遊するメッセンジャー",
+      "草の穂ガンマン",
+      "流星の跡を追う怪盗"
+    ],
+    "Set2": [
+      "折れた竜骨",
+      "生命のウェンワーク",
+      "老いぬ者の仙舟"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "仮想空間を漫遊するメッセンジャー",
+      "流雲無痕の過客",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "折れた竜骨",
+      "夢の地ピノコニー"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "深い牢獄の囚人",
+      "吹雪と対峙する兵士",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "汎銀河商事会社",
+      "老いぬ者の仙舟",
+      "生命のウェンワーク"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "{RUBY_B#ふううん}風雲{RUBY_E#}を{RUBY_B#な}薙{RUBY_E#}ぎ{RUBY_B#はら}払{RUBY_E#}う{RUBY_B#ゆうれつ}勇烈{RUBY_E#}",
+      "死水に潜る先駆者",
+      "成り上がりチャンピオン"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "{RUBY_B#ほんろう}奔狼{RUBY_E#}の{RUBY_B#どぅーらんおうちょう}都藍王朝{RUBY_E#}",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "草の穂ガンマン",
+      "荒地で盗みを働く廃土客",
+      "死水に潜る先駆者"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "{RUBY_B#けんせ}顕世{RUBY_E#}の{RUBY_B#いずも}出雲{RUBY_E#}と{RUBY_B#たかま}高天{RUBY_E#}の{RUBY_B#しんこく}神国{RUBY_E#}",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "流雲無痕の過客",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "盗賊公国タリア",
+      "折れた竜骨"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "成り上がりチャンピオン",
+      "草の穂ガンマン",
+      "宝命長存の蒔者"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "天体階差機関"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "流星の跡を追う怪盗",
+      "仮想空間を漫遊するメッセンジャー",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "盗賊公国タリア",
+      "夢の地ピノコニー",
+      "折れた竜骨"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "純庭教会の聖騎士",
+      "荒地で盗みを働く廃土客",
+      "吹雪と対峙する兵士"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "建創者のベロブルグ",
+      "折れた竜骨"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "荒地で盗みを働く廃土客",
+      "草の穂ガンマン",
+      "灰燼を燃やし尽くす大公"
+    ],
+    "Set2": [
+      "蒼穹戦線グラモス",
+      "自転が止まったサルソット",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "仮想空間を漫遊するメッセンジャー",
+      "吹雪と対峙する兵士",
+      "宝命長存の蒔者"
+    ],
+    "Set2": [
+      "折れた竜骨",
+      "夢の地ピノコニー",
+      "老いぬ者の仙舟"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "深い牢獄の囚人",
+      "昼夜の狭間を翔ける鷹",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "汎銀河商事会社",
+      "宇宙封印ステーション",
+      "蒼穹戦線グラモス"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "死水に潜る先駆者",
+      "雷鳴轟くバンド",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "{RUBY_B#けんせ}顕世{RUBY_E#}の{RUBY_B#いずも}出雲{RUBY_E#}と{RUBY_B#たかま}高天{RUBY_E#}の{RUBY_B#しんこく}神国{RUBY_E#}",
+      "自転が止まったサルソット",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "草の穂ガンマン",
+      "成り上がりチャンピオン",
+      "仮想空間を漫遊するメッセンジャー"
+    ],
+    "Set2": [
+      "老いぬ者の仙舟",
+      "宇宙封印ステーション",
+      "折れた竜骨"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "{RUBY_B#こうがい}蝗害{RUBY_E#}を{RUBY_B#いっそう}一掃{RUBY_E#}せし{RUBY_B#てっき}鉄騎{RUBY_E#}",
+      "溶岩で鍛造する火匠",
+      "星の如く輝く天才"
+    ],
+    "Set2": [
+      "{RUBY_B#ごうか}劫火{RUBY_E#}と{RUBY_B#れんとう}蓮灯{RUBY_E#}の{RUBY_B#ちゅうれんぐう}鋳煉宮{RUBY_E#}",
+      "盗賊公国タリア",
+      "星々の競技場"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "雪の密林の狩人",
+      "草の穂ガンマン",
+      "宝命長存の蒔者"
+    ],
+    "Set2": [
+      "自転が止まったサルソット",
+      "宇宙封印ステーション",
+      "蒼穹戦線グラモス"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "星の如く輝く天才",
+      "灰燼を燃やし尽くす大公",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "{RUBY_B#こうりょう}荒涼{RUBY_E#}の{RUBY_B#わくせい}惑星{RUBY_E#}ツガンニヤ",
+      "自転が止まったサルソット",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "流星の跡を追う怪盗",
+      "成り上がりチャンピオン",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "盗賊公国タリア",
+      "星々の競技場",
+      "宇宙封印ステーション"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "成り上がりチャンピオン",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "宇宙封印ステーション",
+      "自転が止まったサルソット"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "成り上がりチャンピオン",
+      "流星の跡を追う怪盗",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "星々の競技場",
+      "宇宙封印ステーション",
+      "自転が止まったサルソット"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "純庭教会の聖騎士",
+      "吹雪と対峙する兵士",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "建創者のベロブルグ",
+      "折れた竜骨",
+      "盗賊公国タリア"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "純庭教会の聖騎士",
+      "吹雪と対峙する兵士",
+      "草の穂ガンマン"
+    ],
+    "Set2": [
+      "建創者のベロブルグ",
+      "折れた竜骨",
+      "盗賊公国タリア"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "夢を弄ぶ時計屋",
+      "流星の跡を追う怪盗",
+      "仮想空間を漫遊するメッセンジャー"
+    ],
+    "Set2": [
+      "盗賊公国タリア",
+      "老いぬ者の仙舟",
+      "夢の地ピノコニー"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "夢を弄ぶ時計屋",
+      "流星の跡を追う怪盗",
+      "仮想空間を漫遊するメッセンジャー"
+    ],
+    "Set2": [
+      "盗賊公国タリア",
+      "老いぬ者の仙舟",
+      "夢の地ピノコニー"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

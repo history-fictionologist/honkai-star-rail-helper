@@ -1,0 +1,220 @@
+{
+  "Destruction": {
+    "Thunder": {
+      "4": [
+        "arlan"
+      ]
+    },
+    "Physical": {
+      "5": [
+        "clara",
+        "playerboy",
+        "playergirl"
+      ]
+    },
+    "Fire": {
+      "4": [
+        "hook"
+      ]
+    },
+    "Wind": {
+      "5": [
+        "blade"
+      ]
+    },
+    "Ice": {
+      "5": [
+        "jingliu"
+      ]
+    },
+    "Imaginary": {
+      "5": [
+        "danhengil"
+      ]
+    },
+    "Quantum": {
+      "4": [
+        "xueyi"
+      ]
+    }
+  },
+  "The Hunt": {
+    "Wind": {
+      "4": [
+        "danheng"
+      ]
+    },
+    "Quantum": {
+      "5": [
+        "seele"
+      ]
+    },
+    "Fire": {
+      "5": [
+        "topaz"
+      ]
+    },
+    "Physical": {
+      "4": [
+        "sushang"
+      ]
+    },
+    "Ice": {
+      "5": [
+        "yanqing"
+      ]
+    },
+    "Imaginary": {
+      "5": [
+        "drratio"
+      ]
+    }
+  },
+  "Erudition": {
+    "Fire": {
+      "5": [
+        "himeko"
+      ]
+    },
+    "Ice": {
+      "4": [
+        "herta"
+      ]
+    },
+    "Thunder": {
+      "5": [
+        "jingyuan"
+      ],
+      "4": [
+        "serval"
+      ]
+    },
+    "Quantum": {
+      "4": [
+        "qingque"
+      ]
+    },
+    "Physical": {
+      "5": [
+        "argenti"
+      ]
+    }
+  },
+  "Harmony": {
+    "Fire": {
+      "4": [
+        "asta"
+      ]
+    },
+    "Wind": {
+      "5": [
+        "bronya"
+      ]
+    },
+    "Thunder": {
+      "4": [
+        "tingyun"
+      ]
+    },
+    "Imaginary": {
+      "4": [
+        "yukong"
+      ]
+    },
+    "Physical": {
+      "4": [
+        "hanya"
+      ]
+    },
+    "Ice": {
+      "5": [
+        "ruanmei"
+      ]
+    }
+  },
+  "Nihility": {
+    "Imaginary": {
+      "5": [
+        "welt"
+      ]
+    },
+    "Thunder": {
+      "5": [
+        "kafka"
+      ]
+    },
+    "Quantum": {
+      "5": [
+        "silverwolf"
+      ]
+    },
+    "Ice": {
+      "4": [
+        "pela"
+      ]
+    },
+    "Wind": {
+      "4": [
+        "sampo"
+      ]
+    },
+    "Physical": {
+      "4": [
+        "luka"
+      ]
+    },
+    "Fire": {
+      "4": [
+        "guinaifen"
+      ]
+    }
+  },
+  "Preservation": {
+    "Ice": {
+      "5": [
+        "gepard"
+      ],
+      "4": [
+        "mar7th"
+      ]
+    },
+    "Quantum": {
+      "5": [
+        "fuxuan"
+      ]
+    },
+    "Fire": {
+      "5": [
+        "playerboy2",
+        "playergirl2"
+      ]
+    }
+  },
+  "Abundance": {
+    "Physical": {
+      "4": [
+        "natasha"
+      ]
+    },
+    "Quantum": {
+      "4": [
+        "lynx"
+      ]
+    },
+    "Imaginary": {
+      "5": [
+        "luocha"
+      ]
+    },
+    "Thunder": {
+      "5": [
+        "bailu"
+      ]
+    },
+    "Wind": {
+      "5": [
+        "huohuo"
+      ]
+    }
+  }
+}

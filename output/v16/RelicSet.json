@@ -1,0 +1,170 @@
+{
+  "101": {
+    "ID": 101,
+    "SetName": "Passerby of Wandering Cloud",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "102": {
+    "ID": 102,
+    "SetName": "Musketeer of Wild Wheat",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "103": {
+    "ID": 103,
+    "SetName": "Knight of Purity Palace",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "104": {
+    "ID": 104,
+    "SetName": "Hunter of Glacial Forest",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "105": {
+    "ID": 105,
+    "SetName": "Champion of Streetwise Boxing",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "106": {
+    "ID": 106,
+    "SetName": "Guard of Wuthering Snow",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "107": {
+    "ID": 107,
+    "SetName": "Firesmith of Lava-Forging",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "108": {
+    "ID": 108,
+    "SetName": "Genius of Brilliant Stars",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "109": {
+    "ID": 109,
+    "SetName": "Band of Sizzling Thunder",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "110": {
+    "ID": 110,
+    "SetName": "Eagle of Twilight Line",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "111": {
+    "ID": 111,
+    "SetName": "Thief of Shooting Meteor",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "112": {
+    "ID": 112,
+    "SetName": "Wastelander of Banditry Desert",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "113": {
+    "ID": 113,
+    "SetName": "Longevous Disciple",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "114": {
+    "ID": 114,
+    "SetName": "Messenger Traversing Hackerspace",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "115": {
+    "ID": 115,
+    "SetName": "The Ashblazing Grand Duke",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "116": {
+    "ID": 116,
+    "SetName": "Prisoner in Deep Confinement",
+    "Pieces": 4,
+    "Group": 1
+  },
+  "301": {
+    "ID": 301,
+    "SetName": "Space Sealing Station",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "302": {
+    "ID": 302,
+    "SetName": "Fleet of the Ageless",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "303": {
+    "ID": 303,
+    "SetName": "Pan-Cosmic Commercial Enterprise",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "304": {
+    "ID": 304,
+    "SetName": "Belobog of the Architects",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "305": {
+    "ID": 305,
+    "SetName": "Celestial Differentiator",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "306": {
+    "ID": 306,
+    "SetName": "Inert Salsotto",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "307": {
+    "ID": 307,
+    "SetName": "Talia: Kingdom of Banditry",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "308": {
+    "ID": 308,
+    "SetName": "Sprightly Vonwacq",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "309": {
+    "ID": 309,
+    "SetName": "Rutilant Arena",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "310": {
+    "ID": 310,
+    "SetName": "Broken Keel",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "311": {
+    "ID": 311,
+    "SetName": "Firmament Frontline: Glamoth",
+    "Pieces": 2,
+    "Group": 3
+  },
+  "312": {
+    "ID": 312,
+    "SetName": "Penacony, Land of the Dreams",
+    "Pieces": 2,
+    "Group": 3
+  }
+}

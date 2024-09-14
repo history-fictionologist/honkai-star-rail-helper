@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "정토 교황의 팔라딘",
+      "눈보라에 맞서는 철위대",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "축성가의 벨로보그",
+      "범은하 상사",
+      "부러진 용골"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "밤낮의 경계를 나는 매",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "창공 전선 그라모스",
+      "우주 봉인 정거장",
+      "뭇별 경기장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "용암 단조의 화장(火匠)",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "황무지의 도적, 황야인",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "우주 봉인 정거장",
+      "회전을 멈춘 살소토"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "깊은 감옥에 수감된 죄수",
+      "뇌전을 울리는 밴드",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "창공 전선 그라모스",
+      "우주 봉인 정거장",
+      "도적국 탈리아"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "별처럼 빛나는 천재",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "꿈의 땅 페나코니",
+      "범은하 상사",
+      "도적국 탈리아"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "뇌전을 울리는 밴드",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "우주 봉인 정거장",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "용암 단조의 화장(火匠)",
+      "유성을 쫓는 괴도",
+      "가상공간을 누비는 메신저"
+    ],
+    "Set2": [
+      "꿈의 땅 페나코니",
+      "불로인의 선주",
+      "부러진 용골"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "혹한 밀림의 사냥꾼",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "생명의 바커 공"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "가상공간을 누비는 메신저",
+      "혹한 밀림의 사냥꾼",
+      "밤낮의 경계를 나는 매"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "부러진 용골",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "별처럼 빛나는 천재",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "창공 전선 그라모스",
+      "우주 봉인 정거장",
+      "회전을 멈춘 살소토"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "뇌전을 울리는 밴드",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "우주 봉인 정거장",
+      "회전을 멈춘 살소토",
+      "생명의 바커 공"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "정토 교황의 팔라딘",
+      "눈보라에 맞서는 철위대",
+      "가상공간을 누비는 메신저"
+    ],
+    "Set2": [
+      "축성가의 벨로보그",
+      "부러진 용골",
+      "뭇별 경기장"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "흔적을 남기지 않은 과객",
+      "가상공간을 누비는 메신저",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "부러진 용골",
+      "생명의 바커 공"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "혹한 밀림의 사냥꾼",
+      "들이삭과 동행하는 거너",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "꿈의 땅 페나코니",
+      "우주 봉인 정거장",
+      "뭇별 경기장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "스트리트 격투왕",
+      "유성을 쫓는 괴도",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "도적국 탈리아"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "밤낮의 경계를 나는 매",
+      "깊은 감옥에 수감된 죄수",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "우주 봉인 정거장",
+      "도적국 탈리아",
+      "범은하 상사"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "용암 단조의 화장(火匠)",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "우주 봉인 정거장",
+      "뭇별 경기장",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "흔적을 남기지 않은 과객",
+      "가상공간을 누비는 메신저",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "부러진 용골",
+      "생명의 바커 공"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "스트리트 격투왕",
+      "깊은 감옥에 수감된 죄수",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "우주 봉인 정거장",
+      "도적국 탈리아"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "재와 뼈마저 불사르는 대공",
+      "용암 단조의 화장(火匠)",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "별처럼 빛나는 천재",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "천체 차분기관",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "가상공간을 누비는 메신저",
+      "들이삭과 동행하는 거너",
+      "뇌전을 울리는 밴드"
+    ],
+    "Set2": [
+      "꿈의 땅 페나코니",
+      "불로인의 선주",
+      "우주 봉인 정거장"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "흔적을 남기지 않은 과객",
+      "들이삭과 동행하는 거너",
+      "황무지의 도적, 황야인"
+    ],
+    "Set2": [
+      "우주 봉인 정거장",
+      "생명의 바커 공",
+      "도적국 탈리아"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "재와 뼈마저 불사르는 대공",
+      "뇌전을 울리는 밴드",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "장수를 원하는 제자",
+      "밤낮의 경계를 나는 매",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "불로인의 선주",
+      "생명의 바커 공"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "스트리트 격투왕",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "창공 전선 그라모스",
+      "우주 봉인 정거장",
+      "도적국 탈리아"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "들이삭과 동행하는 거너",
+      "황무지의 도적, 황야인",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "꿈의 땅 페나코니",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "장수를 원하는 제자",
+      "눈보라에 맞서는 철위대",
+      "별처럼 빛나는 천재"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "부러진 용골",
+      "생명의 바커 공"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "혹한 밀림의 사냥꾼",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "창공 전선 그라모스",
+      "우주 봉인 정거장",
+      "회전을 멈춘 살소토"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "깊은 감옥에 수감된 죄수",
+      "용암 단조의 화장(火匠)",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "우주 봉인 정거장",
+      "범은하 상사",
+      "도적국 탈리아"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "흔적을 남기지 않은 과객",
+      "가상공간을 누비는 메신저",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "부러진 용골",
+      "불로인의 선주",
+      "생명의 바커 공"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "혹한 밀림의 사냥꾼",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "들이삭과 동행하는 거너",
+      "황무지의 도적, 황야인",
+      "장수를 원하는 제자"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "천체 차분기관",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "별처럼 빛나는 천재",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "도적국 탈리아",
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "가상공간을 누비는 메신저",
+      "들이삭과 동행하는 거너",
+      "유성을 쫓는 괴도"
+    ],
+    "Set2": [
+      "부러진 용골",
+      "생명의 바커 공",
+      "불로인의 선주"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "가상공간을 누비는 메신저",
+      "흔적을 남기지 않은 과객",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "부러진 용골",
+      "꿈의 땅 페나코니"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "깊은 감옥에 수감된 죄수",
+      "눈보라에 맞서는 철위대",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "범은하 상사",
+      "불로인의 선주",
+      "생명의 바커 공"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "바람과 구름을 가르는 용맹함",
+      "밤낮의 경계를 나는 매",
+      "재와 뼈마저 불사르는 대공"
+    ],
+    "Set2": [
+      "질주하는 늑대의 도람 왕조",
+      "회전을 멈춘 살소토",
+      "창공 전선 그라모스"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "바람과 구름을 가르는 용맹함",
+      "사수에 잠수한 선구자",
+      "스트리트 격투왕"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "질주하는 늑대의 도람 왕조",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "곤충 재앙을 잠재우는 철기군",
+      "유성을 쫓는 괴도",
+      "흔적을 남기지 않은 과객"
+    ],
+    "Set2": [
+      "겁화 연등의 연마궁",
+      "도적국 탈리아",
+      "불로인의 선주"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "사수에 잠수한 선구자",
+      "뇌전을 울리는 밴드",
+      "바람과 구름을 가르는 용맹함"
+    ],
+    "Set2": [
+      "질주하는 늑대의 도람 왕조",
+      "이즈모 현세와 타카마 신국",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "들이삭과 동행하는 거너",
+      "황무지의 도적, 황야인",
+      "사수에 잠수한 선구자"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "이즈모 현세와 타카마 신국",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "흔적을 남기지 않은 과객",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "도적국 탈리아",
+      "부러진 용골"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "스트리트 격투왕",
+      "들이삭과 동행하는 거너",
+      "장수를 원하는 제자"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "천체 차분기관"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "유성을 쫓는 괴도",
+      "가상공간을 누비는 메신저",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "도적국 탈리아",
+      "꿈의 땅 페나코니",
+      "부러진 용골"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "정토 교황의 팔라딘",
+      "황무지의 도적, 황야인",
+      "눈보라에 맞서는 철위대"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "축성가의 벨로보그",
+      "부러진 용골"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "황무지의 도적, 황야인",
+      "들이삭과 동행하는 거너",
+      "재와 뼈마저 불사르는 대공"
+    ],
+    "Set2": [
+      "창공 전선 그라모스",
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "가상공간을 누비는 메신저",
+      "눈보라에 맞서는 철위대",
+      "장수를 원하는 제자"
+    ],
+    "Set2": [
+      "부러진 용골",
+      "꿈의 땅 페나코니",
+      "불로인의 선주"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "깊은 감옥에 수감된 죄수",
+      "밤낮의 경계를 나는 매",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "범은하 상사",
+      "우주 봉인 정거장",
+      "창공 전선 그라모스"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "사수에 잠수한 선구자",
+      "뇌전을 울리는 밴드",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "이즈모 현세와 타카마 신국",
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "들이삭과 동행하는 거너",
+      "스트리트 격투왕",
+      "가상공간을 누비는 메신저"
+    ],
+    "Set2": [
+      "불로인의 선주",
+      "우주 봉인 정거장",
+      "부러진 용골"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "곤충 재앙을 잠재우는 철기군",
+      "용암 단조의 화장(火匠)",
+      "별처럼 빛나는 천재"
+    ],
+    "Set2": [
+      "겁화 연등의 연마궁",
+      "도적국 탈리아",
+      "뭇별 경기장"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "혹한 밀림의 사냥꾼",
+      "들이삭과 동행하는 거너",
+      "장수를 원하는 제자"
+    ],
+    "Set2": [
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장",
+      "창공 전선 그라모스"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "별처럼 빛나는 천재",
+      "재와 뼈마저 불사르는 대공",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "주인 없는 황폐한 별 츠가냐",
+      "회전을 멈춘 살소토",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "유성을 쫓는 괴도",
+      "스트리트 격투왕",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "도적국 탈리아",
+      "뭇별 경기장",
+      "우주 봉인 정거장"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "스트리트 격투왕",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "우주 봉인 정거장",
+      "회전을 멈춘 살소토"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "스트리트 격투왕",
+      "유성을 쫓는 괴도",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "뭇별 경기장",
+      "우주 봉인 정거장",
+      "회전을 멈춘 살소토"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "정토 교황의 팔라딘",
+      "눈보라에 맞서는 철위대",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "축성가의 벨로보그",
+      "부러진 용골",
+      "도적국 탈리아"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "정토 교황의 팔라딘",
+      "눈보라에 맞서는 철위대",
+      "들이삭과 동행하는 거너"
+    ],
+    "Set2": [
+      "축성가의 벨로보그",
+      "부러진 용골",
+      "도적국 탈리아"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "꿈을 조작하는 시계공",
+      "유성을 쫓는 괴도",
+      "가상공간을 누비는 메신저"
+    ],
+    "Set2": [
+      "도적국 탈리아",
+      "불로인의 선주",
+      "꿈의 땅 페나코니"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "꿈을 조작하는 시계공",
+      "유성을 쫓는 괴도",
+      "가상공간을 누비는 메신저"
+    ],
+    "Set2": [
+      "도적국 탈리아",
+      "불로인의 선주",
+      "꿈의 땅 페나코니"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

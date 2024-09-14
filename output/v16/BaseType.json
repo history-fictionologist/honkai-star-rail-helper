@@ -1,0 +1,58 @@
+{
+  "0": {
+    "ID": 0,
+    "Name": "Destruction",
+    "Alias": "Warrior",
+    "Text": "Destruction",
+    "Desc": "Deals outstanding amounts of <color=#f29e38ff>damage</color> and possesses great <color=#f29e38ff>survivability</color>. Suitable for various combat scenarios"
+  },
+  "1": {
+    "ID": 1,
+    "Name": "The Hunt",
+    "Alias": "Rogue",
+    "Text": "The Hunt",
+    "Desc": "Deals extraordinary amounts of <color=#f29e38ff>single-target damage</color>. The main damage dealer against Elite Enemies"
+  },
+  "2": {
+    "ID": 2,
+    "Name": "Erudition",
+    "Alias": "Mage",
+    "Text": "Erudition",
+    "Desc": "Deals remarkable amounts of <color=#f29e38ff>multi-target damage</color>. The main damage dealer against groups of enemies"
+  },
+  "3": {
+    "ID": 3,
+    "Name": "Harmony",
+    "Alias": "Shaman",
+    "Text": "Harmony",
+    "Desc": "Applies <color=#f29e38ff>buffs</color> to allies to improve the team's combat capacities"
+  },
+  "4": {
+    "ID": 4,
+    "Name": "Nihility",
+    "Alias": "Warlock",
+    "Text": "Nihility",
+    "Desc": "Applies <color=#f29e38ff>debuffs</color> to enemies to reduce their combat capacities"
+  },
+  "5": {
+    "ID": 5,
+    "Name": "Preservation",
+    "Alias": "Knight",
+    "Text": "Preservation",
+    "Desc": "Possesses powerful <color=#f29e38ff>defensive</color> abilities to protect allies in various ways"
+  },
+  "6": {
+    "ID": 6,
+    "Name": "Abundance",
+    "Alias": "Priest",
+    "Text": "Abundance",
+    "Desc": "<color=#f29e38ff>Heals</color> allies and restores HP to the team"
+  },
+  "7": {
+    "ID": 7,
+    "Name": "",
+    "Alias": "Unknown",
+    "Text": "General",
+    "Desc": ""
+  }
+}
