@@ -64,7 +64,7 @@ class JsonHelper:
         current_data = data
         for key in keys:
             if key not in current_data:
-                logging.warning("Cannot find key {} in json".format(key))
+                logging.debug("Cannot find key {} in json".format(key))
                 return None
 
             current_data = current_data[key]
@@ -100,7 +100,7 @@ class JsonHelper:
     @staticmethod
     def translate_hash(hash_str: str, text_map: dict[str, Any]):
         if hash_str == "None":
-            logging.warning("Cannot find hash None in text map")
+            logging.debug("Cannot find hash None in text map")
             return ""
 
         if hash_str in text_map:
@@ -110,7 +110,7 @@ class JsonHelper:
         if stable_hash_str in text_map:
             return text_map[stable_hash_str]
 
-        logging.warning("Cannot find hash {} in text map".format(hash_str))
+        logging.debug("Cannot find hash {} in text map".format(hash_str))
         return ""
 
     @staticmethod

@@ -146,7 +146,7 @@ class CharacterBuilder:
 
     def get_cv_map(self, char_id) -> CvMap:
         if char_id not in self.avatar_atlas_config:
-            logger.warning("Cannot find CV for {} in avatar atlas".format(char_id))
+            logger.debug("Cannot find CV for {} in avatar atlas".format(char_id))
             return CvMap()
 
         cv_en = JsonHelper.find_and_translate(
