@@ -1,4 +1,6 @@
 import bisect
+import os
+import re
 
 from builders.character_builder import CharacterBuilder
 from helpers.csv_helper import CsvHelper
@@ -73,8 +75,34 @@ class CharacterTableBuilder:
     def write_character_table(self):
         self.csv_helper.write_table(self.character_list)
 
-    def print_character_table(self):
-        CsvHelper.print_table(self.character_list)
+    def update_character_table(self):
+        print(CsvHelper.get_table_string(self.character_list, True, False))
+
+        # Define the start and end markers in the README
+        start_marker = "<!-- CHARACTER_TABLE_START -->"
+        end_marker = "<!-- CHARACTER_TABLE_END -->"
+
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        readme_path = os.path.join(script_dir, "../../README.md")
+
+        # Read the current README content
+        with open(readme_path, "r") as file:
+            readme_content = file.read()
+
+        # Get the new character table string
+        new_table_string = CsvHelper.get_table_string(self.character_list, False, True)
+
+        # Find the current table section (between the markers) and replace it
+        updated_content = re.sub(
+            f"{start_marker}.*?{end_marker}",
+            f"{start_marker}\n{new_table_string}\n{end_marker}",
+            readme_content,
+            flags=re.DOTALL,
+        )
+
+        # Write the updated content back to the README
+        with open(readme_path, "w") as file:
+            file.write(updated_content)
 
     @staticmethod
     def sort_character_dict(nested_character_dict: dict[str, dict]) -> dict[str, dict]:

@@ -19,18 +19,54 @@ class CsvHelper:
             writer.writerows(character_table)
 
     @staticmethod
-    def print_table(character_table: list[list[str]]):
+    def get_table_string(
+        character_table: list[list[str]], color: bool = False, markdown: bool = False
+    ) -> str:
         # Step 1: Determine the maximum width of content for each column
         column_widths = [
             max(len(str(item)) for item in column) for column in zip(*character_table)
         ]
 
-        # Step 2: Construct the separator line
+        # Markdown-style separator and formatting
+        if markdown:
+            # Create a Markdown formatted header and separator line
+            header = character_table[0]
+            header_row = (
+                "| "
+                + " | ".join(
+                    str(item).ljust(width) for item, width in zip(header, column_widths)
+                )
+                + " |"
+            )
+            separator_row = (
+                "| " + " | ".join("-" * width for width in column_widths) + " |"
+            )
+
+            # Generate all data rows
+            data_rows = [
+                "| "
+                + " | ".join(
+                    str(item).ljust(width) for item, width in zip(row, column_widths)
+                )
+                + " |"
+                for row in character_table[1:]
+            ]
+
+            # Combine header, separator, and data rows
+            table_string = "\n".join([header_row, separator_row] + data_rows)
+            return table_string
+
+        # Step 2: Construct the separator line for terminal output
         separator = "+" + "+".join("-" * (width + 2) for width in column_widths) + "+"
-        print(separator)
+
+        # Initialize a list to hold all rows and separators
+        table_string = []
+
+        # Add the first separator
+        table_string.append(separator)
 
         for i, row in enumerate(character_table):
-            # Step 3: Print each row with the appropriate padding
+            # Step 3: Construct each row with the appropriate padding
             row_str = (
                 "| "
                 + " | ".join(
@@ -39,13 +75,20 @@ class CsvHelper:
                 + " |"
             )
 
-            if i == 0:
-                print(row_str)
-            elif i % 2 == 1:
-                print(f"{CsvHelper.YELLOW}{row_str}{CsvHelper.RESET}")
+            # Append the row with or without colors based on the 'color' flag
+            if color:
+                if i == 0:
+                    table_string.append(row_str)
+                elif i % 2 == 1:
+                    table_string.append(f"{CsvHelper.YELLOW}{row_str}{CsvHelper.RESET}")
+                else:
+                    table_string.append(f"{CsvHelper.PURPLE}{row_str}{CsvHelper.RESET}")
             else:
-                print(f"{CsvHelper.PURPLE}{row_str}{CsvHelper.RESET}")
+                table_string.append(row_str)
 
-            # Step 4: Print the separator line after the header and after the table
+            # Add separator after the header and every other row
             if i % 2 == 0:
-                print(separator)
+                table_string.append(separator)
+
+        # Return the full table as a single string
+        return "\n".join(table_string)

@@ -23,7 +23,7 @@ def run(version: int, skip_download: bool = False) -> None:
 
     character_table_builder = CharacterTableBuilder(character_builder, csv_helper)
     character_table_builder.write_character_table()
-    character_table_builder.print_character_table()
+    character_table_builder.update_character_table()
 
     languages = ["EN", "ES", "CHS", "CHT", "JP", "KR"]
     for language in languages:
