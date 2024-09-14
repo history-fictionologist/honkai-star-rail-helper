@@ -1,7 +1,7 @@
 
 # honkai-star-rail-helper
 
-`honkai-star-rail-helper` is a utility designed to manage and process character data, skills, and relic recommendations for video  game [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail). It reads input files, processes various attributes such as character information and skill sets, and outputs the results in an organized format. The input data is sourced from [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) and the output is stored in version-specific folders for easy management.
+`honkai-star-rail-helper` is a utility designed to manage and process character data, skills, and relic recommendations for video  game [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail). It reads input files, processes various attributes such as character information and skill sets, and outputs the results in an organized format. The input data is sourced from the official update packages in [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) repository and the output is stored in version-specific folders for easy management.
 
 ## Latest Character Table
 <!-- CHARACTER_TABLE_START -->
