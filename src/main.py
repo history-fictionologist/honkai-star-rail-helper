@@ -1,4 +1,6 @@
 import argparse
+import re
+
 from builders.character_builder import CharacterBuilder
 from builders.character_table_builder import CharacterTableBuilder
 from helpers.csv_helper import CsvHelper
@@ -29,19 +31,51 @@ def run(version: int, skip_download: bool = False) -> None:
         SkillSetBuilder(json_helper, language).write_skill_sets()
 
 
+def validate_version(value: str) -> str:
+    # Regular expression to match x.y format, where x and y are digits
+    if not re.match(r"^\d+\.\d+$", value):
+        raise argparse.ArgumentTypeError(
+            "Version number must be in x.y format (e.g., 2.5 or 1.0)."
+        )
+    return value
+
+
+def convert_version(version_str: str) -> int:
+    # Remove the decimal point and convert the resulting string to an integer
+    return int(version_str.replace(".", ""))
+
+
 if __name__ == "__main__":
     # Set up command-line argument parsing
     parser = argparse.ArgumentParser(
         description="Process character data and build tables."
     )
+
+    # Add version argument with validation
     parser.add_argument(
-        "--version", type=int, required=True, help="Version number to process."
+        "--version",
+        type=validate_version,  # Validate the version format
+        required=True,
+        help="Version number in x.y format (e.g., 2.5 or 1.0).",
     )
+
+    # Add skip-download argument
     parser.add_argument(
         "--skip-download", action="store_true", help="Skip downloading files."
     )
 
     args = parser.parse_args()
 
-    # Run the script with the provided arguments
-    run(args.version, args.skip_download)
+    # Convert the version number from x.y to xy format
+    version_numeric = convert_version(args.version)
+
+    # Run the script with the validated and converted version number
+    run(version_numeric, args.skip_download)
+
+
+# Example usage:
+# To run the script with version 2.5 and download the files:
+# python3 main.py --version 2.5
+#
+# To run the script with version 2.5 and skip downloading the files:
+# python3 main.py --version 2.5 --skip-download

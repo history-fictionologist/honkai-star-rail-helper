@@ -36,18 +36,29 @@ Make sure you have the following:
 
 ## Usage
 
-1. **Run the Tool:**
+### Run the Tool
    Navigate to the `src/` directory and run the main script with the desired version number:
    ```bash
    cd src
    python3 main.py --version <version_number> [--skip-download]
    ```
 
-   - Replace `<version_number>` with the current version (e.g., `25`).
+   - Replace `<version_number>` with the current version (e.g., `2.5`).
    - If you want to skip downloading the files, add the `--skip-download` flag.
 
    The input files will be downloaded into the `input/{version}` folder, and the output will be saved in the `output/{version}` folder.
 
+### Example Usage
+
+- To run the script with version `2.5` and download the files:
+  ```bash
+  python3 main.py --version 2.5
+  ```
+
+- To run the script with version `2.5` and skip downloading the files:
+  ```bash
+  python3 main.py --version 2.5 --skip-download
+  ```
 ## Contributing
 
 We welcome contributions! You can:
