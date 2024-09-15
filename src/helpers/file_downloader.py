@@ -1,5 +1,4 @@
 import os
-
 import requests
 
 
@@ -8,8 +7,8 @@ class FileDownloader:
     # Common prefix for the URLs
     GITHUB_BASE_URL = "https://github.com/Dimbreath/StarRailData/raw/master/"
 
-    # List of file paths to download
-    GITHUB_FILE_LIST = [
+    # List of common file paths to download (non-language-specific)
+    GITHUB_COMMON_FILE_LIST = [
         "ExcelOutput/AvatarAtlas.json",
         "ExcelOutput/AvatarBaseType.json",
         "ExcelOutput/AvatarCamp.json",
@@ -19,16 +18,17 @@ class FileDownloader:
         "ExcelOutput/AvatarSkillTreeConfig.json",
         "ExcelOutput/DamageType.json",
         "ExcelOutput/RelicSetConfig.json",
-        "TextMap/TextMapEN.json",
-        "TextMap/TextMapES.json",
-        "TextMap/TextMapCHS.json",
-        "TextMap/TextMapCHT.json",
-        "TextMap/TextMapJP.json",
-        "TextMap/TextMapKR.json",
     ]
 
-    def __init__(self, version: int) -> None:
+    # Base path for language-specific TextMap files
+    TEXT_MAP_BASE = "TextMap/TextMap"
+
+    # Supported languages
+    SUPPORTED_LANGUAGES = ["EN", "ES", "CHS", "CHT", "JP", "KR"]
+
+    def __init__(self, version: int, languages: list = None) -> None:
         self.version = version
+        self.languages = languages or FileDownloader.SUPPORTED_LANGUAGES
 
         # Path where the files will be saved
         self.save_path = os.path.join("..", "input", f"v{self.version}")
@@ -55,12 +55,16 @@ class FileDownloader:
         # Ensure the directory exists
         os.makedirs(self.save_path, exist_ok=True)
 
-        # Combine the base URL with each file path to create the full URLs
-        urls = [
-            FileDownloader.GITHUB_BASE_URL + file
-            for file in FileDownloader.GITHUB_FILE_LIST
-        ]
+        # Download common files
+        for file in FileDownloader.GITHUB_COMMON_FILE_LIST:
+            url = FileDownloader.GITHUB_BASE_URL + file
+            self.download_file(url)
 
-        # Download each file in the list
-        for url in urls:
+        # Download language-specific TextMap files
+        for language in self.languages:
+            if language not in FileDownloader.SUPPORTED_LANGUAGES:
+                print(f"Language '{language}' is not supported.")
+                continue
+            text_map_file = f"{FileDownloader.TEXT_MAP_BASE}{language}.json"
+            url = FileDownloader.GITHUB_BASE_URL + text_map_file
             self.download_file(url)

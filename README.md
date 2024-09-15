@@ -79,6 +79,11 @@ Make sure you have the following:
   ```bash
   python3 main.py --version 2.5 --skip-download
   ```
+  
+- To run the script with version 2.5 and download the files for specific languages (e.g., EN and JP):
+  ```bash
+  python3 main.py --version 2.5 --languages EN JP
+  ```
 
 ## Contributing
 

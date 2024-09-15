@@ -9,9 +9,13 @@ from helpers.json_helper import JsonHelper
 from builders.skill_set_builder import SkillSetBuilder
 
 
-def run(version: int, skip_download: bool = False) -> None:
+def run(version: int, skip_download: bool = False, languages: list = None) -> None:
+    # Use default list of languages if none are provided
+    if languages is None:
+        languages = ["EN", "ES", "CHS", "CHT", "JP", "KR"]
+
     if not skip_download:
-        file_downloader = FileDownloader(version)
+        file_downloader = FileDownloader(version, languages)
         file_downloader.download_all_files()
 
     json_helper = JsonHelper(version)
@@ -25,7 +29,6 @@ def run(version: int, skip_download: bool = False) -> None:
     character_table_builder.write_character_table()
     character_table_builder.update_character_table()
 
-    languages = ["EN", "ES", "CHS", "CHT", "JP", "KR"]
     for language in languages:
         CharacterBuilder(json_helper, language).write_relic_rec()
         SkillSetBuilder(json_helper, language).write_skill_sets()
@@ -64,13 +67,20 @@ if __name__ == "__main__":
         "--skip-download", action="store_true", help="Skip downloading files."
     )
 
+    # Add languages argument as a list (optional)
+    parser.add_argument(
+        "--languages",
+        nargs="+",  # Allows one or more languages to be passed
+        help="List of languages to process (e.g., EN JP KR). Defaults to all languages.",
+    )
+
     args = parser.parse_args()
 
     # Convert the version number from x.y to xy format
     version_numeric = convert_version(args.version)
 
     # Run the script with the validated and converted version number
-    run(version_numeric, args.skip_download)
+    run(version_numeric, args.skip_download, args.languages)
 
 
 # Example usage:
@@ -79,3 +89,6 @@ if __name__ == "__main__":
 #
 # To run the script with version 2.5 and skip downloading the files:
 # python3 main.py --version 2.5 --skip-download
+#
+# To run the script with version 2.5 and download the files for specific languages (e.g., EN and JP):
+# python3 main.py --version 2.5 --languages EN JP
