@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình",
+      "Thiết Vệ Bão Tuyết",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Belobog Của Đấng Kiến Tạo",
+      "Công Ty Kinh Doanh Liên Ngân Hà",
+      "Bộ Khung Bị Gãy"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Chim Ưng Ranh Giới Ngày Đêm",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Glamoth, Chiến Tuyến Không Trung",
+      "Trạm Phong Ấn Không Gian",
+      "Đấu Trường Ngôi Sao"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Thợ Rèn Lửa Dung Nham",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Kẻ Hoang Dã Sa Mạc",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Trạm Phong Ấn Không Gian",
+      "Salsotto Dừng Xoay"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Tù Nhân Ngục Tối",
+      "Ban Nhạc Sizzling Thunder",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Glamoth, Chiến Tuyến Không Trung",
+      "Trạm Phong Ấn Không Gian",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Thiên Tài Xuất Chúng",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Công Ty Kinh Doanh Liên Ngân Hà",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Ban Nhạc Sizzling Thunder",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Trạm Phong Ấn Không Gian",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Thợ Rèn Lửa Dung Nham",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Tín Sứ Du Ngoạn Không Gian Hacker"
+    ],
+    "Set2": [
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Xianzhou Không Có Tuổi",
+      "Bộ Khung Bị Gãy"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Thợ Săn Tuyết Phủ",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thợ Săn Tuyết Phủ",
+      "Chim Ưng Ranh Giới Ngày Đêm"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Bộ Khung Bị Gãy",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Thiên Tài Xuất Chúng",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Glamoth, Chiến Tuyến Không Trung",
+      "Trạm Phong Ấn Không Gian",
+      "Salsotto Dừng Xoay"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Ban Nhạc Sizzling Thunder",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Trạm Phong Ấn Không Gian",
+      "Salsotto Dừng Xoay",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình",
+      "Thiết Vệ Bão Tuyết",
+      "Tín Sứ Du Ngoạn Không Gian Hacker"
+    ],
+    "Set2": [
+      "Belobog Của Đấng Kiến Tạo",
+      "Bộ Khung Bị Gãy",
+      "Đấu Trường Ngôi Sao"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Lãng Khách Âm Thầm",
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Bộ Khung Bị Gãy",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Thợ Săn Tuyết Phủ",
+      "Thiện Xạ Bông Lúa",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Trạm Phong Ấn Không Gian",
+      "Đấu Trường Ngôi Sao"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Quyền Vương Đường Phố",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Chim Ưng Ranh Giới Ngày Đêm",
+      "Tù Nhân Ngục Tối",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Trạm Phong Ấn Không Gian",
+      "Talia - Vương Quốc Trộm Cướp",
+      "Công Ty Kinh Doanh Liên Ngân Hà"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Thợ Rèn Lửa Dung Nham",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Trạm Phong Ấn Không Gian",
+      "Đấu Trường Ngôi Sao",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Lãng Khách Âm Thầm",
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Bộ Khung Bị Gãy",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Quyền Vương Đường Phố",
+      "Tù Nhân Ngục Tối",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Trạm Phong Ấn Không Gian",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "Đại Công Tước Tro Tàn",
+      "Thợ Rèn Lửa Dung Nham",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Thiên Tài Xuất Chúng",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Máy Sai Lệch Hành Tinh",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiện Xạ Bông Lúa",
+      "Ban Nhạc Sizzling Thunder"
+    ],
+    "Set2": [
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Xianzhou Không Có Tuổi",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Lãng Khách Âm Thầm",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Hoang Dã Sa Mạc"
+    ],
+    "Set2": [
+      "Trạm Phong Ấn Không Gian",
+      "Vonwacq Hoạt Bát",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "Đại Công Tước Tro Tàn",
+      "Ban Nhạc Sizzling Thunder",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Môn Đồ Trường Thọ",
+      "Chim Ưng Ranh Giới Ngày Đêm",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Xianzhou Không Có Tuổi",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Quyền Vương Đường Phố",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Glamoth, Chiến Tuyến Không Trung",
+      "Trạm Phong Ấn Không Gian",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Hoang Dã Sa Mạc",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Môn Đồ Trường Thọ",
+      "Thiết Vệ Bão Tuyết",
+      "Thiên Tài Xuất Chúng"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Bộ Khung Bị Gãy",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Thợ Săn Tuyết Phủ",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Glamoth, Chiến Tuyến Không Trung",
+      "Trạm Phong Ấn Không Gian",
+      "Salsotto Dừng Xoay"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Tù Nhân Ngục Tối",
+      "Thợ Rèn Lửa Dung Nham",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Trạm Phong Ấn Không Gian",
+      "Công Ty Kinh Doanh Liên Ngân Hà",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Lãng Khách Âm Thầm",
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Bộ Khung Bị Gãy",
+      "Xianzhou Không Có Tuổi",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Thợ Săn Tuyết Phủ",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Hoang Dã Sa Mạc",
+      "Môn Đồ Trường Thọ"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Máy Sai Lệch Hành Tinh",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Thiên Tài Xuất Chúng",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Talia - Vương Quốc Trộm Cướp",
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Cướp Vệt Sao Băng"
+    ],
+    "Set2": [
+      "Bộ Khung Bị Gãy",
+      "Vonwacq Hoạt Bát",
+      "Xianzhou Không Có Tuổi"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Lãng Khách Âm Thầm",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Bộ Khung Bị Gãy",
+      "Penacony, Vùng Đất Của Những Giấc Mơ"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Tù Nhân Ngục Tối",
+      "Thiết Vệ Bão Tuyết",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Công Ty Kinh Doanh Liên Ngân Hà",
+      "Xianzhou Không Có Tuổi",
+      "Vonwacq Hoạt Bát"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "Dũng Khí Ngút Trời",
+      "Chim Ưng Ranh Giới Ngày Đêm",
+      "Đại Công Tước Tro Tàn"
+    ],
+    "Set2": [
+      "Duran - Vương Triều Sói Hoang",
+      "Salsotto Dừng Xoay",
+      "Glamoth, Chiến Tuyến Không Trung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "Dũng Khí Ngút Trời",
+      "Tiên Phong Trong Nước Chết",
+      "Quyền Vương Đường Phố"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Duran - Vương Triều Sói Hoang",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "Thiết Kỵ Diệt Trừ Tai Họa",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Lãng Khách Âm Thầm"
+    ],
+    "Set2": [
+      "Cung Điện Rèn Đúc Kiếp Hỏa Liên Đăng",
+      "Talia - Vương Quốc Trộm Cướp",
+      "Xianzhou Không Có Tuổi"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "Tiên Phong Trong Nước Chết",
+      "Ban Nhạc Sizzling Thunder",
+      "Dũng Khí Ngút Trời"
+    ],
+    "Set2": [
+      "Duran - Vương Triều Sói Hoang",
+      "Izumo Hiện Thế Và Thần Quốc Cõi Trời",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Thiện Xạ Bông Lúa",
+      "Kẻ Hoang Dã Sa Mạc",
+      "Tiên Phong Trong Nước Chết"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Izumo Hiện Thế Và Thần Quốc Cõi Trời",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Lãng Khách Âm Thầm",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Talia - Vương Quốc Trộm Cướp",
+      "Bộ Khung Bị Gãy"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Quyền Vương Đường Phố",
+      "Thiện Xạ Bông Lúa",
+      "Môn Đồ Trường Thọ"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Máy Sai Lệch Hành Tinh"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Kẻ Cướp Vệt Sao Băng",
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Talia - Vương Quốc Trộm Cướp",
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Bộ Khung Bị Gãy"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình",
+      "Kẻ Hoang Dã Sa Mạc",
+      "Thiết Vệ Bão Tuyết"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Belobog Của Đấng Kiến Tạo",
+      "Bộ Khung Bị Gãy"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Kẻ Hoang Dã Sa Mạc",
+      "Thiện Xạ Bông Lúa",
+      "Đại Công Tước Tro Tàn"
+    ],
+    "Set2": [
+      "Glamoth, Chiến Tuyến Không Trung",
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Tín Sứ Du Ngoạn Không Gian Hacker",
+      "Thiết Vệ Bão Tuyết",
+      "Môn Đồ Trường Thọ"
+    ],
+    "Set2": [
+      "Bộ Khung Bị Gãy",
+      "Penacony, Vùng Đất Của Những Giấc Mơ",
+      "Xianzhou Không Có Tuổi"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Tù Nhân Ngục Tối",
+      "Chim Ưng Ranh Giới Ngày Đêm",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Công Ty Kinh Doanh Liên Ngân Hà",
+      "Trạm Phong Ấn Không Gian",
+      "Glamoth, Chiến Tuyến Không Trung"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Tiên Phong Trong Nước Chết",
+      "Ban Nhạc Sizzling Thunder",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Izumo Hiện Thế Và Thần Quốc Cõi Trời",
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Thiện Xạ Bông Lúa",
+      "Quyền Vương Đường Phố",
+      "Tín Sứ Du Ngoạn Không Gian Hacker"
+    ],
+    "Set2": [
+      "Xianzhou Không Có Tuổi",
+      "Trạm Phong Ấn Không Gian",
+      "Bộ Khung Bị Gãy"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Thiết Kỵ Diệt Trừ Tai Họa",
+      "Thợ Rèn Lửa Dung Nham",
+      "Thiên Tài Xuất Chúng"
+    ],
+    "Set2": [
+      "Cung Điện Rèn Đúc Kiếp Hỏa Liên Đăng",
+      "Talia - Vương Quốc Trộm Cướp",
+      "Đấu Trường Ngôi Sao"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Thợ Săn Tuyết Phủ",
+      "Thiện Xạ Bông Lúa",
+      "Môn Đồ Trường Thọ"
+    ],
+    "Set2": [
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian",
+      "Glamoth, Chiến Tuyến Không Trung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Thiên Tài Xuất Chúng",
+      "Đại Công Tước Tro Tàn",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Hành Tinh Vô Chủ Sigonia",
+      "Salsotto Dừng Xoay",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Kẻ Cướp Vệt Sao Băng",
+      "Quyền Vương Đường Phố",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Talia - Vương Quốc Trộm Cướp",
+      "Đấu Trường Ngôi Sao",
+      "Trạm Phong Ấn Không Gian"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Quyền Vương Đường Phố",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Trạm Phong Ấn Không Gian",
+      "Salsotto Dừng Xoay"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Quyền Vương Đường Phố",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Đấu Trường Ngôi Sao",
+      "Trạm Phong Ấn Không Gian",
+      "Salsotto Dừng Xoay"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình",
+      "Thiết Vệ Bão Tuyết",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Belobog Của Đấng Kiến Tạo",
+      "Bộ Khung Bị Gãy",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình",
+      "Thiết Vệ Bão Tuyết",
+      "Thiện Xạ Bông Lúa"
+    ],
+    "Set2": [
+      "Belobog Của Đấng Kiến Tạo",
+      "Bộ Khung Bị Gãy",
+      "Talia - Vương Quốc Trộm Cướp"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Thợ Đồng Hồ, Bậc Thầy Máy Móc",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Tín Sứ Du Ngoạn Không Gian Hacker"
+    ],
+    "Set2": [
+      "Talia - Vương Quốc Trộm Cướp",
+      "Xianzhou Không Có Tuổi",
+      "Penacony, Vùng Đất Của Những Giấc Mơ"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Thợ Đồng Hồ, Bậc Thầy Máy Móc",
+      "Kẻ Cướp Vệt Sao Băng",
+      "Tín Sứ Du Ngoạn Không Gian Hacker"
+    ],
+    "Set2": [
+      "Talia - Vương Quốc Trộm Cướp",
+      "Xianzhou Không Có Tuổi",
+      "Penacony, Vùng Đất Của Những Giấc Mơ"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

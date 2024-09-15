@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Pan-Cosmic Commercial Enterprise",
+      "Broken Keel"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Eagle of Twilight Line",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Rutilant Arena"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Wastelander of Banditry Desert",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Prisoner in Deep Confinement",
+      "Band of Sizzling Thunder",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Pan-Cosmic Commercial Enterprise",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Band of Sizzling Thunder",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Fleet of the Ageless",
+      "Broken Keel"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Hunter of Glacial Forest",
+      "Eagle of Twilight Line"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Band of Sizzling Thunder",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Inert Salsotto",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Broken Keel",
+      "Rutilant Arena"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Messenger Traversing Hackerspace",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Space Sealing Station",
+      "Rutilant Arena"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Eagle of Twilight Line",
+      "Prisoner in Deep Confinement",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry",
+      "Pan-Cosmic Commercial Enterprise"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Rutilant Arena",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Prisoner in Deep Confinement",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "The Ashblazing Grand Duke",
+      "Firesmith of Lava-Forging",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Celestial Differentiator",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Musketeer of Wild Wheat",
+      "Band of Sizzling Thunder"
+    ],
+    "Set2": [
+      "Penacony, Land of the Dreams",
+      "Fleet of the Ageless",
+      "Space Sealing Station"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Sprightly Vonwacq",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "The Ashblazing Grand Duke",
+      "Band of Sizzling Thunder",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Longevous Disciple",
+      "Eagle of Twilight Line",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Fleet of the Ageless",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Penacony, Land of the Dreams",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Longevous Disciple",
+      "Guard of Wuthering Snow",
+      "Genius of Brilliant Stars"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Prisoner in Deep Confinement",
+      "Firesmith of Lava-Forging",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Space Sealing Station",
+      "Pan-Cosmic Commercial Enterprise",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Broken Keel",
+      "Fleet of the Ageless",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert",
+      "Longevous Disciple"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Celestial Differentiator",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Musketeer of Wild Wheat",
+      "Thief of Shooting Meteor"
+    ],
+    "Set2": [
+      "Broken Keel",
+      "Sprightly Vonwacq",
+      "Fleet of the Ageless"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Passerby of Wandering Cloud",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Broken Keel",
+      "Penacony, Land of the Dreams"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Prisoner in Deep Confinement",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Pan-Cosmic Commercial Enterprise",
+      "Fleet of the Ageless",
+      "Sprightly Vonwacq"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "The Wind-Soaring Valorous",
+      "Eagle of Twilight Line",
+      "The Ashblazing Grand Duke"
+    ],
+    "Set2": [
+      "Duran, Dynasty of Running Wolves",
+      "Inert Salsotto",
+      "Firmament Frontline: Glamoth"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "The Wind-Soaring Valorous",
+      "Pioneer Diver of Dead Waters",
+      "Champion of Streetwise Boxing"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Duran, Dynasty of Running Wolves",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "Iron Cavalry Against the Scourge",
+      "Thief of Shooting Meteor",
+      "Passerby of Wandering Cloud"
+    ],
+    "Set2": [
+      "Forge of the Kalpagni Lantern",
+      "Talia: Kingdom of Banditry",
+      "Fleet of the Ageless"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "Pioneer Diver of Dead Waters",
+      "Band of Sizzling Thunder",
+      "The Wind-Soaring Valorous"
+    ],
+    "Set2": [
+      "Duran, Dynasty of Running Wolves",
+      "Izumo Gensei and Takama Divine Realm",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Musketeer of Wild Wheat",
+      "Wastelander of Banditry Desert",
+      "Pioneer Diver of Dead Waters"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Izumo Gensei and Takama Divine Realm",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Passerby of Wandering Cloud",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Talia: Kingdom of Banditry",
+      "Broken Keel"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Musketeer of Wild Wheat",
+      "Longevous Disciple"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Celestial Differentiator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Thief of Shooting Meteor",
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Penacony, Land of the Dreams",
+      "Broken Keel"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Wastelander of Banditry Desert",
+      "Guard of Wuthering Snow"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Belobog of the Architects",
+      "Broken Keel"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Wastelander of Banditry Desert",
+      "Musketeer of Wild Wheat",
+      "The Ashblazing Grand Duke"
+    ],
+    "Set2": [
+      "Firmament Frontline: Glamoth",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Messenger Traversing Hackerspace",
+      "Guard of Wuthering Snow",
+      "Longevous Disciple"
+    ],
+    "Set2": [
+      "Broken Keel",
+      "Penacony, Land of the Dreams",
+      "Fleet of the Ageless"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Prisoner in Deep Confinement",
+      "Eagle of Twilight Line",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Pan-Cosmic Commercial Enterprise",
+      "Space Sealing Station",
+      "Firmament Frontline: Glamoth"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Pioneer Diver of Dead Waters",
+      "Band of Sizzling Thunder",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Izumo Gensei and Takama Divine Realm",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Musketeer of Wild Wheat",
+      "Champion of Streetwise Boxing",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Fleet of the Ageless",
+      "Space Sealing Station",
+      "Broken Keel"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Iron Cavalry Against the Scourge",
+      "Firesmith of Lava-Forging",
+      "Genius of Brilliant Stars"
+    ],
+    "Set2": [
+      "Forge of the Kalpagni Lantern",
+      "Talia: Kingdom of Banditry",
+      "Rutilant Arena"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Hunter of Glacial Forest",
+      "Musketeer of Wild Wheat",
+      "Longevous Disciple"
+    ],
+    "Set2": [
+      "Inert Salsotto",
+      "Space Sealing Station",
+      "Firmament Frontline: Glamoth"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Genius of Brilliant Stars",
+      "The Ashblazing Grand Duke",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Sigonia, the Unclaimed Desolation",
+      "Inert Salsotto",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Thief of Shooting Meteor",
+      "Champion of Streetwise Boxing",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Rutilant Arena",
+      "Space Sealing Station"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Champion of Streetwise Boxing",
+      "Thief of Shooting Meteor",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Rutilant Arena",
+      "Space Sealing Station",
+      "Inert Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Broken Keel",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Knight of Purity Palace",
+      "Guard of Wuthering Snow",
+      "Musketeer of Wild Wheat"
+    ],
+    "Set2": [
+      "Belobog of the Architects",
+      "Broken Keel",
+      "Talia: Kingdom of Banditry"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Watchmaker, Master of Dream Machinations",
+      "Thief of Shooting Meteor",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Fleet of the Ageless",
+      "Penacony, Land of the Dreams"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Watchmaker, Master of Dream Machinations",
+      "Thief of Shooting Meteor",
+      "Messenger Traversing Hackerspace"
+    ],
+    "Set2": [
+      "Talia: Kingdom of Banditry",
+      "Fleet of the Ageless",
+      "Penacony, Land of the Dreams"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

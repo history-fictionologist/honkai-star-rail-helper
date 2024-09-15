@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Рыцарь дворца чистоты",
+      "Страж снежной метели",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Белобог Архитекторов",
+      "Пангалактическое коммерческое предприятие",
+      "Сломанный киль"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Орёл сумеречного рубежа",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Небесный фронт Глатирамер",
+      "Запечатывающая космос станция",
+      "Звездистая арена"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Кузнец огня и лавы",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Головорез бандитской пустыни",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Запечатывающая космос станция",
+      "Замершее Салсотто"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Пленник мрачной темницы",
+      "Бэнд испепеляющего грома",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Небесный фронт Глатирамер",
+      "Запечатывающая космос станция",
+      "Талия - край бандитов"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Гений бриллиантовых звёзд",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Земля грёз Пенакония",
+      "Пангалактическое коммерческое предприятие",
+      "Талия - край бандитов"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Бэнд испепеляющего грома",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Запечатывающая космос станция",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Кузнец огня и лавы",
+      "Вор падающего метеора",
+      "Вестник, блуждающий в хакерском пространстве"
+    ],
+    "Set2": [
+      "Земля грёз Пенакония",
+      "Флот нестареющих",
+      "Сломанный киль"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Охотник ледникового леса",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Живой Вонвак"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Вестник, блуждающий в хакерском пространстве",
+      "Охотник ледникового леса",
+      "Орёл сумеречного рубежа"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Сломанный киль",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Гений бриллиантовых звёзд",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Небесный фронт Глатирамер",
+      "Запечатывающая космос станция",
+      "Замершее Салсотто"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Бэнд испепеляющего грома",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Запечатывающая космос станция",
+      "Замершее Салсотто",
+      "Живой Вонвак"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Рыцарь дворца чистоты",
+      "Страж снежной метели",
+      "Вестник, блуждающий в хакерском пространстве"
+    ],
+    "Set2": [
+      "Белобог Архитекторов",
+      "Сломанный киль",
+      "Звездистая арена"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Скиталец блуждающего облака",
+      "Вестник, блуждающий в хакерском пространстве",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Сломанный киль",
+      "Живой Вонвак"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Охотник ледникового леса",
+      "Стрелок дикой пшеницы",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Земля грёз Пенакония",
+      "Запечатывающая космос станция",
+      "Звездистая арена"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Чемпион уличного бокса",
+      "Вор падающего метеора",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Талия - край бандитов"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Орёл сумеречного рубежа",
+      "Пленник мрачной темницы",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Запечатывающая космос станция",
+      "Талия - край бандитов",
+      "Пангалактическое коммерческое предприятие"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Кузнец огня и лавы",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Запечатывающая космос станция",
+      "Звездистая арена",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Скиталец блуждающего облака",
+      "Вестник, блуждающий в хакерском пространстве",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Сломанный киль",
+      "Живой Вонвак"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Чемпион уличного бокса",
+      "Пленник мрачной темницы",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Запечатывающая космос станция",
+      "Талия - край бандитов"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "Сжигающий дотла герцог",
+      "Кузнец огня и лавы",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Гений бриллиантовых звёзд",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Небесный дифференциатор",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Вестник, блуждающий в хакерском пространстве",
+      "Стрелок дикой пшеницы",
+      "Бэнд испепеляющего грома"
+    ],
+    "Set2": [
+      "Земля грёз Пенакония",
+      "Флот нестареющих",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Скиталец блуждающего облака",
+      "Стрелок дикой пшеницы",
+      "Головорез бандитской пустыни"
+    ],
+    "Set2": [
+      "Запечатывающая космос станция",
+      "Живой Вонвак",
+      "Талия - край бандитов"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "Сжигающий дотла герцог",
+      "Бэнд испепеляющего грома",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Долгоживущий ученик",
+      "Орёл сумеречного рубежа",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Флот нестареющих",
+      "Живой Вонвак"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Чемпион уличного бокса",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Небесный фронт Глатирамер",
+      "Запечатывающая космос станция",
+      "Талия - край бандитов"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Стрелок дикой пшеницы",
+      "Головорез бандитской пустыни",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Земля грёз Пенакония",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Долгоживущий ученик",
+      "Страж снежной метели",
+      "Гений бриллиантовых звёзд"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Сломанный киль",
+      "Живой Вонвак"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Охотник ледникового леса",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Небесный фронт Глатирамер",
+      "Запечатывающая космос станция",
+      "Замершее Салсотто"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Пленник мрачной темницы",
+      "Кузнец огня и лавы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Запечатывающая космос станция",
+      "Пангалактическое коммерческое предприятие",
+      "Талия - край бандитов"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Скиталец блуждающего облака",
+      "Вестник, блуждающий в хакерском пространстве",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Сломанный киль",
+      "Флот нестареющих",
+      "Живой Вонвак"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Охотник ледникового леса",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Замершее Салсотто",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Стрелок дикой пшеницы",
+      "Головорез бандитской пустыни",
+      "Долгоживущий ученик"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Небесный дифференциатор",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Гений бриллиантовых звёзд",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Талия - край бандитов",
+      "Замершее Салсотто",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Вестник, блуждающий в хакерском пространстве",
+      "Стрелок дикой пшеницы",
+      "Вор падающего метеора"
+    ],
+    "Set2": [
+      "Сломанный киль",
+      "Живой Вонвак",
+      "Флот нестареющих"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Вестник, блуждающий в хакерском пространстве",
+      "Скиталец блуждающего облака",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Сломанный киль",
+      "Земля грёз Пенакония"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Пленник мрачной темницы",
+      "Страж снежной метели",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Пангалактическое коммерческое предприятие",
+      "Флот нестареющих",
+      "Живой Вонвак"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "Храбрость ветра",
+      "Орёл сумеречного рубежа",
+      "Сжигающий дотла герцог"
+    ],
+    "Set2": [
+      "Дуранская династия волков",
+      "Замершее Салсотто",
+      "Небесный фронт Глатирамер"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "Храбрость ветра",
+      "Первооткрыватель мёртвых вод",
+      "Чемпион уличного бокса"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Дуранская династия волков",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "Железная кавалерия против нашествия",
+      "Вор падающего метеора",
+      "Скиталец блуждающего облака"
+    ],
+    "Set2": [
+      "Лотосовый фонарь дворца",
+      "Талия - край бандитов",
+      "Флот нестареющих"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "Первооткрыватель мёртвых вод",
+      "Бэнд испепеляющего грома",
+      "Храбрость ветра"
+    ],
+    "Set2": [
+      "Дуранская династия волков",
+      "Мир Идзумо и Царство Такама",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Стрелок дикой пшеницы",
+      "Головорез бандитской пустыни",
+      "Первооткрыватель мёртвых вод"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Мир Идзумо и Царство Такама",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Скиталец блуждающего облака",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Талия - край бандитов",
+      "Сломанный киль"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Чемпион уличного бокса",
+      "Стрелок дикой пшеницы",
+      "Долгоживущий ученик"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Небесный дифференциатор"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Вор падающего метеора",
+      "Вестник, блуждающий в хакерском пространстве",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Талия - край бандитов",
+      "Земля грёз Пенакония",
+      "Сломанный киль"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Рыцарь дворца чистоты",
+      "Головорез бандитской пустыни",
+      "Страж снежной метели"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Белобог Архитекторов",
+      "Сломанный киль"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Головорез бандитской пустыни",
+      "Стрелок дикой пшеницы",
+      "Сжигающий дотла герцог"
+    ],
+    "Set2": [
+      "Небесный фронт Глатирамер",
+      "Замершее Салсотто",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Вестник, блуждающий в хакерском пространстве",
+      "Страж снежной метели",
+      "Долгоживущий ученик"
+    ],
+    "Set2": [
+      "Сломанный киль",
+      "Земля грёз Пенакония",
+      "Флот нестареющих"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Пленник мрачной темницы",
+      "Орёл сумеречного рубежа",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Пангалактическое коммерческое предприятие",
+      "Запечатывающая космос станция",
+      "Небесный фронт Глатирамер"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Первооткрыватель мёртвых вод",
+      "Бэнд испепеляющего грома",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Мир Идзумо и Царство Такама",
+      "Замершее Салсотто",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Стрелок дикой пшеницы",
+      "Чемпион уличного бокса",
+      "Вестник, блуждающий в хакерском пространстве"
+    ],
+    "Set2": [
+      "Флот нестареющих",
+      "Запечатывающая космос станция",
+      "Сломанный киль"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Железная кавалерия против нашествия",
+      "Кузнец огня и лавы",
+      "Гений бриллиантовых звёзд"
+    ],
+    "Set2": [
+      "Лотосовый фонарь дворца",
+      "Талия - край бандитов",
+      "Звездистая арена"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Охотник ледникового леса",
+      "Стрелок дикой пшеницы",
+      "Долгоживущий ученик"
+    ],
+    "Set2": [
+      "Замершее Салсотто",
+      "Запечатывающая космос станция",
+      "Небесный фронт Глатирамер"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Гений бриллиантовых звёзд",
+      "Сжигающий дотла герцог",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Бесплодная Сигония",
+      "Замершее Салсотто",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Вор падающего метеора",
+      "Чемпион уличного бокса",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Талия - край бандитов",
+      "Звездистая арена",
+      "Запечатывающая космос станция"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Чемпион уличного бокса",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Запечатывающая космос станция",
+      "Замершее Салсотто"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Чемпион уличного бокса",
+      "Вор падающего метеора",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Звездистая арена",
+      "Запечатывающая космос станция",
+      "Замершее Салсотто"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Рыцарь дворца чистоты",
+      "Страж снежной метели",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Белобог Архитекторов",
+      "Сломанный киль",
+      "Талия - край бандитов"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Рыцарь дворца чистоты",
+      "Страж снежной метели",
+      "Стрелок дикой пшеницы"
+    ],
+    "Set2": [
+      "Белобог Архитекторов",
+      "Сломанный киль",
+      "Талия - край бандитов"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Часовщик сонных махинаций",
+      "Вор падающего метеора",
+      "Вестник, блуждающий в хакерском пространстве"
+    ],
+    "Set2": [
+      "Талия - край бандитов",
+      "Флот нестареющих",
+      "Земля грёз Пенакония"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Часовщик сонных махинаций",
+      "Вор падающего метеора",
+      "Вестник, блуждающий в хакерском пространстве"
+    ],
+    "Set2": [
+      "Талия - край бандитов",
+      "Флот нестареющих",
+      "Земля грёз Пенакония"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 
 
@@ -6,6 +7,7 @@ class FileDownloader:
 
     # Common prefix for the URLs
     GITHUB_BASE_URL = "https://github.com/Dimbreath/StarRailData/raw/master/"
+    GITHUB_API_URL = "https://api.github.com/repos/Dimbreath/StarRailData/contents/"
 
     # List of common file paths to download (non-language-specific)
     GITHUB_COMMON_FILE_LIST = [
@@ -21,14 +23,11 @@ class FileDownloader:
     ]
 
     # Base path for language-specific TextMap files
-    TEXT_MAP_BASE = "TextMap/TextMap"
-
-    # Supported languages
-    SUPPORTED_LANGUAGES = ["EN", "ES", "CHS", "CHT", "JP", "KR"]
+    TEXT_MAP_DIR = "TextMap/"
 
     def __init__(self, version: int, languages: list = None) -> None:
         self.version = version
-        self.languages = languages or FileDownloader.SUPPORTED_LANGUAGES
+        self.languages = languages or FileDownloader.get_supported_languages()
 
         # Path where the files will be saved
         self.save_path = os.path.join("..", "input", f"v{self.version}")
@@ -62,9 +61,33 @@ class FileDownloader:
 
         # Download language-specific TextMap files
         for language in self.languages:
-            if language not in FileDownloader.SUPPORTED_LANGUAGES:
-                print(f"Language '{language}' is not supported.")
-                continue
-            text_map_file = f"{FileDownloader.TEXT_MAP_BASE}{language}.json"
+            text_map_file = f"{FileDownloader.TEXT_MAP_DIR}TextMap{language}.json"
             url = FileDownloader.GITHUB_BASE_URL + text_map_file
             self.download_file(url)
+
+    @staticmethod
+    def get_supported_languages() -> list:
+        """Fetch the list of available language abbreviations by listing files in the TextMap directory."""
+        response = requests.get(
+            FileDownloader.GITHUB_API_URL + FileDownloader.TEXT_MAP_DIR
+        )
+
+        if response.status_code == 200:
+            # Extract filenames from the API response
+            files = response.json()
+            language_set = set()
+            pattern = r"TextMap(Main)?([A-Z]+)\.json"
+
+            # Loop through files and extract language abbreviations
+            for file in files:
+                match = re.search(pattern, file["name"])
+                if match:
+                    language_set.add(match.group(2))
+
+            # Return the sorted list of unique languages
+            return sorted(language_set)
+        else:
+            print(
+                f"Failed to fetch directory content. Status code: {response.status_code}"
+            )
+            return []

@@ -12,7 +12,8 @@ from builders.skill_set_builder import SkillSetBuilder
 def run(version: int, skip_download: bool = False, languages: list = None) -> None:
     # Use default list of languages if none are provided
     if languages is None:
-        languages = ["EN", "ES", "CHS", "CHT", "JP", "KR"]
+        languages = FileDownloader.get_supported_languages()
+    print("Supported languages: {}".format(languages))
 
     if not skip_download:
         file_downloader = FileDownloader(version, languages)

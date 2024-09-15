@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Cavaleira do Palácio da Pureza",
+      "Guarda da Neve Uivante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Belobog dos Arquitetos",
+      "Empresa Mercantil Pan-Cósmica",
+      "Quilha Quebrada"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Águia da Linha do Crepúsculo",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Linha de Frente: Firmamento de Glamoth",
+      "Estação de Vedação Espacial",
+      "Arena Rutilante"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Artesão de Fogo da Forja de Lava",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Andarilho do Deserto da Bandidagem",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Estação de Vedação Espacial",
+      "Salsotto Inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Prisioneiro em Confinamento Profundo",
+      "Banda Trovão Crepitante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Linha de Frente: Firmamento de Glamoth",
+      "Estação de Vedação Espacial",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Gênio das Estrelas Brilhantes",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Penacony, Terra dos Sonhos",
+      "Empresa Mercantil Pan-Cósmica",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Banda Trovão Crepitante",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Estação de Vedação Espacial",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Artesão de Fogo da Forja de Lava",
+      "Ladrão da Chuva de Meteoros",
+      "Mensageira Atravessando o Hackerspace"
+    ],
+    "Set2": [
+      "Penacony, Terra dos Sonhos",
+      "Frota dos Eternos",
+      "Quilha Quebrada"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Caçador da Floresta Glacial",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Mensageira Atravessando o Hackerspace",
+      "Caçador da Floresta Glacial",
+      "Águia da Linha do Crepúsculo"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Quilha Quebrada",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Gênio das Estrelas Brilhantes",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Linha de Frente: Firmamento de Glamoth",
+      "Estação de Vedação Espacial",
+      "Salsotto Inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Banda Trovão Crepitante",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Estação de Vedação Espacial",
+      "Salsotto Inerte",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Cavaleira do Palácio da Pureza",
+      "Guarda da Neve Uivante",
+      "Mensageira Atravessando o Hackerspace"
+    ],
+    "Set2": [
+      "Belobog dos Arquitetos",
+      "Quilha Quebrada",
+      "Arena Rutilante"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Transeunte da Nuvem Errante",
+      "Mensageira Atravessando o Hackerspace",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Quilha Quebrada",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Caçador da Floresta Glacial",
+      "Mosqueteira do Trigo Selvagem",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Penacony, Terra dos Sonhos",
+      "Estação de Vedação Espacial",
+      "Arena Rutilante"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Campeã de Boxe de Rua",
+      "Ladrão da Chuva de Meteoros",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Águia da Linha do Crepúsculo",
+      "Prisioneiro em Confinamento Profundo",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Estação de Vedação Espacial",
+      "Talia: Reino do Banditismo",
+      "Empresa Mercantil Pan-Cósmica"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Artesão de Fogo da Forja de Lava",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Estação de Vedação Espacial",
+      "Arena Rutilante",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Transeunte da Nuvem Errante",
+      "Mensageira Atravessando o Hackerspace",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Quilha Quebrada",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Campeã de Boxe de Rua",
+      "Prisioneiro em Confinamento Profundo",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Estação de Vedação Espacial",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "Grão-Duque em Brasas",
+      "Artesão de Fogo da Forja de Lava",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Gênio das Estrelas Brilhantes",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Diferenciador Celestial",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Mensageira Atravessando o Hackerspace",
+      "Mosqueteira do Trigo Selvagem",
+      "Banda Trovão Crepitante"
+    ],
+    "Set2": [
+      "Penacony, Terra dos Sonhos",
+      "Frota dos Eternos",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Transeunte da Nuvem Errante",
+      "Mosqueteira do Trigo Selvagem",
+      "Andarilho do Deserto da Bandidagem"
+    ],
+    "Set2": [
+      "Estação de Vedação Espacial",
+      "Vonwacq Vivaz",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "Grão-Duque em Brasas",
+      "Banda Trovão Crepitante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Discípula Longeva",
+      "Águia da Linha do Crepúsculo",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Frota dos Eternos",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Campeã de Boxe de Rua",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Linha de Frente: Firmamento de Glamoth",
+      "Estação de Vedação Espacial",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Mosqueteira do Trigo Selvagem",
+      "Andarilho do Deserto da Bandidagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Penacony, Terra dos Sonhos",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Discípula Longeva",
+      "Guarda da Neve Uivante",
+      "Gênio das Estrelas Brilhantes"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Quilha Quebrada",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Caçador da Floresta Glacial",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Linha de Frente: Firmamento de Glamoth",
+      "Estação de Vedação Espacial",
+      "Salsotto Inerte"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Prisioneiro em Confinamento Profundo",
+      "Artesão de Fogo da Forja de Lava",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Estação de Vedação Espacial",
+      "Empresa Mercantil Pan-Cósmica",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Transeunte da Nuvem Errante",
+      "Mensageira Atravessando o Hackerspace",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Quilha Quebrada",
+      "Frota dos Eternos",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Caçador da Floresta Glacial",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Mosqueteira do Trigo Selvagem",
+      "Andarilho do Deserto da Bandidagem",
+      "Discípula Longeva"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Diferenciador Celestial",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Gênio das Estrelas Brilhantes",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Talia: Reino do Banditismo",
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Mensageira Atravessando o Hackerspace",
+      "Mosqueteira do Trigo Selvagem",
+      "Ladrão da Chuva de Meteoros"
+    ],
+    "Set2": [
+      "Quilha Quebrada",
+      "Vonwacq Vivaz",
+      "Frota dos Eternos"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Mensageira Atravessando o Hackerspace",
+      "Transeunte da Nuvem Errante",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Quilha Quebrada",
+      "Penacony, Terra dos Sonhos"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Prisioneiro em Confinamento Profundo",
+      "Guarda da Neve Uivante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Empresa Mercantil Pan-Cósmica",
+      "Frota dos Eternos",
+      "Vonwacq Vivaz"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "Coragem Como Vento e Nuvem",
+      "Águia da Linha do Crepúsculo",
+      "Grão-Duque em Brasas"
+    ],
+    "Set2": [
+      "Duran, Dinastia dos Lobos Errantes",
+      "Salsotto Inerte",
+      "Linha de Frente: Firmamento de Glamoth"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "Coragem Como Vento e Nuvem",
+      "Mergulhadora Pioneira de Águas Mortas",
+      "Campeã de Boxe de Rua"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Duran, Dinastia dos Lobos Errantes",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "Cavalaria de Ferro Contra a Praga",
+      "Ladrão da Chuva de Meteoros",
+      "Transeunte da Nuvem Errante"
+    ],
+    "Set2": [
+      "Forja da Lanterna Kalpagni",
+      "Talia: Reino do Banditismo",
+      "Frota dos Eternos"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "Mergulhadora Pioneira de Águas Mortas",
+      "Banda Trovão Crepitante",
+      "Coragem Como Vento e Nuvem"
+    ],
+    "Set2": [
+      "Duran, Dinastia dos Lobos Errantes",
+      "Izumo Gensei e Reino Divino de Takama",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Mosqueteira do Trigo Selvagem",
+      "Andarilho do Deserto da Bandidagem",
+      "Mergulhadora Pioneira de Águas Mortas"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Izumo Gensei e Reino Divino de Takama",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Transeunte da Nuvem Errante",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Talia: Reino do Banditismo",
+      "Quilha Quebrada"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Campeã de Boxe de Rua",
+      "Mosqueteira do Trigo Selvagem",
+      "Discípula Longeva"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Diferenciador Celestial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Ladrão da Chuva de Meteoros",
+      "Mensageira Atravessando o Hackerspace",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Talia: Reino do Banditismo",
+      "Penacony, Terra dos Sonhos",
+      "Quilha Quebrada"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Cavaleira do Palácio da Pureza",
+      "Andarilho do Deserto da Bandidagem",
+      "Guarda da Neve Uivante"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Belobog dos Arquitetos",
+      "Quilha Quebrada"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Andarilho do Deserto da Bandidagem",
+      "Mosqueteira do Trigo Selvagem",
+      "Grão-Duque em Brasas"
+    ],
+    "Set2": [
+      "Linha de Frente: Firmamento de Glamoth",
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Mensageira Atravessando o Hackerspace",
+      "Guarda da Neve Uivante",
+      "Discípula Longeva"
+    ],
+    "Set2": [
+      "Quilha Quebrada",
+      "Penacony, Terra dos Sonhos",
+      "Frota dos Eternos"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Prisioneiro em Confinamento Profundo",
+      "Águia da Linha do Crepúsculo",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Empresa Mercantil Pan-Cósmica",
+      "Estação de Vedação Espacial",
+      "Linha de Frente: Firmamento de Glamoth"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Mergulhadora Pioneira de Águas Mortas",
+      "Banda Trovão Crepitante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Izumo Gensei e Reino Divino de Takama",
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Mosqueteira do Trigo Selvagem",
+      "Campeã de Boxe de Rua",
+      "Mensageira Atravessando o Hackerspace"
+    ],
+    "Set2": [
+      "Frota dos Eternos",
+      "Estação de Vedação Espacial",
+      "Quilha Quebrada"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Cavalaria de Ferro Contra a Praga",
+      "Artesão de Fogo da Forja de Lava",
+      "Gênio das Estrelas Brilhantes"
+    ],
+    "Set2": [
+      "Forja da Lanterna Kalpagni",
+      "Talia: Reino do Banditismo",
+      "Arena Rutilante"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Caçador da Floresta Glacial",
+      "Mosqueteira do Trigo Selvagem",
+      "Discípula Longeva"
+    ],
+    "Set2": [
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial",
+      "Linha de Frente: Firmamento de Glamoth"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Gênio das Estrelas Brilhantes",
+      "Grão-Duque em Brasas",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Sigonia, a Desolação Abandonada",
+      "Salsotto Inerte",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Ladrão da Chuva de Meteoros",
+      "Campeã de Boxe de Rua",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Talia: Reino do Banditismo",
+      "Arena Rutilante",
+      "Estação de Vedação Espacial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Campeã de Boxe de Rua",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Estação de Vedação Espacial",
+      "Salsotto Inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Campeã de Boxe de Rua",
+      "Ladrão da Chuva de Meteoros",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Arena Rutilante",
+      "Estação de Vedação Espacial",
+      "Salsotto Inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Cavaleira do Palácio da Pureza",
+      "Guarda da Neve Uivante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Belobog dos Arquitetos",
+      "Quilha Quebrada",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Cavaleira do Palácio da Pureza",
+      "Guarda da Neve Uivante",
+      "Mosqueteira do Trigo Selvagem"
+    ],
+    "Set2": [
+      "Belobog dos Arquitetos",
+      "Quilha Quebrada",
+      "Talia: Reino do Banditismo"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Relojoeiro, Mestre de Maquinações de Sonhos",
+      "Ladrão da Chuva de Meteoros",
+      "Mensageira Atravessando o Hackerspace"
+    ],
+    "Set2": [
+      "Talia: Reino do Banditismo",
+      "Frota dos Eternos",
+      "Penacony, Terra dos Sonhos"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Relojoeiro, Mestre de Maquinações de Sonhos",
+      "Ladrão da Chuva de Meteoros",
+      "Mensageira Atravessando o Hackerspace"
+    ],
+    "Set2": [
+      "Talia: Reino do Banditismo",
+      "Frota dos Eternos",
+      "Penacony, Terra dos Sonhos"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Chevalier du palais de la pureté",
+      "Garde des neiges hurlantes",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Belobog des Architectes",
+      "Entreprise commerciale intersidérale",
+      "Quille brisée"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Aigle de la frontière du crépuscule",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Glamoth, ligne de front du firmament",
+      "Station de scellement spatial",
+      "Arène rutilante"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Lave de Forgefeu",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Ferrailleur du désert des bandits",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Station de scellement spatial",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Prisonnier enchaîné",
+      "Tonnerre grésillant",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Glamoth, ligne de front du firmament",
+      "Station de scellement spatial",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Génies des étoiles",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Penacony, terre des rêves",
+      "Entreprise commerciale intersidérale",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Tonnerre grésillant",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Station de scellement spatial",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Lave de Forgefeu",
+      "Voleur de météorite filante",
+      "Messager du hackerspace"
+    ],
+    "Set2": [
+      "Penacony, terre des rêves",
+      "Flotte de l'éternel",
+      "Quille brisée"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Chasseur de la forêt glaciaire",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Messager du hackerspace",
+      "Chasseur de la forêt glaciaire",
+      "Aigle de la frontière du crépuscule"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Quille brisée",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Génies des étoiles",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Glamoth, ligne de front du firmament",
+      "Station de scellement spatial",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Tonnerre grésillant",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Station de scellement spatial",
+      "Salsotto inerte",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Chevalier du palais de la pureté",
+      "Garde des neiges hurlantes",
+      "Messager du hackerspace"
+    ],
+    "Set2": [
+      "Belobog des Architectes",
+      "Quille brisée",
+      "Arène rutilante"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Vagabond foulenuage",
+      "Messager du hackerspace",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Quille brisée",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Chasseur de la forêt glaciaire",
+      "Mousquetaire du blé sauvage",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Penacony, terre des rêves",
+      "Station de scellement spatial",
+      "Arène rutilante"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Championne de boxe de rue",
+      "Voleur de météorite filante",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Aigle de la frontière du crépuscule",
+      "Prisonnier enchaîné",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Station de scellement spatial",
+      "Talia, royaume du banditisme",
+      "Entreprise commerciale intersidérale"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Lave de Forgefeu",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Station de scellement spatial",
+      "Arène rutilante",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Vagabond foulenuage",
+      "Messager du hackerspace",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Quille brisée",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Championne de boxe de rue",
+      "Prisonnier enchaîné",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Station de scellement spatial",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "Grand duc incandescendre",
+      "Lave de Forgefeu",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Génies des étoiles",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Différenciateur céleste",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Messager du hackerspace",
+      "Mousquetaire du blé sauvage",
+      "Tonnerre grésillant"
+    ],
+    "Set2": [
+      "Penacony, terre des rêves",
+      "Flotte de l'éternel",
+      "Station de scellement spatial"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Vagabond foulenuage",
+      "Mousquetaire du blé sauvage",
+      "Ferrailleur du désert des bandits"
+    ],
+    "Set2": [
+      "Station de scellement spatial",
+      "La vie sur Vonwacq",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "Grand duc incandescendre",
+      "Tonnerre grésillant",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Disciple longévive",
+      "Aigle de la frontière du crépuscule",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Flotte de l'éternel",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Championne de boxe de rue",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Glamoth, ligne de front du firmament",
+      "Station de scellement spatial",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Mousquetaire du blé sauvage",
+      "Ferrailleur du désert des bandits",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Penacony, terre des rêves",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Disciple longévive",
+      "Garde des neiges hurlantes",
+      "Génies des étoiles"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Quille brisée",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Chasseur de la forêt glaciaire",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Glamoth, ligne de front du firmament",
+      "Station de scellement spatial",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Prisonnier enchaîné",
+      "Lave de Forgefeu",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Station de scellement spatial",
+      "Entreprise commerciale intersidérale",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Vagabond foulenuage",
+      "Messager du hackerspace",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Quille brisée",
+      "Flotte de l'éternel",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Chasseur de la forêt glaciaire",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Salsotto inerte",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Mousquetaire du blé sauvage",
+      "Ferrailleur du désert des bandits",
+      "Disciple longévive"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Différenciateur céleste",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Génies des étoiles",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Talia, royaume du banditisme",
+      "Salsotto inerte",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Messager du hackerspace",
+      "Mousquetaire du blé sauvage",
+      "Voleur de météorite filante"
+    ],
+    "Set2": [
+      "Quille brisée",
+      "La vie sur Vonwacq",
+      "Flotte de l'éternel"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Messager du hackerspace",
+      "Vagabond foulenuage",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Quille brisée",
+      "Penacony, terre des rêves"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Prisonnier enchaîné",
+      "Garde des neiges hurlantes",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Entreprise commerciale intersidérale",
+      "Flotte de l'éternel",
+      "La vie sur Vonwacq"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "Vaillance du guerrier du vent",
+      "Aigle de la frontière du crépuscule",
+      "Grand duc incandescendre"
+    ],
+    "Set2": [
+      "Duran, dynastie des loups",
+      "Salsotto inerte",
+      "Glamoth, ligne de front du firmament"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "Vaillance du guerrier du vent",
+      "Exploratrice des abîmes",
+      "Championne de boxe de rue"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Duran, dynastie des loups",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "Brigade de fer à l'assaut du fléau",
+      "Voleur de météorite filante",
+      "Vagabond foulenuage"
+    ],
+    "Set2": [
+      "Forge de la lanterne Kalpagni",
+      "Talia, royaume du banditisme",
+      "Flotte de l'éternel"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "Exploratrice des abîmes",
+      "Tonnerre grésillant",
+      "Vaillance du guerrier du vent"
+    ],
+    "Set2": [
+      "Duran, dynastie des loups",
+      "Vie présente d'Izumo et royaume divin de Takama",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Mousquetaire du blé sauvage",
+      "Ferrailleur du désert des bandits",
+      "Exploratrice des abîmes"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Vie présente d'Izumo et royaume divin de Takama",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Vagabond foulenuage",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Talia, royaume du banditisme",
+      "Quille brisée"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Championne de boxe de rue",
+      "Mousquetaire du blé sauvage",
+      "Disciple longévive"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "Différenciateur céleste"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Voleur de météorite filante",
+      "Messager du hackerspace",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Talia, royaume du banditisme",
+      "Penacony, terre des rêves",
+      "Quille brisée"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Chevalier du palais de la pureté",
+      "Ferrailleur du désert des bandits",
+      "Garde des neiges hurlantes"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Belobog des Architectes",
+      "Quille brisée"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Ferrailleur du désert des bandits",
+      "Mousquetaire du blé sauvage",
+      "Grand duc incandescendre"
+    ],
+    "Set2": [
+      "Glamoth, ligne de front du firmament",
+      "Salsotto inerte",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Messager du hackerspace",
+      "Garde des neiges hurlantes",
+      "Disciple longévive"
+    ],
+    "Set2": [
+      "Quille brisée",
+      "Penacony, terre des rêves",
+      "Flotte de l'éternel"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Prisonnier enchaîné",
+      "Aigle de la frontière du crépuscule",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Entreprise commerciale intersidérale",
+      "Station de scellement spatial",
+      "Glamoth, ligne de front du firmament"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Exploratrice des abîmes",
+      "Tonnerre grésillant",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Vie présente d'Izumo et royaume divin de Takama",
+      "Salsotto inerte",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Mousquetaire du blé sauvage",
+      "Championne de boxe de rue",
+      "Messager du hackerspace"
+    ],
+    "Set2": [
+      "Flotte de l'éternel",
+      "Station de scellement spatial",
+      "Quille brisée"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Brigade de fer à l'assaut du fléau",
+      "Lave de Forgefeu",
+      "Génies des étoiles"
+    ],
+    "Set2": [
+      "Forge de la lanterne Kalpagni",
+      "Talia, royaume du banditisme",
+      "Arène rutilante"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Chasseur de la forêt glaciaire",
+      "Mousquetaire du blé sauvage",
+      "Disciple longévive"
+    ],
+    "Set2": [
+      "Salsotto inerte",
+      "Station de scellement spatial",
+      "Glamoth, ligne de front du firmament"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Génies des étoiles",
+      "Grand duc incandescendre",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Sigonia, terre vierge désolée",
+      "Salsotto inerte",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Voleur de météorite filante",
+      "Championne de boxe de rue",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Talia, royaume du banditisme",
+      "Arène rutilante",
+      "Station de scellement spatial"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Championne de boxe de rue",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Station de scellement spatial",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Championne de boxe de rue",
+      "Voleur de météorite filante",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Arène rutilante",
+      "Station de scellement spatial",
+      "Salsotto inerte"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Chevalier du palais de la pureté",
+      "Garde des neiges hurlantes",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Belobog des Architectes",
+      "Quille brisée",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Chevalier du palais de la pureté",
+      "Garde des neiges hurlantes",
+      "Mousquetaire du blé sauvage"
+    ],
+    "Set2": [
+      "Belobog des Architectes",
+      "Quille brisée",
+      "Talia, royaume du banditisme"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Horloger, maître des machinations oniriques",
+      "Voleur de météorite filante",
+      "Messager du hackerspace"
+    ],
+    "Set2": [
+      "Talia, royaume du banditisme",
+      "Flotte de l'éternel",
+      "Penacony, terre des rêves"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Horloger, maître des machinations oniriques",
+      "Voleur de météorite filante",
+      "Messager du hackerspace"
+    ],
+    "Set2": [
+      "Talia, royaume du banditisme",
+      "Flotte de l'éternel",
+      "Penacony, terre des rêves"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}

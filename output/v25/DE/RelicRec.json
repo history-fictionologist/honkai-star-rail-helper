@@ -1,0 +1,1056 @@
+{
+  "1001": {
+    "Tag": "mar7th",
+    "Set4": [
+      "Ritterin vom Palast der Reinheit",
+      "Wachen des stürmischen Schnees",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Belobog der Architekten",
+      "Pangalaktische Handelsgesellschaft",
+      "Gebrochener Kiel"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1002": {
+    "Tag": "danheng",
+    "Set4": [
+      "Adler des Zwielichts",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Himmelsfront Glamoth",
+      "Raumstation für Versiegelung",
+      "Sternenarena"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1003": {
+    "Tag": "himeko",
+    "Set4": [
+      "Feuerschmied der Lavaglut",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1004": {
+    "Tag": "welt",
+    "Set4": [
+      "Ödländer aus der Räuberwüste",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Raumstation für Versiegelung",
+      "Regloses Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1005": {
+    "Tag": "kafka",
+    "Set4": [
+      "Gefangene in tiefem Gewahrsam",
+      "Band des knisternden Donners",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Himmelsfront Glamoth",
+      "Raumstation für Versiegelung",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1006": {
+    "Tag": "silverwolf",
+    "Set4": [
+      "Genie der strahlenden Sterne",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Penacony, Land der Träume",
+      "Pangalaktische Handelsgesellschaft",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1008": {
+    "Tag": "arlan",
+    "Set4": [
+      "Band des knisternden Donners",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Raumstation für Versiegelung",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1009": {
+    "Tag": "asta",
+    "Set4": [
+      "Feuerschmied der Lavaglut",
+      "Dieb des fallenden Meteors",
+      "Bote im Hackerspace"
+    ],
+    "Set2": [
+      "Penacony, Land der Träume",
+      "Flotte der Alterslosen",
+      "Gebrochener Kiel"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1013": {
+    "Tag": "herta",
+    "Set4": [
+      "Jäger aus dem Gletscherwald",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1101": {
+    "Tag": "bronya",
+    "Set4": [
+      "Bote im Hackerspace",
+      "Jäger aus dem Gletscherwald",
+      "Adler des Zwielichts"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Gebrochener Kiel",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1102": {
+    "Tag": "seele",
+    "Set4": [
+      "Genie der strahlenden Sterne",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Himmelsfront Glamoth",
+      "Raumstation für Versiegelung",
+      "Regloses Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1103": {
+    "Tag": "serval",
+    "Set4": [
+      "Band des knisternden Donners",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Raumstation für Versiegelung",
+      "Regloses Salsotto",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1104": {
+    "Tag": "gepard",
+    "Set4": [
+      "Ritterin vom Palast der Reinheit",
+      "Wachen des stürmischen Schnees",
+      "Bote im Hackerspace"
+    ],
+    "Set2": [
+      "Belobog der Architekten",
+      "Gebrochener Kiel",
+      "Sternenarena"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1105": {
+    "Tag": "natasha",
+    "Set4": [
+      "Wanderer der vorbeiziehenden Wolke",
+      "Bote im Hackerspace",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Gebrochener Kiel",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1106": {
+    "Tag": "pela",
+    "Set4": [
+      "Jäger aus dem Gletscherwald",
+      "Musketierin des wilden Weizens",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Penacony, Land der Träume",
+      "Raumstation für Versiegelung",
+      "Sternenarena"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1107": {
+    "Tag": "clara",
+    "Set4": [
+      "Champion des Straßenboxens",
+      "Dieb des fallenden Meteors",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1108": {
+    "Tag": "sampo",
+    "Set4": [
+      "Adler des Zwielichts",
+      "Gefangene in tiefem Gewahrsam",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Raumstation für Versiegelung",
+      "Talia – Königreich der Banditen",
+      "Pangalaktische Handelsgesellschaft"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1109": {
+    "Tag": "hook",
+    "Set4": [
+      "Feuerschmied der Lavaglut",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Raumstation für Versiegelung",
+      "Sternenarena",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1110": {
+    "Tag": "lynx",
+    "Set4": [
+      "Wanderer der vorbeiziehenden Wolke",
+      "Bote im Hackerspace",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Gebrochener Kiel",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1111": {
+    "Tag": "luka",
+    "Set4": [
+      "Champion des Straßenboxens",
+      "Gefangene in tiefem Gewahrsam",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Raumstation für Versiegelung",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1112": {
+    "Tag": "topaz",
+    "Set4": [
+      "Der eingeäscherte Erzherzog",
+      "Feuerschmied der Lavaglut",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1201": {
+    "Tag": "qingque",
+    "Set4": [
+      "Genie der strahlenden Sterne",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Himmlischer Differenziator",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1202": {
+    "Tag": "tingyun",
+    "Set4": [
+      "Bote im Hackerspace",
+      "Musketierin des wilden Weizens",
+      "Band des knisternden Donners"
+    ],
+    "Set2": [
+      "Penacony, Land der Träume",
+      "Flotte der Alterslosen",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1203": {
+    "Tag": "luocha",
+    "Set4": [
+      "Wanderer der vorbeiziehenden Wolke",
+      "Musketierin des wilden Weizens",
+      "Ödländer aus der Räuberwüste"
+    ],
+    "Set2": [
+      "Raumstation für Versiegelung",
+      "Lebhaftes Vonwacq",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1204": {
+    "Tag": "jingyuan",
+    "Set4": [
+      "Der eingeäscherte Erzherzog",
+      "Band des knisternden Donners",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1205": {
+    "Tag": "blade",
+    "Set4": [
+      "Langlebige Jüngerin",
+      "Adler des Zwielichts",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Flotte der Alterslosen",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1206": {
+    "Tag": "sushang",
+    "Set4": [
+      "Champion des Straßenboxens",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Himmelsfront Glamoth",
+      "Raumstation für Versiegelung",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1207": {
+    "Tag": "yukong",
+    "Set4": [
+      "Musketierin des wilden Weizens",
+      "Ödländer aus der Räuberwüste",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Penacony, Land der Träume",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1208": {
+    "Tag": "fuxuan",
+    "Set4": [
+      "Langlebige Jüngerin",
+      "Wachen des stürmischen Schnees",
+      "Genie der strahlenden Sterne"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Gebrochener Kiel",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1209": {
+    "Tag": "yanqing",
+    "Set4": [
+      "Jäger aus dem Gletscherwald",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Himmelsfront Glamoth",
+      "Raumstation für Versiegelung",
+      "Regloses Salsotto"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1210": {
+    "Tag": "guinaifen",
+    "Set4": [
+      "Gefangene in tiefem Gewahrsam",
+      "Feuerschmied der Lavaglut",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Raumstation für Versiegelung",
+      "Pangalaktische Handelsgesellschaft",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1211": {
+    "Tag": "bailu",
+    "Set4": [
+      "Wanderer der vorbeiziehenden Wolke",
+      "Bote im Hackerspace",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Gebrochener Kiel",
+      "Flotte der Alterslosen",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "HPAddedRatio"
+  },
+  "1212": {
+    "Tag": "jingliu",
+    "Set4": [
+      "Jäger aus dem Gletscherwald",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1213": {
+    "Tag": "danhengil",
+    "Set4": [
+      "Musketierin des wilden Weizens",
+      "Ödländer aus der Räuberwüste",
+      "Langlebige Jüngerin"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Himmlischer Differenziator",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1214": {
+    "Tag": "xueyi",
+    "Set4": [
+      "Genie der strahlenden Sterne",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Talia – Königreich der Banditen",
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1215": {
+    "Tag": "hanya",
+    "Set4": [
+      "Bote im Hackerspace",
+      "Musketierin des wilden Weizens",
+      "Dieb des fallenden Meteors"
+    ],
+    "Set2": [
+      "Gebrochener Kiel",
+      "Lebhaftes Vonwacq",
+      "Flotte der Alterslosen"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1217": {
+    "Tag": "huohuo",
+    "Set4": [
+      "Bote im Hackerspace",
+      "Wanderer der vorbeiziehenden Wolke",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Gebrochener Kiel",
+      "Penacony, Land der Träume"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1218": {
+    "Tag": "jiaoqiu",
+    "Set4": [
+      "Gefangene in tiefem Gewahrsam",
+      "Wachen des stürmischen Schnees",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Pangalaktische Handelsgesellschaft",
+      "Flotte der Alterslosen",
+      "Lebhaftes Vonwacq"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "FireAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1220": {
+    "Tag": "feixiao",
+    "Set4": [
+      "Tapferer Krieger des Winds",
+      "Adler des Zwielichts",
+      "Der eingeäscherte Erzherzog"
+    ],
+    "Set2": [
+      "Duran, Dynastie der rennenden Wölfe",
+      "Regloses Salsotto",
+      "Himmelsfront Glamoth"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1221": {
+    "Tag": "yunli",
+    "Set4": [
+      "Tapferer Krieger des Winds",
+      "Pioniertaucherin toter Gewässer",
+      "Champion des Straßenboxens"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Duran, Dynastie der rennenden Wölfe",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1222": {
+    "Tag": "lingsha",
+    "Set4": [
+      "Eiserne Kavallerie gegen die Plage",
+      "Dieb des fallenden Meteors",
+      "Wanderer der vorbeiziehenden Wolke"
+    ],
+    "Set2": [
+      "Schmiede der Kalpagni-Laterne",
+      "Talia – Königreich der Banditen",
+      "Flotte der Alterslosen"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1223": {
+    "Tag": "moze",
+    "Set4": [
+      "Pioniertaucherin toter Gewässer",
+      "Band des knisternden Donners",
+      "Tapferer Krieger des Winds"
+    ],
+    "Set2": [
+      "Duran, Dynastie der rennenden Wölfe",
+      "Izumo-Gensei und Takama-Himmelreich",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1224": {
+    "Tag": "mar7th2",
+    "Set4": [
+      "Musketierin des wilden Weizens",
+      "Ödländer aus der Räuberwüste",
+      "Pioniertaucherin toter Gewässer"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Izumo-Gensei und Takama-Himmelreich",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1301": {
+    "Tag": "gallagher",
+    "Set4": [
+      "Wanderer der vorbeiziehenden Wolke",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Talia – Königreich der Banditen",
+      "Gebrochener Kiel"
+    ],
+    "Body": "HealRatioBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1302": {
+    "Tag": "argenti",
+    "Set4": [
+      "Champion des Straßenboxens",
+      "Musketierin des wilden Weizens",
+      "Langlebige Jüngerin"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Himmlischer Differenziator"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1303": {
+    "Tag": "ruanmei",
+    "Set4": [
+      "Dieb des fallenden Meteors",
+      "Bote im Hackerspace",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Talia – Königreich der Banditen",
+      "Penacony, Land der Träume",
+      "Gebrochener Kiel"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1304": {
+    "Tag": "aventurine",
+    "Set4": [
+      "Ritterin vom Palast der Reinheit",
+      "Ödländer aus der Räuberwüste",
+      "Wachen des stürmischen Schnees"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Belobog der Architekten",
+      "Gebrochener Kiel"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "DefenceAddedRatio",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "1305": {
+    "Tag": "drratio",
+    "Set4": [
+      "Ödländer aus der Räuberwüste",
+      "Musketierin des wilden Weizens",
+      "Der eingeäscherte Erzherzog"
+    ],
+    "Set2": [
+      "Himmelsfront Glamoth",
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "ImaginaryAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1306": {
+    "Tag": "sparkle",
+    "Set4": [
+      "Bote im Hackerspace",
+      "Wachen des stürmischen Schnees",
+      "Langlebige Jüngerin"
+    ],
+    "Set2": [
+      "Gebrochener Kiel",
+      "Penacony, Land der Träume",
+      "Flotte der Alterslosen"
+    ],
+    "Body": "CriticalDamageBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "HPAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1307": {
+    "Tag": "blackswan",
+    "Set4": [
+      "Gefangene in tiefem Gewahrsam",
+      "Adler des Zwielichts",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Pangalaktische Handelsgesellschaft",
+      "Raumstation für Versiegelung",
+      "Himmelsfront Glamoth"
+    ],
+    "Body": "StatusProbabilityBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "WindAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1308": {
+    "Tag": "acheron",
+    "Set4": [
+      "Pioniertaucherin toter Gewässer",
+      "Band des knisternden Donners",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Izumo-Gensei und Takama-Himmelreich",
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "ThunderAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1309": {
+    "Tag": "robin",
+    "Set4": [
+      "Musketierin des wilden Weizens",
+      "Champion des Straßenboxens",
+      "Bote im Hackerspace"
+    ],
+    "Set2": [
+      "Flotte der Alterslosen",
+      "Raumstation für Versiegelung",
+      "Gebrochener Kiel"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1310": {
+    "Tag": "sam",
+    "Set4": [
+      "Eiserne Kavallerie gegen die Plage",
+      "Feuerschmied der Lavaglut",
+      "Genie der strahlenden Sterne"
+    ],
+    "Set2": [
+      "Schmiede der Kalpagni-Laterne",
+      "Talia – Königreich der Banditen",
+      "Sternenarena"
+    ],
+    "Body": "AttackAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "AttackAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "1312": {
+    "Tag": "misha",
+    "Set4": [
+      "Jäger aus dem Gletscherwald",
+      "Musketierin des wilden Weizens",
+      "Langlebige Jüngerin"
+    ],
+    "Set2": [
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung",
+      "Himmelsfront Glamoth"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "IceAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "1314": {
+    "Tag": "jade",
+    "Set4": [
+      "Genie der strahlenden Sterne",
+      "Der eingeäscherte Erzherzog",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Verlassenes Sigonien",
+      "Regloses Salsotto",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "AttackAddedRatio",
+    "Sphere": "QuantumAddedRatio",
+    "Rope": "SPRatioBase"
+  },
+  "1315": {
+    "Tag": "boothill",
+    "Set4": [
+      "Dieb des fallenden Meteors",
+      "Champion des Straßenboxens",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Talia – Königreich der Banditen",
+      "Sternenarena",
+      "Raumstation für Versiegelung"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8001": {
+    "Tag": "player",
+    "Set4": [
+      "Champion des Straßenboxens",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Raumstation für Versiegelung",
+      "Regloses Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8002": {
+    "Tag": "player",
+    "Set4": [
+      "Champion des Straßenboxens",
+      "Dieb des fallenden Meteors",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Sternenarena",
+      "Raumstation für Versiegelung",
+      "Regloses Salsotto"
+    ],
+    "Body": "CriticalChanceBase",
+    "Foot": "SpeedDelta",
+    "Sphere": "PhysicalAddedRatio",
+    "Rope": "AttackAddedRatio"
+  },
+  "8003": {
+    "Tag": "player2",
+    "Set4": [
+      "Ritterin vom Palast der Reinheit",
+      "Wachen des stürmischen Schnees",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Belobog der Architekten",
+      "Gebrochener Kiel",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8004": {
+    "Tag": "player2",
+    "Set4": [
+      "Ritterin vom Palast der Reinheit",
+      "Wachen des stürmischen Schnees",
+      "Musketierin des wilden Weizens"
+    ],
+    "Set2": [
+      "Belobog der Architekten",
+      "Gebrochener Kiel",
+      "Talia – Königreich der Banditen"
+    ],
+    "Body": "DefenceAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "DefenceAddedRatio"
+  },
+  "8005": {
+    "Tag": "player3",
+    "Set4": [
+      "Uhrmacher der maschinellen Traumspiele",
+      "Dieb des fallenden Meteors",
+      "Bote im Hackerspace"
+    ],
+    "Set2": [
+      "Talia – Königreich der Banditen",
+      "Flotte der Alterslosen",
+      "Penacony, Land der Träume"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  },
+  "8006": {
+    "Tag": "player3",
+    "Set4": [
+      "Uhrmacher der maschinellen Traumspiele",
+      "Dieb des fallenden Meteors",
+      "Bote im Hackerspace"
+    ],
+    "Set2": [
+      "Talia – Königreich der Banditen",
+      "Flotte der Alterslosen",
+      "Penacony, Land der Träume"
+    ],
+    "Body": "HPAddedRatio",
+    "Foot": "SpeedDelta",
+    "Sphere": "DefenceAddedRatio",
+    "Rope": "BreakDamageAddedRatioBase"
+  }
+}
