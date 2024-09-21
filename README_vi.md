@@ -1,6 +1,6 @@
 # honkai-star-rail-helper
 
-honkai-star-rail-helper là một tiện ích được thiết kế để quản lý và xử lý dữ liệu nhân vật, kỹ năng và đề xuất di vật cho trò chơi điện tử [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail). Nó đọc các tệp đầu vào, xử lý các thuộc tính như thông tin nhân vật và bộ kỹ năng, và xuất kết quả theo định dạng tổ chức. Dữ liệu đầu vào được lấy từ các gói cập nhật chính thức trong kho lưu trữ [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) và đầu ra được lưu trữ trong các thư mục phân theo phiên bản để dễ dàng quản lý.
+`honkai-star-rail-helper` là một tiện ích được thiết kế để quản lý và xử lý dữ liệu nhân vật, kỹ năng và đề xuất di vật cho trò chơi điện tử [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail). Nó đọc các tệp đầu vào, xử lý các thuộc tính như thông tin nhân vật và bộ kỹ năng, và xuất kết quả theo định dạng tổ chức. Dữ liệu đầu vào được lấy từ các gói cập nhật chính thức trong kho lưu trữ [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) và đầu ra được lưu trữ trong các thư mục phân theo phiên bản để dễ dàng quản lý.
 
 ## Bảng Nhân Vật Mới Nhất
 <!-- CHARACTER_TABLE_START -->

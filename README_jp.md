@@ -1,6 +1,6 @@
 # honkai-star-rail-helper
 
-honkai-star-rail-helperは、ビデオゲーム [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail) のキャラクターデータ、スキル、および遺物の推奨を管理および処理するためのユーティリティです。入力ファイルを読み取り、キャラクター情報やスキルセットなどのさまざまな属性を処理し、結果を整理された形式で出力します。入力データは、[StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) リポジトリの公式アップデートパッケージから取得され、出力はバージョン別のフォルダに保存され、管理が容易です。
+`honkai-star-rail-helper`は、ビデオゲーム [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail) のキャラクターデータ、スキル、および遺物の推奨を管理および処理するためのユーティリティです。入力ファイルを読み取り、キャラクター情報やスキルセットなどのさまざまな属性を処理し、結果を整理された形式で出力します。入力データは、[StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) リポジトリの公式アップデートパッケージから取得され、出力はバージョン別のフォルダに保存され、管理が容易です。
 
 ## 最新のキャラクターテーブル
 <!-- CHARACTER_TABLE_START -->

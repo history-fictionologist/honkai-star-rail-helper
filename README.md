@@ -2,13 +2,18 @@
 
 This project is available in multiple languages:
 - [English](./README.md)
-- [Español](./README_es.md)
 - [简体中文](./README_chs.md)
 - [繁體中文](./README_cht.md)
+- [Deutsch](./README_de.md)
+- [Español](./README_es.md)
+- [Français](./README_fr.md)
+- [Bahasa Indonesia](./README_id.md)
 - [日本語](./README_jp.md)
 - [한국어](./README_kr.md)
-- [Tiếng Việt](./README_vi.md)
+- [Português](./README_pt.md)
+- [Русский](./README_ru.md)
 - [ไทย](./README_th.md)
+- [Tiếng Việt](./README_vi.md)
 
 `honkai-star-rail-helper` is a utility designed to manage and process character data, skills, and relic recommendations for video  game [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail). It reads input files, processes various attributes such as character information and skill sets, and outputs the results in an organized format. The input data is sourced from the official update packages in [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) repository and the output is stored in version-specific folders for easy management.
 
