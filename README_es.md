@@ -1,4 +1,3 @@
-
 # honkai-star-rail-helper
 
 `honkai-star-rail-helper` es una utilidad diseñada para gestionar y procesar datos de personajes, habilidades y recomendaciones de reliquias para el videojuego [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail). Lee archivos de entrada, procesa varios atributos como la información de los personajes y conjuntos de habilidades, y genera los resultados en un formato organizado. Los datos de entrada provienen de los paquetes de actualización oficiales del repositorio [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) y la salida se guarda en carpetas específicas de la versión para una gestión sencilla.

@@ -1,4 +1,3 @@
-
 # honkai-star-rail-helper
 
 `honkai-star-rail-helper` 是一個用於管理和處理角色數據、技能和遺物推薦的實用工具，適用於視頻遊戲 [Honkai: Star Rail](https://en.wikipedia.org/wiki/Honkai:_Star_Rail)。它讀取輸入文件，處理各種屬性，如角色信息和技能集，並以有組織的格式輸出結果。輸入數據來自於 [StarRailData](https://github.com/Dimbreath/StarRailData/tree/master) 倉庫的官方更新包，輸出文件則存儲在版本特定的文件夾中以便於管理。
