@@ -19,22 +19,22 @@ This project is available in multiple languages:
 
 ## Latest Character Table
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION        | THE_HUNT | ERUDITION | HARMONY | NIHILITY      | PRESERVATION | ABUNDANCE |
-| ----------- | ------ | ------------------ | -------- | --------- | ------- | ------------- | ------------ | --------- |
-| PHYSICAL    | 5      | clara|player|yunli | boothill | argenti   | robin   |               |              |           |
-| PHYSICAL    | 4      |                    | sushang  |           | hanya   | luka          |              | natasha   |
-| FIRE        | 5      | sam                | topaz    | himeko    |         | jiaoqiu       | player2      | lingsha   |
-| FIRE        | 4      | hook               |          |           | asta    | guinaifen     |              | gallagher |
-| ICE         | 5      | jingliu            | yanqing  |           | ruanmei |               | gepard       |           |
-| ICE         | 4      | misha              |          | herta     |         | pela          | mar7th       |           |
-| LIGHTENING  | 5      |                    |          | jingyuan  |         | acheron|kafka |              | bailu     |
-| LIGHTENING  | 4      | arlan              | moze     | serval    | tingyun |               |              |           |
-| WIND        | 5      | blade              | feixiao  |           | bronya  | blackswan     |              | huohuo    |
-| WIND        | 4      |                    | danheng  |           |         | sampo         |              |           |
-| QUANTUM     | 5      |                    | seele    | jade      | sparkle | silverwolf    | fuxuan       |           |
-| QUANTUM     | 4      | xueyi              |          | qingque   |         |               |              | lynx      |
-| IMAGINARY   | 5      | danhengil          | drratio  |           | player3 | welt          | aventurine   | luocha    |
-| IMAGINARY   | 4      |                    | mar7th2  |           | yukong  |               |              |           |
+| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
+|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
+| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
+| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
+| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
+| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
+| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
+| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
+| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
+| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
+| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
+| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
+| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
+| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
+| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
+| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
 <!-- CHARACTER_TABLE_END -->
 
 ## Key Features
