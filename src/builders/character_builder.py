@@ -33,6 +33,8 @@ class CharacterBuilder:
         else:
             self.language = language
 
+        logger.warning("Creating character builder in {}".format(self.language))
+
         self.json_helper = json_helper
         self.text_map = self.json_helper.read("TextMap{}.json".format(self.language))
         self.avatar_config = self.json_helper.read_json_array_as_object(
@@ -63,6 +65,7 @@ class CharacterBuilder:
         characters = {}
         for char_id in self.avatar_config:
             name = self.get_name(char_id)
+            full_name = self.get_full_name(char_id)
             tag = self.get_tag(char_id)
             system_name = self.get_system_name(char_id)
             rarity = self.get_rarity(char_id)
@@ -95,6 +98,11 @@ class CharacterBuilder:
     def get_name(self, char_id: str) -> str:
         return JsonHelper.find_and_translate(
             self.avatar_config, [char_id, "AvatarName"], self.text_map
+        )
+
+    def get_full_name(self, char_id: str) -> str:
+        return JsonHelper.find_and_translate(
+            self.avatar_config, [char_id, "AvatarFullName"], self.text_map
         )
 
     def get_tag(self, char_id: str) -> str:
@@ -192,7 +200,9 @@ class CharacterBuilder:
                 skip_relic_rec=True, skip_cv_map=True
             )
 
-        self.json_helper.write("Character.json", character_dict)
+        self.json_helper.write(
+            os.path.join(self.language, "Character.json"), character_dict
+        )
 
     def write_relic_rec(self) -> None:
         relic_rec_dict = {}

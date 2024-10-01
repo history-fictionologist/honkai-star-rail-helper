@@ -23,16 +23,18 @@ def run(version: int, skip_download: bool = False, languages: list = None) -> No
     csv_helper = CsvHelper(version)
 
     character_builder = CharacterBuilder(json_helper)
-    character_builder.write_characters()
-    character_builder.write_cv_map()
 
     character_table_builder = CharacterTableBuilder(character_builder, csv_helper)
     character_table_builder.write_character_table()
     character_table_builder.update_character_table()
 
     for language in languages:
-        CharacterBuilder(json_helper, language).write_relic_rec()
-        SkillSetBuilder(json_helper, language).write_skill_sets()
+        character_builder = CharacterBuilder(json_helper, language)
+        character_builder.write_characters()
+        character_builder.write_relic_rec()
+
+        skill_set_builder = SkillSetBuilder(json_helper, language)
+        skill_set_builder.write_skill_sets()
 
 
 def validate_version(value: str) -> str:
