@@ -61,6 +61,8 @@ class CharacterBuilder:
             CharacterBuilder.DAMAGE_TYPE_FILENAME, "ID"
         )
 
+        self.localized_path_types = {}
+        self.localized_damage_types = {}
         self.characters = self.get_characters()
 
     def get_characters(self) -> dict[str, Character]:
@@ -139,11 +141,21 @@ class CharacterBuilder:
         path_type_str = JsonHelper.find(
             self.base_type_config, [base_type_str, "FirstWordText"]
         )
-        return getattr(PathType, path_type_str.replace(" ", "_").upper(), None)
+        localized_path_type_str = JsonHelper.find_and_translate(
+            self.base_type_config, [base_type_str, "BaseTypeText"], self.text_map
+        )
+        path_type = getattr(PathType, path_type_str.replace(" ", "_").upper(), None)
+        self.localized_path_types[path_type] = localized_path_type_str
+        return path_type
 
     def get_damage_type(self, char_id: str) -> DamageType:
         damage_type_str = JsonHelper.find(self.avatar_config, [char_id, "DamageType"])
-        return getattr(DamageType, damage_type_str.upper(), None)
+        localized_damage_type_str = JsonHelper.find_and_translate(
+            self.damage_type_config, [damage_type_str, "DamageTypeName"], self.text_map
+        )
+        damage_type = getattr(DamageType, damage_type_str.upper(), None)
+        self.localized_damage_types[damage_type] = localized_damage_type_str
+        return damage_type
 
     def get_model_type(self, char_id: str) -> ModelType:
         model_type_str = JsonHelper.find_and_match(

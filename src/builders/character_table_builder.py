@@ -4,6 +4,7 @@ import re
 
 from builders.character_builder import CharacterBuilder
 from helpers.csv_helper import CsvHelper
+from helpers.json_helper import JsonHelper
 from model.character import Character
 from model.damage_type import DamageType
 from model.path_type import PathType
@@ -44,11 +45,13 @@ class CharacterTableBuilder:
 
     def get_character_list(self) -> list[list[str]]:
         cells = self.get_cells()
-        lines = [CharacterTableBuilder.get_header()]
+        lines = [self.get_header()]
         index = 0
 
         for damage_type in DamageType:
-            damage_type_name = DamageType.to_normalized_damage_type(damage_type)
+            damage_type_name = self.character_builder.localized_damage_types[
+                damage_type
+            ]
             for rarity in [5, 4]:
                 line = [damage_type_name, rarity]
                 for _ in range(7):
@@ -72,7 +75,10 @@ class CharacterTableBuilder:
         return cells
 
     def write_character_table(self):
-        self.csv_helper.write_table(self.character_list)
+        self.csv_helper.write_table(
+            os.path.join(self.character_builder.language, "CharacterTable.csv"),
+            self.character_list,
+        )
 
     def update_character_table(self):
         print(CsvHelper.get_table_string(self.character_list, True, False))
@@ -117,10 +123,10 @@ class CharacterTableBuilder:
 
         return sorted_character_dict
 
-    @staticmethod
-    def get_header():
-        header = ["DAMAGE_TYPE", "RARITY"]
+    def get_header(self):
+        header = ["", ""]
         for path_type in list(PathType)[:-1]:
-            header.append(path_type.name)
+            localized_path_type = self.character_builder.localized_path_types[path_type]
+            header.append(localized_path_type)
 
         return header

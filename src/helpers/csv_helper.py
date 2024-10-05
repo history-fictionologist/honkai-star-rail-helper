@@ -12,8 +12,8 @@ class CsvHelper:
         self.version = version
         self.output_path = os.path.join("..", "output", "v{}".format(self.version))
 
-    def write_table(self, character_table: list[list[str]]) -> None:
-        output_filename = os.path.join(self.output_path, "CharacterTable.csv")
+    def write_table(self, filename: str, character_table: list[list[str]]) -> None:
+        output_filename = os.path.join(self.output_path, filename)
         with open(output_filename, "w", newline="") as file:
             writer = csv.writer(file)
             writer.writerows(character_table)

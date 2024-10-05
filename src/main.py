@@ -22,16 +22,14 @@ def run(version: int, skip_download: bool = False, languages: list = None) -> No
     json_helper = JsonHelper(version)
     csv_helper = CsvHelper(version)
 
-    character_builder = CharacterBuilder(json_helper)
-
-    character_table_builder = CharacterTableBuilder(character_builder, csv_helper)
-    character_table_builder.write_character_table()
-    character_table_builder.update_character_table()
-
     for language in languages:
         character_builder = CharacterBuilder(json_helper, language)
         character_builder.write_characters()
         character_builder.write_relic_rec()
+
+        character_table_builder = CharacterTableBuilder(character_builder, csv_helper)
+        character_table_builder.write_character_table()
+        # character_table_builder.update_character_table()
 
         skill_set_builder = SkillSetBuilder(json_helper, language)
         skill_set_builder.write_skill_sets()
