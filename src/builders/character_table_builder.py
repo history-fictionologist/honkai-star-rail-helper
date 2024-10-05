@@ -29,16 +29,15 @@ class CharacterTableBuilder:
                     nested_character_dict[damage_type.name][path_type.name][rarity] = []
 
         for character_id, character in character_dict.items():
-            tag = Character.to_normalized_tag(character.tag)
-
+            name = character.name
             damage_type = character.damage_type.name
             path_type = character.path_type.name
             rarity = character.rarity
 
-            tag_list = nested_character_dict[damage_type][path_type][rarity]
-            if tag not in tag_list:
+            name_list = nested_character_dict[damage_type][path_type][rarity]
+            if name not in name_list:
                 bisect.insort(
-                    nested_character_dict[damage_type][path_type][rarity], tag
+                    nested_character_dict[damage_type][path_type][rarity], name
                 )
 
         return CharacterTableBuilder.sort_character_dict(nested_character_dict)

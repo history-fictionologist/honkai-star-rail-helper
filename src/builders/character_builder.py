@@ -26,6 +26,8 @@ class CharacterBuilder:
     AVATAR_ATLAS_FILENAME = "AvatarAtlas.json"
     CAMP_FILENAME = "AvatarCamp.json"
     DAMAGE_TYPE_FILENAME = "DamageType.json"
+    NICKNAME_PLACEHOLDER = "{NICKNAME}"
+    NICKNAME_HASH = "-2090701432"
 
     def __init__(self, json_helper: JsonHelper, language: str = None) -> None:
         if not language:
@@ -33,7 +35,7 @@ class CharacterBuilder:
         else:
             self.language = language
 
-        logger.warning("Creating character builder in {}".format(self.language))
+        logger.info("Creating character builder in {}".format(self.language))
 
         self.json_helper = json_helper
         self.text_map = self.json_helper.read("TextMap{}.json".format(self.language))
@@ -65,7 +67,6 @@ class CharacterBuilder:
         characters = {}
         for char_id in self.avatar_config:
             name = self.get_name(char_id)
-            full_name = self.get_full_name(char_id)
             tag = self.get_tag(char_id)
             system_name = self.get_system_name(char_id)
             rarity = self.get_rarity(char_id)
@@ -96,9 +97,16 @@ class CharacterBuilder:
         return characters
 
     def get_name(self, char_id: str) -> str:
-        return JsonHelper.find_and_translate(
+        name = JsonHelper.find_and_translate(
             self.avatar_config, [char_id, "AvatarName"], self.text_map
         )
+
+        if name == CharacterBuilder.NICKNAME_PLACEHOLDER:
+            return JsonHelper.translate_hash(
+                CharacterBuilder.NICKNAME_HASH, self.text_map
+            )
+
+        return name
 
     def get_full_name(self, char_id: str) -> str:
         return JsonHelper.find_and_translate(

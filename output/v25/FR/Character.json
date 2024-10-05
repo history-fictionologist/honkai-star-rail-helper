@@ -672,7 +672,7 @@
     "Group": 131
   },
   "8001": {
-    "Name": "{NICKNAME}",
+    "Name": "{M#Pionnier}{F#Pionnière}",
     "Tag": "playerboy",
     "SystemName": "PlayerBoy_00",
     "Rarity": 5,
@@ -684,7 +684,7 @@
     "Group": 800
   },
   "8002": {
-    "Name": "{NICKNAME}",
+    "Name": "{M#Pionnier}{F#Pionnière}",
     "Tag": "playergirl",
     "SystemName": "PlayerGirl_00",
     "Rarity": 5,
@@ -696,7 +696,7 @@
     "Group": 800
   },
   "8003": {
-    "Name": "{NICKNAME}",
+    "Name": "{M#Pionnier}{F#Pionnière}",
     "Tag": "playerboy2",
     "SystemName": "PlayerBoy_10",
     "Rarity": 5,
@@ -708,7 +708,7 @@
     "Group": 800
   },
   "8004": {
-    "Name": "{NICKNAME}",
+    "Name": "{M#Pionnier}{F#Pionnière}",
     "Tag": "playergirl2",
     "SystemName": "PlayerGirl_10",
     "Rarity": 5,
@@ -720,7 +720,7 @@
     "Group": 800
   },
   "8005": {
-    "Name": "{NICKNAME}",
+    "Name": "{M#Pionnier}{F#Pionnière}",
     "Tag": "playerboy3",
     "SystemName": "PlayerBoy_20",
     "Rarity": 5,
@@ -732,7 +732,7 @@
     "Group": 800
   },
   "8006": {
-    "Name": "{NICKNAME}",
+    "Name": "{M#Pionnier}{F#Pionnière}",
     "Tag": "playergirl3",
     "SystemName": "PlayerGirl_20",
     "Rarity": 5,

@@ -146,20 +146,14 @@ class JsonHelper:
         return JsonHelper.match_regex(text, pattern, group_index)
 
     @staticmethod
-    def get_stable_hash(hash_str: str) -> str:
-        if hash_str.startswith("-"):
-            return JsonHelper.get_stable_hash(str(abs(int(hash_str))))
-
+    def get_stable_hash(s: str) -> str:
         hash1 = 5381
-        hash2 = hash1
+        hash2 = 5381
 
-        i = 0
-        while i < len(hash_str):
-            hash1 = ((hash1 << 5) + hash1) ^ int(hash_str[i])
-            if i == len(hash_str) - 1:
+        for i in range(0, len(s), 2):
+            hash1 = ((hash1 << 5) + hash1) ^ ord(s[i])
+            if i == len(s) - 1:
                 break
-
-            hash2 = ((hash2 << 5) + hash2) ^ int(hash_str[i + 1])
-            i += 2
+            hash2 = ((hash2 << 5) + hash2) ^ ord(s[i + 1])
 
         return str(hash1 + (hash2 * 1566083941))
