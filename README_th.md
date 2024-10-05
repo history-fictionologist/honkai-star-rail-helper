@@ -4,22 +4,22 @@
 
 ## ตารางตัวละครล่าสุด
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|         |   | ทำลายล้าง               | ล่าสังหาร     | ปัญญา     | ประสาน     | ลบล้าง        | อนุรักษ์   | เฟื่องฟู  |
+| ------- | - | ----------------------- | ------------- | --------- | ---------- | ------------- | ---------- | --------- |
+| กายภาพ  | 5 | Clara\|Yunli\|ผู้บุกเบิก | Boothill      | Argenti   | Robin      |               |            |           |
+| กายภาพ  | 4 |                         | Sushang       |           | Hanya      | Luka          |            | Natasha   |
+| ไฟ      | 5 | Firefly                 | Topaz & Numby | Himeko    |            | Jiaoqiu       | ผู้บุกเบิก | Lingsha   |
+| ไฟ      | 4 | Hook                    |               |           | Asta       | Guinaifen     |            | Gallagher |
+| น้ำแข็ง | 5 | Jingliu                 | Yanqing       |           | Ruan Mei   |               | Gepard     |           |
+| น้ำแข็ง | 4 | Misha                   |               | Herta     |            | Pela          | March 7th  |           |
+| สายฟ้า  | 5 |                         |               | Jing Yuan |            | Acheron\|Kafka |            | Bailu     |
+| สายฟ้า  | 4 | Arlan                   | Moze          | Serval    | Tingyun    |               |            |           |
+| ลม      | 5 | Blade                   | Feixiao       |           | Bronya     | Black Swan    |            | Huohuo    |
+| ลม      | 4 |                         | Dan Heng      |           |            | Sampo         |            |           |
+| ควอนตัม | 5 |                         | Seele         | Jade      | Sparkle    | Silver Wolf   | Fu Xuan    |           |
+| ควอนตัม | 4 | Xueyi                   |               | Qingque   |            |               |            | Lynx      |
+| จินตภาพ | 5 | Dan Heng - จ้าวยลจันทรา | Dr. Ratio     |           | ผู้บุกเบิก | Welt          | Aventurine | Luocha    |
+| จินตภาพ | 4 |                         | March 7th     |           | Yukong     |               |            |           |
 <!-- CHARACTER_TABLE_END -->
 
 ## คุณสมบัติหลัก

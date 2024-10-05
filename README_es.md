@@ -4,22 +4,22 @@
 
 ## Última Tabla de Personajes
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|            |   | Destrucción                | Cacería        | Erudición | Armonía      | Nihilidad     | Conservación   | Abundancia |
+| ---------- | - | -------------------------- | -------------- | --------- | ------------ | ------------- | -------------- | ---------- |
+| Físico     | 5 | Clara\|Trazacaminos\|Yunli | Boothill       | Argenti   | Robin        |               |                |            |
+| Físico     | 4 |                            | Sushang        |           | Hanya        | Luka          |                | Natasha    |
+| Fuego      | 5 | Luciérnaga                 | Topaz y Conti  | Himeko    |              | Jiaoqiu       | Trazacaminos   | Lingsha    |
+| Fuego      | 4 | Hook                       |                |           | Asta         | Guinaifen     |                | Gallagher  |
+| Hielo      | 5 | Jingliu                    | Yanqing        |           | Ruan Mei     |               | Gepard         |            |
+| Hielo      | 4 | Misha                      |                | Herta     |              | Pela          | Siete de Marzo |            |
+| Rayo       | 5 |                            |                | Jing Yuan |              | Acheron\|Kafka |                | Bailu      |
+| Rayo       | 4 | Arlan                      | Moze           | Serval    | Tingyun      |               |                |            |
+| Viento     | 5 | Blade                      | Feixiao        |           | Bronya       | Cisne Negro   |                | Huohuo     |
+| Viento     | 4 |                            | Dan Heng       |           |              | Sampo         |                |            |
+| Cuántico   | 5 |                            | Seele          | Jade      | Sparkle      | Silver Wolf   | Fu Xuan        |            |
+| Cuántico   | 4 | Xueyi                      |                | Qingque   |              |               |                | Lynx       |
+| Imaginario | 5 | Dan Heng - Imbibitor Lunae | Dr. Ratio      |           | Trazacaminos | Welt          | Aventurino     | Luocha     |
+| Imaginario | 4 |                            | Siete de Marzo |           | Yukong       |               |                |            |
 <!-- CHARACTER_TABLE_END -->
 
 ## Funciones Clave

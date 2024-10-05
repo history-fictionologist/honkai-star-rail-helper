@@ -88,7 +88,12 @@ class CharacterTableBuilder:
         end_marker = "<!-- CHARACTER_TABLE_END -->"
 
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        readme_path = os.path.join(script_dir, "../../README.md")
+        readme_filename = (
+            "../../README_{}.md".format(self.character_builder.language)
+            if self.character_builder.language != CharacterBuilder.DEFAULT_LANGUAGE
+            else "../../README.md"
+        )
+        readme_path = os.path.join(script_dir, readme_filename)
 
         # Read the current README content
         with open(readme_path, "r") as file:

@@ -46,7 +46,8 @@ class CsvHelper:
             data_rows = [
                 "| "
                 + " | ".join(
-                    str(item).ljust(width) for item, width in zip(row, column_widths)
+                    str(item).replace("|", "\|").ljust(width)
+                    for item, width in zip(row, column_widths)
                 )
                 + " |"
                 for row in character_table[1:]

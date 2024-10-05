@@ -4,22 +4,22 @@
 
 ## 최신 캐릭터 테이블
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|    |   | 파멸         | 수렵       | 지식  | 화합  | 공허      | 보존       | 풍요  |
+| -- | - | ---------- | -------- | --- | --- | ------- | -------- | --- |
+| 물리 | 5 | 개척자\|운리\|클라라 | 부트힐      | 아젠티 | 로빈  |         |          |     |
+| 물리 | 4 |            | 소상       |     | 한아  | 루카      |          | 나타샤 |
+| 화염 | 5 | 반디         | 토파즈&복순이  | 히메코 |     | 초구      | 개척자      | 영사  |
+| 화염 | 4 | 후크         |          |     | 아스타 | 계네빈     |          | 갤러거 |
+| 얼음 | 5 | 경류         | 연경       |     | 완•매 |         | 게파드      |     |
+| 얼음 | 4 | 미샤         |          | 헤르타 |     | 페라      | Mar. 7th |     |
+| 번개 | 5 |            |          | 경원  |     | 아케론\|카프카 |          | 백로  |
+| 번개 | 4 | 아를란        | 맥택       | 서벌  | 정운  |         |          |     |
+| 바람 | 5 | 블레이드       | 비소       |     | 브로냐 | 블랙 스완   |          | 곽향  |
+| 바람 | 4 |            | 단항       |     |     | 삼포      |          |     |
+| 양자 | 5 |            | 제레       | 제이드 | 스파클 | 은랑      | 부현       |     |
+| 양자 | 4 | 설의         |          | 청작  |     |         |          | 링스  |
+| 허수 | 5 | 단항•음월      | Dr. 레이시오 |     | 개척자 | 웰트      | 어벤츄린     | 나찰  |
+| 허수 | 4 |            | Mar. 7th |     | 어공  |         |          |     |
 <!-- CHARACTER_TABLE_END -->
 
 ## 주요 기능

@@ -4,22 +4,22 @@
 
 ## 最新のキャラクターテーブル
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|    |   | {RUBY_B#かいめつ}壊滅{RUBY_E#}                          | {RUBY_B#じゅんしゅ}巡狩{RUBY_E#}  | {RUBY_B#ちえ}知恵{RUBY_E#}    | {RUBY_B#ちょうわ}調和{RUBY_E#} | {RUBY_B#きょむ}虚無{RUBY_E#}     | {RUBY_B#そんご}存護{RUBY_E#}    | {RUBY_B#ほうじょう}豊穣{RUBY_E#} |
+| -- | - | ------------------------------------------------- | -------------------------- | ------------------------- | ------------------------ | --------------------------- | -------------------------- | ------------------------- |
+| 物理 | 5 | {RUBY_B#ウンリ}雲璃{RUBY_E#}\|クラーラ\|開拓者                | ブートヒル                      | アルジェンティ                   | ロビン                      |                             |                            |                           |
+| 物理 | 4 |                                                   | {RUBY_B#スショウ}素裳{RUBY_E#}   |                           | {RUBY_B#カンア}寒鴉{RUBY_E#}  | ルカ                          |                            | ナターシャ                     |
+| 炎  | 5 | ホタル                                               | トパーズ&カブ                    | {RUBY_B#ひめこ}姫子{RUBY_E#}   |                          | {RUBY_B#ショウキュウ}椒丘{RUBY_E#}  | 開拓者                        | {RUBY_B#レイサ}霊砂{RUBY_E#}   |
+| 炎  | 4 | フック                                               |                            |                           | アスター                     | {RUBY_B#ケイナイフン}桂乃芬{RUBY_E#} |                            | ギャラガー                     |
+| 氷  | 5 | {RUBY_B#ケイリュウ}鏡流{RUBY_E#}                         | {RUBY_B#ゲンキョウ}彦卿{RUBY_E#}  |                           | ルアン・メェイ                  |                             | ジェパード                      |                           |
+| 氷  | 4 | ミーシャ                                              |                            | ヘルタ                       |                          | ペラ                          | {RUBY_B#みつき}三月{RUBY_E#}なのか |                           |
+| 雷  | 5 |                                                   |                            | {RUBY_B#ケイゲン}景元{RUBY_E#}  |                          | {RUBY_B#よみ}黄泉{RUBY_E#}\|カフカ |                            | {RUBY_B#ビャクロ}白露{RUBY_E#}  |
+| 雷  | 4 | アーラン                                              | モゼ                         | セーバル                      | {RUBY_B#テイウン}停雲{RUBY_E#} |                             |                            |                           |
+| 風  | 5 | {RUBY_B#ジン}刃{RUBY_E#}                             | {RUBY_B#ヒショウ}飛霄{RUBY_E#}   |                           | ブローニャ                    | ブラックスワン                     |                            | フォフォ                      |
+| 風  | 4 |                                                   | {RUBY_B#タンコウ}丹恒{RUBY_E#}   |                           |                          | サンポ                         |                            |                           |
+| 量子 | 5 |                                                   | ゼーレ                        | ジェイド                      | {RUBY_B#はなび}花火{RUBY_E#}  | {RUBY_B#ぎんろう}銀狼{RUBY_E#}    | {RUBY_B#フゲン}符玄{RUBY_E#}    |                           |
+| 量子 | 4 | {RUBY_B#セツイ}雪衣{RUBY_E#}                           |                            | {RUBY_B#セイジャク}青雀{RUBY_E#} |                          |                             |                            | リンクス                      |
+| 虚数 | 5 | {RUBY_B#タンコウ}丹恒{RUBY_E#}・{RUBY_B#インゲツ}飲月{RUBY_E#} | Dr.レイシオ                    |                           | 開拓者                      | ヴェルト                        | アベンチュリン                    | {RUBY_B#ラセツ}羅刹{RUBY_E#}   |
+| 虚数 | 4 |                                                   | {RUBY_B#みつき}三月{RUBY_E#}なのか |                           | {RUBY_B#ギョクウ}御空{RUBY_E#} |                             |                            |                           |
 <!-- CHARACTER_TABLE_END -->
 
 ## 主な機能

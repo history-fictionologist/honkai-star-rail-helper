@@ -4,22 +4,22 @@
 
 ## Bảng Nhân Vật Mới Nhất
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|          |   | Hủy Diệt                 | Săn Bắn       | Tri Thức  | Hòa Hợp      | Hư Vô         | Bảo Hộ       | Trù Phú   |
+| -------- | - | ------------------------ | ------------- | --------- | ------------ | ------------- | ------------ | --------- |
+| Vật Lý   | 5 | Clara\|Nhà Khai Phá\|Yunli | Boothill      | Argenti   | Robin        |               |              |           |
+| Vật Lý   | 4 |                          | Sushang       |           | Hanya        | Luka          |              | Natasha   |
+| Hỏa      | 5 | Firefly                  | Topaz & Numby | Himeko    |              | Jiaoqiu       | Nhà Khai Phá | Lingsha   |
+| Hỏa      | 4 | Hook                     |               |           | Asta         | Guinaifen     |              | Gallagher |
+| Băng     | 5 | Jingliu                  | Yanqing       |           | Ruan Mei     |               | Gepard       |           |
+| Băng     | 4 | Misha                    |               | Herta     |              | Pela          | March 7th    |           |
+| Lôi      | 5 |                          |               | Jing Yuan |              | Acheron\|Kafka |              | Bailu     |
+| Lôi      | 4 | Arlan                    | Moze          | Serval    | Tingyun      |               |              |           |
+| Phong    | 5 | Blade                    | Feixiao       |           | Bronya       | Black Swan    |              | Huohuo    |
+| Phong    | 4 |                          | Dan Heng      |           |              | Sampo         |              |           |
+| Lượng Tử | 5 |                          | Seele         | Jade      | Sparkle      | Sói Bạc       | Fu Xuan      |           |
+| Lượng Tử | 4 | Xueyi                    |               | Qingque   |              |               |              | Lynx      |
+| Số Ảo    | 5 | Dan Heng - Ẩm Nguyệt     | Dr. Ratio     |           | Nhà Khai Phá | Welt          | Aventurine   | Luocha    |
+| Số Ảo    | 4 |                          | March 7th     |           | Yukong       |               |              |           |
 <!-- CHARACTER_TABLE_END -->
 
 ## Tính Năng Chính

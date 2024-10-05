@@ -29,7 +29,7 @@ def run(version: int, skip_download: bool = False, languages: list = None) -> No
 
         character_table_builder = CharacterTableBuilder(character_builder, csv_helper)
         character_table_builder.write_character_table()
-        # character_table_builder.update_character_table()
+        character_table_builder.update_character_table()
 
         skill_set_builder = SkillSetBuilder(json_helper, language)
         skill_set_builder.write_skill_sets()

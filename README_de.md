@@ -4,22 +4,22 @@
 
 ## Neueste Charaktertabelle
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|          |   | Die Zerstörung             | Die Jagd       | Die Gelehrsamkeit | Die Harmonie | Die Nichtigkeit  | Die Bewahrung | Der Überfluss |
+| -------- | - | -------------------------- | -------------- | ----------------- | ------------ | ---------------- | ------------- | ------------- |
+| Physisch | 5 | Clara\|Trailblazer\|Yunli  | Boothill       | Argenti           | Robin        |                  |               |               |
+| Physisch | 4 |                            | Sushang        |                   | Hanya        | Luka             |               | Natasha       |
+| Feuer    | 5 | Glühwürmchen               | Topaz & Kontie | Himeko            |              | Jiaoqiu          | Trailblazer   | Lingsha       |
+| Feuer    | 4 | Hook                       |                |                   | Asta         | Guinaifen        |               | Gallagher     |
+| Eis      | 5 | Jingliu                    | Yanqing        |                   | Ruan Mei     |                  | Gepard        |               |
+| Eis      | 4 | Misha                      |                | Herta             |              | Pela             | 7. März       |               |
+| Blitz    | 5 |                            |                | Jing Yuan         |              | Acheron\|Kafka   |               | Bailu         |
+| Blitz    | 4 | Arlan                      | Moze           | Serval            | Tingyun      |                  |               |               |
+| Wind     | 5 | Blade                      | Feixiao        |                   | Bronya       | Schwarzer Schwan |               | Huohuo        |
+| Wind     | 4 |                            | Dan Heng       |                   |              | Sampo            |               |               |
+| Quanten  | 5 |                            | Seele          | Jade              | Sparkle      | Silberwolf       | Fu Xuan       |               |
+| Quanten  | 4 | Xueyi                      |                | Qingque           |              |                  |               | Lynx          |
+| Imaginär | 5 | Dan Heng – Imbibitor Lunae | Dr. Wahrheit   |                   | Trailblazer  | Welt             | Aventurin     | Luocha        |
+| Imaginär | 4 |                            | 7. März        |                   | Yukong       |                  |               |               |
 <!-- CHARACTER_TABLE_END -->
 
 ## Hauptmerkmale

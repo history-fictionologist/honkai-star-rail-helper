@@ -4,22 +4,22 @@
 
 ## 最新角色表
 <!-- CHARACTER_TABLE_START -->
-| DAMAGE_TYPE | RARITY | DESTRUCTION               | THE_HUNT  | ERUDITION | HARMONY   | NIHILITY                  | PRESERVATION       | ABUNDANCE  |
-|-------------|--------|---------------------------|-----------|-----------|-----------|---------------------------|--------------------|------------|
-| PHYSICAL    | 5      | clara\|player\|yunli      | boothill  | argenti   | robin     |                           |                    |            |
-| PHYSICAL    | 4      |                           | sushang   |           | hanya     | luka                      |                    | natasha    |
-| FIRE        | 5      | sam                       | topaz     | himeko    |           | jiaoqiu                   | player2            | lingsha    |
-| FIRE        | 4      | hook                      |           |           | asta      | guinaifen                 |                    | gallagher  |
-| ICE         | 5      | jingliu                   | yanqing   |           | ruanmei   |                           | gepard             |            |
-| ICE         | 4      | misha                     |           | herta     |           | pela                      | mar7th             |            |
-| LIGHTENING  | 5      |                           |           | jingyuan  |           | acheron\|kafka            |                    | bailu      |
-| LIGHTENING  | 4      | arlan                     | moze      | serval    | tingyun   |                           |                    |            |
-| WIND        | 5      | blade                     | feixiao   |           | bronya    | blackswann                |                    | huohuo     |
-| WIND        | 4      |                           | danheng   |           |           | sampo                     |                    |            |
-| QUANTUM     | 5      |                           | seele     | jade      | sparkle   | silverwolf                | fuxuan             |            |
-| QUANTUM     | 4      | xueyi                     |           | qingque   |           |                           |                    | lynx       |
-| IMAGINARY   | 5      | danhengil                 | drratio   |           | player3   | welt                      | aventurine         | luocha     |
-| IMAGINARY   | 4      |                           | mar7th2   |           | yukong    |                           |                    |            |
+|    |   | 毀滅         | 巡獵    | 智識  | 同諧   | 虛無     | 存護  | 豐饒  |
+| -- | - | ---------- | ----- | --- | ---- | ------ | --- | --- |
+| 物理 | 5 | 克拉拉\|開拓者\|雲璃 | 波提歐   | 銀枝  | 知更鳥  |        |     |     |
+| 物理 | 4 |            | 素裳    |     | 寒鴉   | 盧卡     |     | 娜塔莎 |
+| 火  | 5 | 流螢         | 托帕&帳帳 | 姬子  |      | 椒丘     | 開拓者 | 靈砂  |
+| 火  | 4 | 虎克         |       |     | 艾絲妲  | 桂乃芬    |     | 加拉赫 |
+| 冰  | 5 | 鏡流         | 彥卿    |     | 阮•梅  |        | 傑帕德 |     |
+| 冰  | 4 | 米沙         |       | 黑塔  |      | 佩拉     | 三月七 |     |
+| 雷  | 5 |            |       | 景元  |      | 卡芙卡\|黃泉 |     | 白露  |
+| 雷  | 4 | 阿蘭         | 貊澤    | 希露瓦 | 停雲   |        |     |     |
+| 風  | 5 | 刃          | 飛霄    |     | 布洛妮婭 | 黑天鵝    |     | 藿藿  |
+| 風  | 4 |            | 丹恆    |     |      | 桑博     |     |     |
+| 量子 | 5 |            | 希兒    | 翡翠  | 花火   | 銀狼     | 符玄  |     |
+| 量子 | 4 | 雪衣         |       | 青雀  |      |        |     | 玲可  |
+| 虛數 | 5 | 丹恆•飲月      | 真理醫生  |     | 開拓者  | 瓦爾特    | 砂金  | 羅剎  |
+| 虛數 | 4 |            | 三月七   |     | 馭空   |        |     |     |
 <!-- CHARACTER_TABLE_END -->
 
 ## 主要功能
